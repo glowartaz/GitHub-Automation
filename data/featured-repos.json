@@ -1,5 +1,95 @@
 {
   "schema_version": 1,
-  "repositories": []
+  "repositories": [
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk1NDM0Njc5OQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk1NDM0Njc5OQ==",
+      "full_name": "public-apis/public-apis",
+      "source_full_name": "public-apis/public-apis",
+      "featured_at": "2026-08-15T19:51:37.176293+00:00",
+      "run_id": "2026-08-15",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSEljpA",
+      "source_node_id": "R_kgDOSEljpA",
+      "full_name": "cathrynlavery/diagram-design",
+      "source_full_name": "cathrynlavery/diagram-design",
+      "featured_at": "2026-08-15T19:51:37.176317+00:00",
+      "run_id": "2026-08-15",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOPiFCnQ",
+      "source_node_id": "R_kgDOPiFCnQ",
+      "full_name": "github/spec-kit",
+      "source_full_name": "github/spec-kit",
+      "featured_at": "2026-08-15T19:51:37.176328+00:00",
+      "run_id": "2026-08-15",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOHWhUTA",
+      "source_node_id": "R_kgDOHWhUTA",
+      "full_name": "cordiverse/cordis",
+      "source_full_name": "cordiverse/cordis",
+      "featured_at": "2026-08-15T19:51:37.176336+00:00",
+      "run_id": "2026-08-15",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNTI5MzMxNDA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNTI5MzMxNDA=",
+      "full_name": "ToolJet/ToolJet",
+      "source_full_name": "ToolJet/ToolJet",
+      "featured_at": "2026-08-15T19:51:37.176343+00:00",
+      "run_id": "2026-08-15",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORXYBqA",
+      "source_node_id": "R_kgDORXYBqA",
+      "full_name": "cactus-compute/needle",
+      "source_full_name": "cactus-compute/needle",
+      "featured_at": "2026-08-15T19:51:37.176349+00:00",
+      "run_id": "2026-08-15",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOSEVU0g",
+      "source_node_id": "R_kgDOSEVU0g",
+      "full_name": "citrolabs/ego-lite",
+      "source_full_name": "citrolabs/ego-lite",
+      "featured_at": "2026-08-15T19:51:37.176355+00:00",
+      "run_id": "2026-08-15",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDORV5N0w",
+      "source_node_id": "R_kgDORV5N0w",
+      "full_name": "liustack/modlens",
+      "source_full_name": "liustack/modlens",
+      "featured_at": "2026-08-15T19:51:37.176361+00:00",
+      "run_id": "2026-08-15",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOPbFNkw",
+      "source_node_id": "R_kgDOPbFNkw",
+      "full_name": "earendil-works/pi",
+      "source_full_name": "earendil-works/pi",
+      "featured_at": "2026-08-15T19:51:37.176367+00:00",
+      "run_id": "2026-08-15",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOPBmB5g",
+      "source_node_id": "R_kgDOPBmB5g",
+      "full_name": "semantica-agi/semantica",
+      "source_full_name": "semantica-agi/semantica",
+      "featured_at": "2026-08-15T19:51:37.176374+00:00",
+      "run_id": "2026-08-15",
+      "rank": 10
+    }
+  ]
 }
-
