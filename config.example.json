@@ -1,0 +1,18 @@
+{
+  "max_repos": 10,
+  "candidate_limit": 60,
+  "trending_languages": ["", "python", "javascript", "typescript", "rust", "go"],
+  "openai_model": "gpt-5-mini",
+  "max_readme_chars": 50000,
+  "max_images_per_repo": 6,
+  "max_image_bytes": 8000000,
+  "request_timeout_seconds": 20,
+  "image_hosts": [
+    "github.com",
+    "raw.githubusercontent.com",
+    "user-images.githubusercontent.com",
+    "repository-images.githubusercontent.com",
+    "camo.githubusercontent.com",
+    "avatars.githubusercontent.com"
+  ]
+}
