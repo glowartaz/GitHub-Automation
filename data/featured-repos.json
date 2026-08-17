@@ -180,6 +180,96 @@
       "featured_at": "2026-08-16T13:37:06.764548+00:00",
       "run_id": "2026-08-16",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOO_yqIA",
+      "source_node_id": "R_kgDOO_yqIA",
+      "full_name": "OpenCut-app/OpenCut",
+      "source_full_name": "OpenCut-app/OpenCut",
+      "featured_at": "2026-08-17T13:51:55.442565+00:00",
+      "run_id": "2026-08-17",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSMMWEA",
+      "source_node_id": "R_kgDOSMMWEA",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "source_full_name": "freestylefly/awesome-gpt-image-2",
+      "featured_at": "2026-08-17T13:51:55.442587+00:00",
+      "run_id": "2026-08-17",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOR0bkcQ",
+      "source_node_id": "R_kgDOR0bkcQ",
+      "full_name": "titanwings/colleague-skill",
+      "source_full_name": "titanwings/colleague-skill",
+      "featured_at": "2026-08-17T13:51:55.442598+00:00",
+      "run_id": "2026-08-17",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk5MjgwNzYxNg==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk5MjgwNzYxNg==",
+      "full_name": "byoungd/up",
+      "source_full_name": "byoungd/up",
+      "featured_at": "2026-08-17T13:51:55.442606+00:00",
+      "run_id": "2026-08-17",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOM_t66Q",
+      "source_node_id": "R_kgDOM_t66Q",
+      "full_name": "D4Vinci/Scrapling",
+      "source_full_name": "D4Vinci/Scrapling",
+      "featured_at": "2026-08-17T13:51:55.442613+00:00",
+      "run_id": "2026-08-17",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNjIyNzk4MjI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNjIyNzk4MjI=",
+      "full_name": "agalwood/Motrix",
+      "source_full_name": "agalwood/Motrix",
+      "featured_at": "2026-08-17T13:51:55.442619+00:00",
+      "run_id": "2026-08-17",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMDcyNjAyMDU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMDcyNjAyMDU=",
+      "full_name": "yt-dlp/yt-dlp",
+      "source_full_name": "yt-dlp/yt-dlp",
+      "featured_at": "2026-08-17T13:51:55.442626+00:00",
+      "run_id": "2026-08-17",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNDk5OTU3NTA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNDk5OTU3NTA=",
+      "full_name": "amruthpillai/reactive-resume",
+      "source_full_name": "amruthpillai/reactive-resume",
+      "featured_at": "2026-08-17T13:51:55.442632+00:00",
+      "run_id": "2026-08-17",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQz3Myg",
+      "source_node_id": "R_kgDOQz3Myg",
+      "full_name": "volcengine/OpenViking",
+      "source_full_name": "volcengine/OpenViking",
+      "featured_at": "2026-08-17T13:51:55.442638+00:00",
+      "run_id": "2026-08-17",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDORXdnlQ",
+      "source_node_id": "R_kgDORXdnlQ",
+      "full_name": "bjarneo/cliamp",
+      "source_full_name": "bjarneo/cliamp",
+      "featured_at": "2026-08-17T13:51:55.442643+00:00",
+      "run_id": "2026-08-17",
+      "rank": 10
     }
   ]
 }
