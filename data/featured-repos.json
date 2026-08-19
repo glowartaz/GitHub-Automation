@@ -360,6 +360,96 @@
       "featured_at": "2026-08-18T13:48:17.795552+00:00",
       "run_id": "2026-08-18",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORh2H-Q",
+      "source_node_id": "R_kgDORh2H-Q",
+      "full_name": "NawfalMotii79/PLFM_RADAR",
+      "source_full_name": "NawfalMotii79/PLFM_RADAR",
+      "featured_at": "2026-08-19T13:50:01.472291+00:00",
+      "run_id": "2026-08-19",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDORqec6w",
+      "source_node_id": "R_kgDORqec6w",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "source_full_name": "MadsLorentzen/ai-job-search",
+      "featured_at": "2026-08-19T13:50:01.472316+00:00",
+      "run_id": "2026-08-19",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOQ6n2Jw",
+      "source_node_id": "R_kgDOQ6n2Jw",
+      "full_name": "coreyhaines31/marketingskills",
+      "source_full_name": "coreyhaines31/marketingskills",
+      "featured_at": "2026-08-19T13:50:01.472325+00:00",
+      "run_id": "2026-08-19",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOMT5TYA",
+      "source_node_id": "R_kgDOMT5TYA",
+      "full_name": "docling-project/docling",
+      "source_full_name": "docling-project/docling",
+      "featured_at": "2026-08-19T13:50:01.472331+00:00",
+      "run_id": "2026-08-19",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOQqyBLg",
+      "source_node_id": "R_kgDOQqyBLg",
+      "full_name": "Wei-Shaw/sub2api",
+      "source_full_name": "Wei-Shaw/sub2api",
+      "featured_at": "2026-08-19T13:50:01.472336+00:00",
+      "run_id": "2026-08-19",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOPng1Jw",
+      "source_node_id": "R_kgDOPng1Jw",
+      "full_name": "thedotmack/claude-mem",
+      "source_full_name": "thedotmack/claude-mem",
+      "featured_at": "2026-08-19T13:50:01.472341+00:00",
+      "run_id": "2026-08-19",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQ__jdA",
+      "source_node_id": "R_kgDOQ__jdA",
+      "full_name": "mvanhorn/last30days-skill",
+      "source_full_name": "mvanhorn/last30days-skill",
+      "featured_at": "2026-08-19T13:50:01.472346+00:00",
+      "run_id": "2026-08-19",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDON91aYw",
+      "source_node_id": "R_kgDON91aYw",
+      "full_name": "anthropics/claude-code",
+      "source_full_name": "anthropics/claude-code",
+      "featured_at": "2026-08-19T13:50:01.472351+00:00",
+      "run_id": "2026-08-19",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOSAP_Zw",
+      "source_node_id": "R_kgDOSAP_Zw",
+      "full_name": "browser-use/video-use",
+      "source_full_name": "browser-use/video-use",
+      "featured_at": "2026-08-19T13:50:01.472356+00:00",
+      "run_id": "2026-08-19",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOQ648yg",
+      "source_node_id": "R_kgDOQ648yg",
+      "full_name": "jlcodes99/cockpit-tools",
+      "source_full_name": "jlcodes99/cockpit-tools",
+      "featured_at": "2026-08-19T13:50:01.472361+00:00",
+      "run_id": "2026-08-19",
+      "rank": 10
     }
   ]
 }
