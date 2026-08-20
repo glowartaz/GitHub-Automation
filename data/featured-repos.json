@@ -450,6 +450,96 @@
       "featured_at": "2026-08-19T13:50:01.472361+00:00",
       "run_id": "2026-08-19",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORHkddg",
+      "source_node_id": "R_kgDORHkddg",
+      "full_name": "mattpocock/skills",
+      "source_full_name": "mattpocock/skills",
+      "featured_at": "2026-08-20T13:53:03.823580+00:00",
+      "run_id": "2026-08-20",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSmXwow",
+      "source_node_id": "R_kgDOSmXwow",
+      "full_name": "AprilNEA/OpenLogi",
+      "source_full_name": "AprilNEA/OpenLogi",
+      "featured_at": "2026-08-20T13:53:03.823601+00:00",
+      "run_id": "2026-08-20",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORxT0Ng",
+      "source_node_id": "R_kgDORxT0Ng",
+      "full_name": "RyanCodrai/turbovec",
+      "source_full_name": "RyanCodrai/turbovec",
+      "featured_at": "2026-08-20T13:53:03.823609+00:00",
+      "run_id": "2026-08-20",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOS4HNrw",
+      "source_node_id": "R_kgDOS4HNrw",
+      "full_name": "DietrichGebert/ponytail",
+      "source_full_name": "DietrichGebert/ponytail",
+      "featured_at": "2026-08-20T13:53:03.823615+00:00",
+      "run_id": "2026-08-20",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOQpkSKQ",
+      "source_node_id": "R_kgDOQpkSKQ",
+      "full_name": "mahlernim/google-timeline-visualizer",
+      "source_full_name": "mahlernim/google-timeline-visualizer",
+      "featured_at": "2026-08-20T13:53:03.823620+00:00",
+      "run_id": "2026-08-20",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOP_gcWw",
+      "source_node_id": "R_kgDOP_gcWw",
+      "full_name": "obra/superpowers",
+      "source_full_name": "obra/superpowers",
+      "featured_at": "2026-08-20T13:53:03.823625+00:00",
+      "run_id": "2026-08-20",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQ_aGvg",
+      "source_node_id": "R_kgDOQ_aGvg",
+      "full_name": "cursor/plugins",
+      "source_full_name": "cursor/plugins",
+      "featured_at": "2026-08-20T13:53:03.823629+00:00",
+      "run_id": "2026-08-20",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOQWgufQ",
+      "source_node_id": "R_kgDOQWgufQ",
+      "full_name": "pbakaus/impeccable",
+      "source_full_name": "pbakaus/impeccable",
+      "featured_at": "2026-08-20T13:53:03.823634+00:00",
+      "run_id": "2026-08-20",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORUQ5bw",
+      "source_node_id": "R_kgDORUQ5bw",
+      "full_name": "Leonxlnx/taste-skill",
+      "source_full_name": "Leonxlnx/taste-skill",
+      "featured_at": "2026-08-20T13:53:03.823638+00:00",
+      "run_id": "2026-08-20",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOSpfFGg",
+      "source_node_id": "R_kgDOSpfFGg",
+      "full_name": "apache/maka",
+      "source_full_name": "apache/maka",
+      "featured_at": "2026-08-20T13:53:03.823642+00:00",
+      "run_id": "2026-08-20",
+      "rank": 10
     }
   ]
 }
