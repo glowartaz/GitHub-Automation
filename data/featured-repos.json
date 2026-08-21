@@ -540,6 +540,96 @@
       "featured_at": "2026-08-20T13:53:03.823642+00:00",
       "run_id": "2026-08-20",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOJcq7QA",
+      "source_node_id": "R_kgDOJcq7QA",
+      "full_name": "modular/modular",
+      "source_full_name": "modular/modular",
+      "featured_at": "2026-08-21T13:50:07.251831+00:00",
+      "run_id": "2026-08-21",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOR5h10Q",
+      "source_node_id": "R_kgDOR5h10Q",
+      "full_name": "JuliusBrussee/caveman",
+      "source_full_name": "JuliusBrussee/caveman",
+      "featured_at": "2026-08-21T13:50:07.251854+00:00",
+      "run_id": "2026-08-21",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOIdx9Rg",
+      "source_node_id": "R_kgDOIdx9Rg",
+      "full_name": "makeplane/plane",
+      "source_full_name": "makeplane/plane",
+      "featured_at": "2026-08-21T13:50:07.251865+00:00",
+      "run_id": "2026-08-21",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNDQ4MDI2MDM=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNDQ4MDI2MDM=",
+      "full_name": "marceloprates/prettymaps",
+      "source_full_name": "marceloprates/prettymaps",
+      "featured_at": "2026-08-21T13:50:07.251872+00:00",
+      "run_id": "2026-08-21",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDONiCg_A",
+      "source_node_id": "R_kgDONiCg_A",
+      "full_name": "Tencent/AI-Infra-Guard",
+      "source_full_name": "Tencent/AI-Infra-Guard",
+      "featured_at": "2026-08-21T13:50:07.251879+00:00",
+      "run_id": "2026-08-21",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMzU5MDE4MTM=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMzU5MDE4MTM=",
+      "full_name": "PostHog/posthog",
+      "source_full_name": "PostHog/posthog",
+      "featured_at": "2026-08-21T13:50:07.251886+00:00",
+      "run_id": "2026-08-21",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQ77-1A",
+      "source_node_id": "R_kgDOQ77-1A",
+      "full_name": "affaan-m/ECC",
+      "source_full_name": "affaan-m/ECC",
+      "featured_at": "2026-08-21T13:50:07.251892+00:00",
+      "run_id": "2026-08-21",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOS2N8mQ",
+      "source_node_id": "R_kgDOS2N8mQ",
+      "full_name": "chuspeeism/dashi-ppt-skill",
+      "source_full_name": "chuspeeism/dashi-ppt-skill",
+      "featured_at": "2026-08-21T13:50:07.251898+00:00",
+      "run_id": "2026-08-21",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOSYR4sQ",
+      "source_node_id": "R_kgDOSYR4sQ",
+      "full_name": "bookorbit/bookorbit",
+      "source_full_name": "bookorbit/bookorbit",
+      "featured_at": "2026-08-21T13:50:07.251904+00:00",
+      "run_id": "2026-08-21",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOScsbIw",
+      "source_node_id": "R_kgDOScsbIw",
+      "full_name": "agent-substrate/substrate",
+      "source_full_name": "agent-substrate/substrate",
+      "featured_at": "2026-08-21T13:50:07.251910+00:00",
+      "run_id": "2026-08-21",
+      "rank": 10
     }
   ]
 }
