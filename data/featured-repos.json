@@ -630,6 +630,96 @@
       "featured_at": "2026-08-21T13:50:07.251910+00:00",
       "run_id": "2026-08-21",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOOYsS4Q",
+      "source_node_id": "R_kgDOOYsS4Q",
+      "full_name": "openai/codex",
+      "source_full_name": "openai/codex",
+      "featured_at": "2026-08-22T13:36:46.539881+00:00",
+      "run_id": "2026-08-22",
+      "rank": 1
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMjQ4NDM4MQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMjQ4NDM4MQ==",
+      "full_name": "ripienaar/free-for-dev",
+      "source_full_name": "ripienaar/free-for-dev",
+      "featured_at": "2026-08-22T13:36:46.539903+00:00",
+      "run_id": "2026-08-22",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORPf6yg",
+      "source_node_id": "R_kgDORPf6yg",
+      "full_name": "diegosouzapw/OmniRoute",
+      "source_full_name": "diegosouzapw/OmniRoute",
+      "featured_at": "2026-08-22T13:36:46.539912+00:00",
+      "run_id": "2026-08-22",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDORCCMkQ",
+      "source_node_id": "R_kgDORCCMkQ",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "source_full_name": "multica-ai/andrej-karpathy-skills",
+      "featured_at": "2026-08-22T13:36:46.539918+00:00",
+      "run_id": "2026-08-22",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOR4-pDw",
+      "source_node_id": "R_kgDOR4-pDw",
+      "full_name": "Graphify-Labs/graphify",
+      "source_full_name": "Graphify-Labs/graphify",
+      "featured_at": "2026-08-22T13:36:46.539923+00:00",
+      "run_id": "2026-08-22",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOPRF1Gw",
+      "source_node_id": "R_kgDOPRF1Gw",
+      "full_name": "NousResearch/hermes-agent",
+      "source_full_name": "NousResearch/hermes-agent",
+      "featured_at": "2026-08-22T13:36:46.539928+00:00",
+      "run_id": "2026-08-22",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOOiiGLw",
+      "source_node_id": "R_kgDOOiiGLw",
+      "full_name": "anomalyco/opencode",
+      "source_full_name": "anomalyco/opencode",
+      "featured_at": "2026-08-22T13:36:46.539933+00:00",
+      "run_id": "2026-08-22",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDORXS4VA",
+      "source_node_id": "R_kgDORXS4VA",
+      "full_name": "Panniantong/Agent-Reach",
+      "source_full_name": "Panniantong/Agent-Reach",
+      "featured_at": "2026-08-22T13:36:46.539938+00:00",
+      "run_id": "2026-08-22",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOSIqPOQ",
+      "source_node_id": "R_kgDOSIqPOQ",
+      "full_name": "tashfeenahmed/freellmapi",
+      "source_full_name": "tashfeenahmed/freellmapi",
+      "featured_at": "2026-08-22T13:36:46.539943+00:00",
+      "run_id": "2026-08-22",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOQxs0bQ",
+      "source_node_id": "R_kgDOQxs0bQ",
+      "full_name": "can1357/oh-my-pi",
+      "source_full_name": "can1357/oh-my-pi",
+      "featured_at": "2026-08-22T13:36:46.539948+00:00",
+      "run_id": "2026-08-22",
+      "rank": 10
     }
   ]
 }
