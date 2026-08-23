@@ -720,6 +720,96 @@
       "featured_at": "2026-08-22T13:36:46.539948+00:00",
       "run_id": "2026-08-22",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORDf_4w",
+      "source_node_id": "R_kgDORDf_4w",
+      "full_name": "Alishahryar1/free-claude-code",
+      "source_full_name": "Alishahryar1/free-claude-code",
+      "featured_at": "2026-08-23T13:39:55.763193+00:00",
+      "run_id": "2026-08-23",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDORgXb2g",
+      "source_node_id": "R_kgDORgXb2g",
+      "full_name": "block/buzz",
+      "source_full_name": "block/buzz",
+      "featured_at": "2026-08-23T13:39:55.763221+00:00",
+      "run_id": "2026-08-23",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxOTMyMTU1NTQ=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxOTMyMTU1NTQ=",
+      "full_name": "n8n-io/n8n",
+      "source_full_name": "n8n-io/n8n",
+      "featured_at": "2026-08-23T13:39:55.763233+00:00",
+      "run_id": "2026-08-23",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOSRUoTw",
+      "source_node_id": "R_kgDOSRUoTw",
+      "full_name": "virgiliojr94/book-to-skill",
+      "source_full_name": "virgiliojr94/book-to-skill",
+      "featured_at": "2026-08-23T13:39:55.763240+00:00",
+      "run_id": "2026-08-23",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOQKmL8Q",
+      "source_node_id": "R_kgDOQKmL8Q",
+      "full_name": "VoltAgent/awesome-agent-skills",
+      "source_full_name": "VoltAgent/awesome-agent-skills",
+      "featured_at": "2026-08-23T13:39:55.763247+00:00",
+      "run_id": "2026-08-23",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORr03Lg",
+      "source_node_id": "R_kgDORr03Lg",
+      "full_name": "anthropics/claude-plugins-community",
+      "source_full_name": "anthropics/claude-plugins-community",
+      "featured_at": "2026-08-23T13:39:55.763254+00:00",
+      "run_id": "2026-08-23",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQwCHGA",
+      "source_node_id": "R_kgDOQwCHGA",
+      "full_name": "AnmolSaini16/mapcn",
+      "source_full_name": "AnmolSaini16/mapcn",
+      "featured_at": "2026-08-23T13:39:55.763260+00:00",
+      "run_id": "2026-08-23",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOIygeJg",
+      "source_node_id": "R_kgDOIygeJg",
+      "full_name": "Comfy-Org/ComfyUI",
+      "source_full_name": "Comfy-Org/ComfyUI",
+      "featured_at": "2026-08-23T13:39:55.763267+00:00",
+      "run_id": "2026-08-23",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMDkyOTAyNQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMDkyOTAyNQ==",
+      "full_name": "microsoft/TypeScript",
+      "source_full_name": "microsoft/TypeScript",
+      "featured_at": "2026-08-23T13:39:55.763273+00:00",
+      "run_id": "2026-08-23",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOL5OWWw",
+      "source_node_id": "R_kgDOL5OWWw",
+      "full_name": "unclecode/crawl4ai",
+      "source_full_name": "unclecode/crawl4ai",
+      "featured_at": "2026-08-23T13:39:55.763279+00:00",
+      "run_id": "2026-08-23",
+      "rank": 10
     }
   ]
 }
