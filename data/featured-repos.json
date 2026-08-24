@@ -810,6 +810,96 @@
       "featured_at": "2026-08-23T13:39:55.763279+00:00",
       "run_id": "2026-08-23",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOS4xLOw",
+      "source_node_id": "R_kgDOS4xLOw",
+      "full_name": "vorssaint/vorssaint-utils",
+      "source_full_name": "vorssaint/vorssaint-utils",
+      "featured_at": "2026-08-24T14:01:50.071487+00:00",
+      "run_id": "2026-08-24",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDORpCz1g",
+      "source_node_id": "R_kgDORpCz1g",
+      "full_name": "stablyai/orca",
+      "source_full_name": "stablyai/orca",
+      "featured_at": "2026-08-24T14:01:50.071509+00:00",
+      "run_id": "2026-08-24",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORTXxrg",
+      "source_node_id": "R_kgDORTXxrg",
+      "full_name": "tinyhumansai/openhuman",
+      "source_full_name": "tinyhumansai/openhuman",
+      "featured_at": "2026-08-24T14:01:50.071518+00:00",
+      "run_id": "2026-08-24",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDORz_BDQ",
+      "source_node_id": "R_kgDORz_BDQ",
+      "full_name": "calesthio/OpenMontage",
+      "source_full_name": "calesthio/OpenMontage",
+      "featured_at": "2026-08-24T14:01:50.071524+00:00",
+      "run_id": "2026-08-24",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORqqs2A",
+      "source_node_id": "R_kgDORqqs2A",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "source_full_name": "rohitg00/ai-engineering-from-scratch",
+      "featured_at": "2026-08-24T14:01:50.071529+00:00",
+      "run_id": "2026-08-24",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOR76PpQ",
+      "source_node_id": "R_kgDOR76PpQ",
+      "full_name": "AgriciDaniel/claude-obsidian",
+      "source_full_name": "AgriciDaniel/claude-obsidian",
+      "featured_at": "2026-08-24T14:01:50.071534+00:00",
+      "run_id": "2026-08-24",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOPTymlQ",
+      "source_node_id": "R_kgDOPTymlQ",
+      "full_name": "langchain-ai/deepagents",
+      "source_full_name": "langchain-ai/deepagents",
+      "featured_at": "2026-08-24T14:01:50.071538+00:00",
+      "run_id": "2026-08-24",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOLj5faA",
+      "source_node_id": "R_kgDOLj5faA",
+      "full_name": "marin-community/marin",
+      "source_full_name": "marin-community/marin",
+      "featured_at": "2026-08-24T14:01:50.071543+00:00",
+      "run_id": "2026-08-24",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORi26-Q",
+      "source_node_id": "R_kgDORi26-Q",
+      "full_name": "heygen-com/hyperframes",
+      "source_full_name": "heygen-com/hyperframes",
+      "featured_at": "2026-08-24T14:01:50.071548+00:00",
+      "run_id": "2026-08-24",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMjE4OTg3MTc=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMjE4OTg3MTc=",
+      "full_name": "dani-garcia/vaultwarden",
+      "source_full_name": "dani-garcia/vaultwarden",
+      "featured_at": "2026-08-24T14:01:50.071552+00:00",
+      "run_id": "2026-08-24",
+      "rank": 10
     }
   ]
 }
