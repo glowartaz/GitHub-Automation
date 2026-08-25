@@ -900,6 +900,96 @@
       "featured_at": "2026-08-24T14:01:50.071552+00:00",
       "run_id": "2026-08-24",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOQb6kRw",
+      "source_node_id": "R_kgDOQb6kRw",
+      "full_name": "openclaw/openclaw",
+      "source_full_name": "openclaw/openclaw",
+      "featured_at": "2026-08-25T13:57:33.661899+00:00",
+      "run_id": "2026-08-25",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDORRCyRw",
+      "source_node_id": "R_kgDORRCyRw",
+      "full_name": "addyosmani/agent-skills",
+      "source_full_name": "addyosmani/agent-skills",
+      "featured_at": "2026-08-25T13:57:33.661927+00:00",
+      "run_id": "2026-08-25",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDONjF_4A",
+      "source_node_id": "R_kgDONjF_4A",
+      "full_name": "TauricResearch/TradingAgents",
+      "source_full_name": "TauricResearch/TradingAgents",
+      "featured_at": "2026-08-25T13:57:33.661938+00:00",
+      "run_id": "2026-08-25",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOL0nxgA",
+      "source_node_id": "R_kgDOL0nxgA",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "source_full_name": "Shubhamsaboo/awesome-llm-apps",
+      "featured_at": "2026-08-25T13:57:33.661944+00:00",
+      "run_id": "2026-08-25",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOQzaUZw",
+      "source_node_id": "R_kgDOQzaUZw",
+      "full_name": "asciimoo/hister",
+      "source_full_name": "asciimoo/hister",
+      "featured_at": "2026-08-25T13:57:33.661950+00:00",
+      "run_id": "2026-08-25",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOS-CukQ",
+      "source_node_id": "R_kgDOS-CukQ",
+      "full_name": "shy3130/tick-stock-panel",
+      "source_full_name": "shy3130/tick-stock-panel",
+      "featured_at": "2026-08-25T13:57:33.661956+00:00",
+      "run_id": "2026-08-25",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOJg7yeg",
+      "source_node_id": "R_kgDOJg7yeg",
+      "full_name": "Anil-matcha/Open-Generative-AI",
+      "source_full_name": "Anil-matcha/Open-Generative-AI",
+      "featured_at": "2026-08-25T13:57:33.661961+00:00",
+      "run_id": "2026-08-25",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOSDyFow",
+      "source_node_id": "R_kgDOSDyFow",
+      "full_name": "cloudflare/cloudflare-os",
+      "source_full_name": "cloudflare/cloudflare-os",
+      "featured_at": "2026-08-25T13:57:33.661966+00:00",
+      "run_id": "2026-08-25",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQzxPKw",
+      "source_node_id": "R_kgDOQzxPKw",
+      "full_name": "decolua/9router",
+      "source_full_name": "decolua/9router",
+      "featured_at": "2026-08-25T13:57:33.661972+00:00",
+      "run_id": "2026-08-25",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOR05pig",
+      "source_node_id": "R_kgDOR05pig",
+      "full_name": "openai/codex-plugin-cc",
+      "source_full_name": "openai/codex-plugin-cc",
+      "featured_at": "2026-08-25T13:57:33.661978+00:00",
+      "run_id": "2026-08-25",
+      "rank": 10
     }
   ]
 }
