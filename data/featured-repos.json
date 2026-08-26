@@ -990,6 +990,96 @@
       "featured_at": "2026-08-25T13:57:33.661978+00:00",
       "run_id": "2026-08-25",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSDCHbQ",
+      "source_node_id": "R_kgDOSDCHbQ",
+      "full_name": "tt-a1i/archify",
+      "source_full_name": "tt-a1i/archify",
+      "featured_at": "2026-08-26T14:02:57.107686+00:00",
+      "run_id": "2026-08-26",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQZyFQA",
+      "source_node_id": "R_kgDOQZyFQA",
+      "full_name": "anthropics/claude-plugins-official",
+      "source_full_name": "anthropics/claude-plugins-official",
+      "featured_at": "2026-08-26T14:02:57.107709+00:00",
+      "run_id": "2026-08-26",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOSIk_Sw",
+      "source_node_id": "R_kgDOSIk_Sw",
+      "full_name": "ConardLi/garden-skills",
+      "source_full_name": "ConardLi/garden-skills",
+      "featured_at": "2026-08-26T14:02:57.107719+00:00",
+      "run_id": "2026-08-26",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDONIn9tw",
+      "source_node_id": "R_kgDONIn9tw",
+      "full_name": "browser-use/browser-use",
+      "source_full_name": "browser-use/browser-use",
+      "featured_at": "2026-08-26T14:02:57.107727+00:00",
+      "run_id": "2026-08-26",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORanENg",
+      "source_node_id": "R_kgDORanENg",
+      "full_name": "every-app/open-seo",
+      "source_full_name": "every-app/open-seo",
+      "featured_at": "2026-08-26T14:02:57.107733+00:00",
+      "run_id": "2026-08-26",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOQFcxuA",
+      "source_node_id": "R_kgDOQFcxuA",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "source_full_name": "K-Dense-AI/scientific-agent-skills",
+      "featured_at": "2026-08-26T14:02:57.107740+00:00",
+      "run_id": "2026-08-26",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQ3IE1w",
+      "source_node_id": "R_kgDOQ3IE1w",
+      "full_name": "tickernelz/opencode-mem",
+      "source_full_name": "tickernelz/opencode-mem",
+      "featured_at": "2026-08-26T14:02:57.107746+00:00",
+      "run_id": "2026-08-26",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4NTAzMTQ0Mg==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4NTAzMTQ0Mg==",
+      "full_name": "poteto/hiring-without-whiteboards",
+      "source_full_name": "poteto/hiring-without-whiteboards",
+      "featured_at": "2026-08-26T14:02:57.107751+00:00",
+      "run_id": "2026-08-26",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQVDgvg",
+      "source_node_id": "R_kgDOQVDgvg",
+      "full_name": "piratuks/invoice-builder",
+      "source_full_name": "piratuks/invoice-builder",
+      "featured_at": "2026-08-26T14:02:57.107758+00:00",
+      "run_id": "2026-08-26",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNzE5Mzc3OQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNzE5Mzc3OQ==",
+      "full_name": "nodejs/node",
+      "source_full_name": "nodejs/node",
+      "featured_at": "2026-08-26T14:02:57.107763+00:00",
+      "run_id": "2026-08-26",
+      "rank": 10
     }
   ]
 }
