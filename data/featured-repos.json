@@ -1080,6 +1080,96 @@
       "featured_at": "2026-08-26T14:02:57.107763+00:00",
       "run_id": "2026-08-26",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTCSrMw",
+      "source_node_id": "R_kgDOTCSrMw",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "source_full_name": "bilawalsidhu/gods-eye-view",
+      "featured_at": "2026-08-27T22:57:45.595944+00:00",
+      "run_id": "2026-08-27",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQcAahA",
+      "source_node_id": "R_kgDOQcAahA",
+      "full_name": "JetBrains/go-modern-guidelines",
+      "source_full_name": "JetBrains/go-modern-guidelines",
+      "featured_at": "2026-08-27T22:57:45.595969+00:00",
+      "run_id": "2026-08-27",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOP0wfhg",
+      "source_node_id": "R_kgDOP0wfhg",
+      "full_name": "anthropics/skills",
+      "source_full_name": "anthropics/skills",
+      "featured_at": "2026-08-27T22:57:45.595980+00:00",
+      "run_id": "2026-08-27",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDORKpZAg",
+      "source_node_id": "R_kgDORKpZAg",
+      "full_name": "AgriciDaniel/claude-seo",
+      "source_full_name": "AgriciDaniel/claude-seo",
+      "featured_at": "2026-08-27T22:57:45.595988+00:00",
+      "run_id": "2026-08-27",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORkolAw",
+      "source_node_id": "R_kgDORkolAw",
+      "full_name": "garrytan/gstack",
+      "source_full_name": "garrytan/gstack",
+      "featured_at": "2026-08-27T22:57:45.595995+00:00",
+      "run_id": "2026-08-27",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOSM7BHA",
+      "source_node_id": "R_kgDOSM7BHA",
+      "full_name": "1weiho/open-slide",
+      "source_full_name": "1weiho/open-slide",
+      "featured_at": "2026-08-27T22:57:45.596001+00:00",
+      "run_id": "2026-08-27",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDORKUN8g",
+      "source_node_id": "R_kgDORKUN8g",
+      "full_name": "htdt/godogen",
+      "source_full_name": "htdt/godogen",
+      "featured_at": "2026-08-27T22:57:45.596008+00:00",
+      "run_id": "2026-08-27",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOQ3GISg",
+      "source_node_id": "R_kgDOQ3GISg",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "source_full_name": "ZhuLinsen/daily_stock_analysis",
+      "featured_at": "2026-08-27T22:57:45.596014+00:00",
+      "run_id": "2026-08-27",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOHvz5Qw",
+      "source_node_id": "R_kgDOHvz5Qw",
+      "full_name": "GyulyVGC/sniffnet",
+      "source_full_name": "GyulyVGC/sniffnet",
+      "featured_at": "2026-08-27T22:57:45.596019+00:00",
+      "run_id": "2026-08-27",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOKdDCcw",
+      "source_node_id": "R_kgDOKdDCcw",
+      "full_name": "open-webui/open-webui",
+      "source_full_name": "open-webui/open-webui",
+      "featured_at": "2026-08-27T22:57:45.596025+00:00",
+      "run_id": "2026-08-27",
+      "rank": 10
     }
   ]
 }
