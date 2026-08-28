@@ -1170,6 +1170,96 @@
       "featured_at": "2026-08-27T22:57:45.596025+00:00",
       "run_id": "2026-08-27",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDONHoN8A",
+      "source_node_id": "R_kgDONHoN8A",
+      "full_name": "tailscale/tailcat",
+      "source_full_name": "tailscale/tailcat",
+      "featured_at": "2026-08-28T23:00:21.134322+00:00",
+      "run_id": "2026-08-28",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSPdiBQ",
+      "source_node_id": "R_kgDOSPdiBQ",
+      "full_name": "t8y2/dbx",
+      "source_full_name": "t8y2/dbx",
+      "featured_at": "2026-08-28T23:00:21.134346+00:00",
+      "run_id": "2026-08-28",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOQEIuxA",
+      "source_node_id": "R_kgDOQEIuxA",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "source_full_name": "ComposioHQ/awesome-claude-skills",
+      "featured_at": "2026-08-28T23:00:21.134357+00:00",
+      "run_id": "2026-08-28",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOKtchNQ",
+      "source_node_id": "R_kgDOKtchNQ",
+      "full_name": "abi/screenshot-to-code",
+      "source_full_name": "abi/screenshot-to-code",
+      "featured_at": "2026-08-28T23:00:21.134364+00:00",
+      "run_id": "2026-08-28",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNzMyMjg0MzY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNzMyMjg0MzY=",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "source_full_name": "NationalSecurityAgency/ghidra",
+      "featured_at": "2026-08-28T23:00:21.134371+00:00",
+      "run_id": "2026-08-28",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOPXS5wQ",
+      "source_node_id": "R_kgDOPXS5wQ",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "source_full_name": "abhigyanpatwari/GitNexus",
+      "featured_at": "2026-08-28T23:00:21.134377+00:00",
+      "run_id": "2026-08-28",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOSZ_Biw",
+      "source_node_id": "R_kgDOSZ_Biw",
+      "full_name": "swoole/typephp",
+      "source_full_name": "swoole/typephp",
+      "featured_at": "2026-08-28T23:00:21.134383+00:00",
+      "run_id": "2026-08-28",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOQ2MNCA",
+      "source_node_id": "R_kgDOQ2MNCA",
+      "full_name": "koala73/worldmonitor",
+      "source_full_name": "koala73/worldmonitor",
+      "featured_at": "2026-08-28T23:00:21.134388+00:00",
+      "run_id": "2026-08-28",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzOTg0MDkzMg==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzOTg0MDkzMg==",
+      "full_name": "google/googletest",
+      "source_full_name": "google/googletest",
+      "featured_at": "2026-08-28T23:00:21.134394+00:00",
+      "run_id": "2026-08-28",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4NTA3NzU1OA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4NTA3NzU1OA==",
+      "full_name": "nilbuild/developer-roadmap",
+      "source_full_name": "nilbuild/developer-roadmap",
+      "featured_at": "2026-08-28T23:00:21.134399+00:00",
+      "run_id": "2026-08-28",
+      "rank": 10
     }
   ]
 }
