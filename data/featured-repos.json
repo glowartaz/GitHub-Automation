@@ -1260,6 +1260,96 @@
       "featured_at": "2026-08-28T23:00:21.134399+00:00",
       "run_id": "2026-08-28",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOKiqzdw",
+      "source_node_id": "R_kgDOKiqzdw",
+      "full_name": "livekit/agents",
+      "source_full_name": "livekit/agents",
+      "featured_at": "2026-08-29T17:07:19.311674+00:00",
+      "run_id": "2026-08-29",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOPt7f_g",
+      "source_node_id": "R_kgDOPt7f_g",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "source_full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "featured_at": "2026-08-29T17:07:19.311694+00:00",
+      "run_id": "2026-08-29",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORf0_Qw",
+      "source_node_id": "R_kgDORf0_Qw",
+      "full_name": "conorbronsdon/avoid-ai-writing",
+      "source_full_name": "conorbronsdon/avoid-ai-writing",
+      "featured_at": "2026-08-29T17:07:19.311703+00:00",
+      "run_id": "2026-08-29",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOLfkiww",
+      "source_node_id": "R_kgDOLfkiww",
+      "full_name": "OpenHands/OpenHands",
+      "source_full_name": "OpenHands/OpenHands",
+      "featured_at": "2026-08-29T17:07:19.311709+00:00",
+      "run_id": "2026-08-29",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOQHxY5Q",
+      "source_node_id": "R_kgDOQHxY5Q",
+      "full_name": "HKUDS/AI-Trader",
+      "source_full_name": "HKUDS/AI-Trader",
+      "featured_at": "2026-08-29T17:07:19.311715+00:00",
+      "run_id": "2026-08-29",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOR2y1_A",
+      "source_node_id": "R_kgDOR2y1_A",
+      "full_name": "HKUDS/Vibe-Trading",
+      "source_full_name": "HKUDS/Vibe-Trading",
+      "featured_at": "2026-08-29T17:07:19.311720+00:00",
+      "run_id": "2026-08-29",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOJbjazA",
+      "source_node_id": "R_kgDOJbjazA",
+      "full_name": "Agenta-AI/agenta",
+      "source_full_name": "Agenta-AI/agenta",
+      "featured_at": "2026-08-29T17:07:19.311724+00:00",
+      "run_id": "2026-08-29",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDORYX6aQ",
+      "source_node_id": "R_kgDORYX6aQ",
+      "full_name": "rohitg00/agentmemory",
+      "source_full_name": "rohitg00/agentmemory",
+      "featured_at": "2026-08-29T17:07:19.311728+00:00",
+      "run_id": "2026-08-29",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOIicM-w",
+      "source_node_id": "R_kgDOIicM-w",
+      "full_name": "twentyhq/twenty",
+      "source_full_name": "twentyhq/twenty",
+      "featured_at": "2026-08-29T17:07:19.311733+00:00",
+      "run_id": "2026-08-29",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOJrGO5A",
+      "source_node_id": "R_kgDOJrGO5A",
+      "full_name": "Mintplex-Labs/anything-llm",
+      "source_full_name": "Mintplex-Labs/anything-llm",
+      "featured_at": "2026-08-29T17:07:19.311738+00:00",
+      "run_id": "2026-08-29",
+      "rank": 10
     }
   ]
 }
