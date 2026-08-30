@@ -1350,6 +1350,96 @@
       "featured_at": "2026-08-29T17:07:19.311738+00:00",
       "run_id": "2026-08-29",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORkIb9w",
+      "source_node_id": "R_kgDORkIb9w",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "source_full_name": "THU-MAIC/OpenMAIC",
+      "featured_at": "2026-08-30T17:18:50.441595+00:00",
+      "run_id": "2026-08-30",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOLunVBg",
+      "source_node_id": "R_kgDOLunVBg",
+      "full_name": "firecrawl/firecrawl",
+      "source_full_name": "firecrawl/firecrawl",
+      "featured_at": "2026-08-30T17:18:50.441614+00:00",
+      "run_id": "2026-08-30",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORZbd0w",
+      "source_node_id": "R_kgDORZbd0w",
+      "full_name": "Lakr233/vphone-cli",
+      "source_full_name": "Lakr233/vphone-cli",
+      "featured_at": "2026-08-30T17:18:50.441622+00:00",
+      "run_id": "2026-08-30",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOSVLWPA",
+      "source_node_id": "R_kgDOSVLWPA",
+      "full_name": "vercel-labs/vgpu",
+      "source_full_name": "vercel-labs/vgpu",
+      "featured_at": "2026-08-30T17:18:50.441628+00:00",
+      "run_id": "2026-08-30",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOKwVKzA",
+      "source_node_id": "R_kgDOKwVKzA",
+      "full_name": "clash-verge-rev/clash-verge-rev",
+      "source_full_name": "clash-verge-rev/clash-verge-rev",
+      "featured_at": "2026-08-30T17:18:50.441633+00:00",
+      "run_id": "2026-08-30",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOPz41qA",
+      "source_node_id": "R_kgDOPz41qA",
+      "full_name": "p-e-w/heretic",
+      "source_full_name": "p-e-w/heretic",
+      "featured_at": "2026-08-30T17:18:50.441637+00:00",
+      "run_id": "2026-08-30",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQjtoqQ",
+      "source_node_id": "R_kgDOQjtoqQ",
+      "full_name": "pollen-robotics/microduck_rl",
+      "source_full_name": "pollen-robotics/microduck_rl",
+      "featured_at": "2026-08-30T17:18:50.441642+00:00",
+      "run_id": "2026-08-30",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOR9A4kA",
+      "source_node_id": "R_kgDOR9A4kA",
+      "full_name": "nashsu/llm_wiki",
+      "source_full_name": "nashsu/llm_wiki",
+      "featured_at": "2026-08-30T17:18:50.441647+00:00",
+      "run_id": "2026-08-30",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOS6lvgw",
+      "source_node_id": "R_kgDOS6lvgw",
+      "full_name": "Waishnav/devspace",
+      "source_full_name": "Waishnav/devspace",
+      "featured_at": "2026-08-30T17:18:50.441651+00:00",
+      "run_id": "2026-08-30",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNTc2MTY4ODA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNTc2MTY4ODA=",
+      "full_name": "iptv-org/iptv",
+      "source_full_name": "iptv-org/iptv",
+      "featured_at": "2026-08-30T17:18:50.441656+00:00",
+      "run_id": "2026-08-30",
+      "rank": 10
     }
   ]
 }
