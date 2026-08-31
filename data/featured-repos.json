@@ -1440,6 +1440,96 @@
       "featured_at": "2026-08-30T17:18:50.441656+00:00",
       "run_id": "2026-08-30",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOScehDA",
+      "source_node_id": "R_kgDOScehDA",
+      "full_name": "zhaoxuya520/reverse-skill",
+      "source_full_name": "zhaoxuya520/reverse-skill",
+      "featured_at": "2026-08-31T19:31:22.517820+00:00",
+      "run_id": "2026-08-31",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSyQJQw",
+      "source_node_id": "R_kgDOSyQJQw",
+      "full_name": "laoma2053/awesome-zhuiju-free",
+      "source_full_name": "laoma2053/awesome-zhuiju-free",
+      "featured_at": "2026-08-31T19:31:22.517849+00:00",
+      "run_id": "2026-08-31",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOR8OmFg",
+      "source_node_id": "R_kgDOR8OmFg",
+      "full_name": "handsomestWei/patent-disclosure-skill",
+      "source_full_name": "handsomestWei/patent-disclosure-skill",
+      "featured_at": "2026-08-31T19:31:22.517860+00:00",
+      "run_id": "2026-08-31",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDONQyYBA",
+      "source_node_id": "R_kgDONQyYBA",
+      "full_name": "k1tbyte/Wand-Enhancer",
+      "source_full_name": "k1tbyte/Wand-Enhancer",
+      "featured_at": "2026-08-31T19:31:22.517867+00:00",
+      "run_id": "2026-08-31",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOMbt5gA",
+      "source_node_id": "R_kgDOMbt5gA",
+      "full_name": "jingyaogong/minimind",
+      "source_full_name": "jingyaogong/minimind",
+      "featured_at": "2026-08-31T19:31:22.517874+00:00",
+      "run_id": "2026-08-31",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOSnz3ig",
+      "source_node_id": "R_kgDOSnz3ig",
+      "full_name": "hieunc229/mailflare",
+      "source_full_name": "hieunc229/mailflare",
+      "featured_at": "2026-08-31T19:31:22.517881+00:00",
+      "run_id": "2026-08-31",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOR-gPKw",
+      "source_node_id": "R_kgDOR-gPKw",
+      "full_name": "debpalash/VoiceStudio",
+      "source_full_name": "debpalash/VoiceStudio",
+      "featured_at": "2026-08-31T19:31:22.517887+00:00",
+      "run_id": "2026-08-31",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNjk3NTU4NTY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNjk3NTU4NTY=",
+      "full_name": "majd/ipatool",
+      "source_full_name": "majd/ipatool",
+      "featured_at": "2026-08-31T19:31:22.517893+00:00",
+      "run_id": "2026-08-31",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMjQ5OTI1MQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMjQ5OTI1MQ==",
+      "full_name": "checkstyle/checkstyle",
+      "source_full_name": "checkstyle/checkstyle",
+      "featured_at": "2026-08-31T19:31:22.517898+00:00",
+      "run_id": "2026-08-31",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDORKWUAw",
+      "source_node_id": "R_kgDORKWUAw",
+      "full_name": "firecrawl/pdf-inspector",
+      "source_full_name": "firecrawl/pdf-inspector",
+      "featured_at": "2026-08-31T19:31:22.517904+00:00",
+      "run_id": "2026-08-31",
+      "rank": 10
     }
   ]
 }
