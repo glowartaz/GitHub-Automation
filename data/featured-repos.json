@@ -1530,6 +1530,96 @@
       "featured_at": "2026-08-31T19:31:22.517904+00:00",
       "run_id": "2026-08-31",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMjA1NDI0MzQ=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMjA1NDI0MzQ=",
+      "full_name": "iv-org/invidious",
+      "source_full_name": "iv-org/invidious",
+      "featured_at": "2026-09-01T17:24:08.330569+00:00",
+      "run_id": "2026-09-01",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDORMI4oA",
+      "source_node_id": "R_kgDORMI4oA",
+      "full_name": "Osmantic/ODS",
+      "source_full_name": "Osmantic/ODS",
+      "featured_at": "2026-09-01T17:24:08.330594+00:00",
+      "run_id": "2026-09-01",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOR2Chew",
+      "source_node_id": "R_kgDOR2Chew",
+      "full_name": "VoltAgent/awesome-design-md",
+      "source_full_name": "VoltAgent/awesome-design-md",
+      "featured_at": "2026-09-01T17:24:08.330605+00:00",
+      "run_id": "2026-09-01",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOQwI8Aw",
+      "source_node_id": "R_kgDOQwI8Aw",
+      "full_name": "HKUDS/DeepTutor",
+      "source_full_name": "HKUDS/DeepTutor",
+      "featured_at": "2026-09-01T17:24:08.330614+00:00",
+      "run_id": "2026-09-01",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORZOZYw",
+      "source_node_id": "R_kgDORZOZYw",
+      "full_name": "Imbad0202/academic-research-skills",
+      "source_full_name": "Imbad0202/academic-research-skills",
+      "featured_at": "2026-09-01T17:24:08.330620+00:00",
+      "run_id": "2026-09-01",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOQ_KVhA",
+      "source_node_id": "R_kgDOQ_KVhA",
+      "full_name": "rtk-ai/rtk",
+      "source_full_name": "rtk-ai/rtk",
+      "featured_at": "2026-09-01T17:24:08.330627+00:00",
+      "run_id": "2026-09-01",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDORsnMJw",
+      "source_node_id": "R_kgDORsnMJw",
+      "full_name": "NVIDIA/SkillSpector",
+      "source_full_name": "NVIDIA/SkillSpector",
+      "featured_at": "2026-09-01T17:24:08.330633+00:00",
+      "run_id": "2026-09-01",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOOWFqpA",
+      "source_node_id": "R_kgDOOWFqpA",
+      "full_name": "apurvsinghgautam/robin",
+      "source_full_name": "apurvsinghgautam/robin",
+      "featured_at": "2026-09-01T17:24:08.330639+00:00",
+      "run_id": "2026-09-01",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOJVxJug",
+      "source_node_id": "R_kgDOJVxJug",
+      "full_name": "langgenius/dify",
+      "source_full_name": "langgenius/dify",
+      "featured_at": "2026-09-01T17:24:08.330645+00:00",
+      "run_id": "2026-09-01",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDORfd_4g",
+      "source_node_id": "R_kgDORfd_4g",
+      "full_name": "oblien/openship",
+      "source_full_name": "oblien/openship",
+      "featured_at": "2026-09-01T17:24:08.330651+00:00",
+      "run_id": "2026-09-01",
+      "rank": 10
     }
   ]
 }
