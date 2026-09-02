@@ -1620,6 +1620,96 @@
       "featured_at": "2026-09-01T17:24:08.330651+00:00",
       "run_id": "2026-09-01",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSdmFfQ",
+      "source_node_id": "R_kgDOSdmFfQ",
+      "full_name": "pacifio/atlas",
+      "source_full_name": "pacifio/atlas",
+      "featured_at": "2026-09-02T17:09:45.400986+00:00",
+      "run_id": "2026-09-02",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOR2fj6A",
+      "source_node_id": "R_kgDOR2fj6A",
+      "full_name": "Gitlawb/openclaude",
+      "source_full_name": "Gitlawb/openclaude",
+      "featured_at": "2026-09-02T17:09:45.401012+00:00",
+      "run_id": "2026-09-02",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOPrUECg",
+      "source_node_id": "R_kgDOPrUECg",
+      "full_name": "datawhalechina/hello-agents",
+      "source_full_name": "datawhalechina/hello-agents",
+      "featured_at": "2026-09-02T17:09:45.401024+00:00",
+      "run_id": "2026-09-02",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMjY4OTg2Mw==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMjY4OTg2Mw==",
+      "full_name": "3b1b/manim",
+      "source_full_name": "3b1b/manim",
+      "featured_at": "2026-09-02T17:09:45.401032+00:00",
+      "run_id": "2026-09-02",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOQ8AnQQ",
+      "source_node_id": "R_kgDOQ8AnQQ",
+      "full_name": "blader/humanizer",
+      "source_full_name": "blader/humanizer",
+      "featured_at": "2026-09-02T17:09:45.401038+00:00",
+      "run_id": "2026-09-02",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOL1Au9w",
+      "source_node_id": "R_kgDOL1Au9w",
+      "full_name": "google-research/timesfm",
+      "source_full_name": "google-research/timesfm",
+      "featured_at": "2026-09-02T17:09:45.401045+00:00",
+      "run_id": "2026-09-02",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOKXoMww",
+      "source_node_id": "R_kgDOKXoMww",
+      "full_name": "hacksider/Deep-Live-Cam",
+      "source_full_name": "hacksider/Deep-Live-Cam",
+      "featured_at": "2026-09-02T17:09:45.401051+00:00",
+      "run_id": "2026-09-02",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNDE3MzQ5NDM=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNDE3MzQ5NDM=",
+      "full_name": "sngyai/Sequoia-X",
+      "source_full_name": "sngyai/Sequoia-X",
+      "featured_at": "2026-09-02T17:09:45.401057+00:00",
+      "run_id": "2026-09-02",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOP3uEcg",
+      "source_node_id": "R_kgDOP3uEcg",
+      "full_name": "KeygraphHQ/shannon",
+      "source_full_name": "KeygraphHQ/shannon",
+      "featured_at": "2026-09-02T17:09:45.401063+00:00",
+      "run_id": "2026-09-02",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOO07yiQ",
+      "source_node_id": "R_kgDOO07yiQ",
+      "full_name": "ruvnet/ruflo",
+      "source_full_name": "ruvnet/ruflo",
+      "featured_at": "2026-09-02T17:09:45.401069+00:00",
+      "run_id": "2026-09-02",
+      "rank": 10
     }
   ]
 }
