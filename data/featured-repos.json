@@ -1710,6 +1710,96 @@
       "featured_at": "2026-09-02T17:09:45.401069+00:00",
       "run_id": "2026-09-02",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk3MDU2MjAy",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk3MDU2MjAy",
+      "full_name": "fmtlib/fmt",
+      "source_full_name": "fmtlib/fmt",
+      "featured_at": "2026-09-03T17:02:38.642090+00:00",
+      "run_id": "2026-09-03",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQzhFzQ",
+      "source_node_id": "R_kgDOQzhFzQ",
+      "full_name": "arcboxlabs/arcbox",
+      "source_full_name": "arcboxlabs/arcbox",
+      "featured_at": "2026-09-03T17:02:38.642114+00:00",
+      "run_id": "2026-09-03",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyOTIxOTI0Mw==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyOTIxOTI0Mw==",
+      "full_name": "bannedbook/fanqiang",
+      "source_full_name": "bannedbook/fanqiang",
+      "featured_at": "2026-09-03T17:02:38.642125+00:00",
+      "run_id": "2026-09-03",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDORQ3jDQ",
+      "source_node_id": "R_kgDORQ3jDQ",
+      "full_name": "vercel-labs/portless",
+      "source_full_name": "vercel-labs/portless",
+      "featured_at": "2026-09-03T17:02:38.642132+00:00",
+      "run_id": "2026-09-03",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOO-G1sQ",
+      "source_node_id": "R_kgDOO-G1sQ",
+      "full_name": "OpenWhispr/openwhispr",
+      "source_full_name": "OpenWhispr/openwhispr",
+      "featured_at": "2026-09-03T17:02:38.642139+00:00",
+      "run_id": "2026-09-03",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOS7uT8Q",
+      "source_node_id": "R_kgDOS7uT8Q",
+      "full_name": "eneskirca/nodeterm",
+      "source_full_name": "eneskirca/nodeterm",
+      "featured_at": "2026-09-03T17:02:38.642146+00:00",
+      "run_id": "2026-09-03",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOIj6G7A",
+      "source_node_id": "R_kgDOIj6G7A",
+      "full_name": "f/prompts.chat",
+      "source_full_name": "f/prompts.chat",
+      "featured_at": "2026-09-03T17:02:38.642152+00:00",
+      "run_id": "2026-09-03",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOKVORZg",
+      "source_node_id": "R_kgDOKVORZg",
+      "full_name": "ByteByteGoHq/system-design-101",
+      "source_full_name": "ByteByteGoHq/system-design-101",
+      "featured_at": "2026-09-03T17:02:38.642158+00:00",
+      "run_id": "2026-09-03",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORM1nVg",
+      "source_node_id": "R_kgDORM1nVg",
+      "full_name": "LanRhyme/MicYou",
+      "source_full_name": "LanRhyme/MicYou",
+      "featured_at": "2026-09-03T17:02:38.642164+00:00",
+      "run_id": "2026-09-03",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOS4cbDA",
+      "source_node_id": "R_kgDOS4cbDA",
+      "full_name": "magnitudedev/magnitude",
+      "source_full_name": "magnitudedev/magnitude",
+      "featured_at": "2026-09-03T17:02:38.642170+00:00",
+      "run_id": "2026-09-03",
+      "rank": 10
     }
   ]
 }
