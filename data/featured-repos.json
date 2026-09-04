@@ -1800,6 +1800,96 @@
       "featured_at": "2026-09-03T17:02:38.642170+00:00",
       "run_id": "2026-09-03",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORqAo7A",
+      "source_node_id": "R_kgDORqAo7A",
+      "full_name": "humanlayer/skills",
+      "source_full_name": "humanlayer/skills",
+      "featured_at": "2026-09-04T16:54:28.812166+00:00",
+      "run_id": "2026-09-04",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOLORdQw",
+      "source_node_id": "R_kgDOLORdQw",
+      "full_name": "clshortfuse/renodx",
+      "source_full_name": "clshortfuse/renodx",
+      "featured_at": "2026-09-04T16:54:28.812185+00:00",
+      "run_id": "2026-09-04",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOLCAjRg",
+      "source_node_id": "R_kgDOLCAjRg",
+      "full_name": "sgl-project/sglang",
+      "source_full_name": "sgl-project/sglang",
+      "featured_at": "2026-09-04T16:54:28.812191+00:00",
+      "run_id": "2026-09-04",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk3MjQ3MTI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk3MjQ3MTI=",
+      "full_name": "rust-lang/rust",
+      "source_full_name": "rust-lang/rust",
+      "featured_at": "2026-09-04T16:54:28.812196+00:00",
+      "run_id": "2026-09-04",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOMI8ZRg",
+      "source_node_id": "R_kgDOMI8ZRg",
+      "full_name": "longbridge/gpui-kit",
+      "source_full_name": "longbridge/gpui-kit",
+      "featured_at": "2026-09-04T16:54:28.812200+00:00",
+      "run_id": "2026-09-04",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOR2K4PA",
+      "source_node_id": "R_kgDOR2K4PA",
+      "full_name": "google/skills",
+      "source_full_name": "google/skills",
+      "featured_at": "2026-09-04T16:54:28.812203+00:00",
+      "run_id": "2026-09-04",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOIuCgEw",
+      "source_node_id": "R_kgDOIuCgEw",
+      "full_name": "shadcn-ui/ui",
+      "source_full_name": "shadcn-ui/ui",
+      "featured_at": "2026-09-04T16:54:28.812207+00:00",
+      "run_id": "2026-09-04",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOSJHpkw",
+      "source_node_id": "R_kgDOSJHpkw",
+      "full_name": "earthtojake/text-to-cad",
+      "source_full_name": "earthtojake/text-to-cad",
+      "featured_at": "2026-09-04T16:54:28.812211+00:00",
+      "run_id": "2026-09-04",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOStEbEg",
+      "source_node_id": "R_kgDOStEbEg",
+      "full_name": "huangruiteng/loopx",
+      "source_full_name": "huangruiteng/loopx",
+      "featured_at": "2026-09-04T16:54:28.812215+00:00",
+      "run_id": "2026-09-04",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDON-2qww",
+      "source_node_id": "R_kgDON-2qww",
+      "full_name": "Sumanth077/Hands-On-AI-Engineering",
+      "source_full_name": "Sumanth077/Hands-On-AI-Engineering",
+      "featured_at": "2026-09-04T16:54:28.812218+00:00",
+      "run_id": "2026-09-04",
+      "rank": 10
     }
   ]
 }
