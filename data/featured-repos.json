@@ -1890,6 +1890,96 @@
       "featured_at": "2026-09-04T16:54:28.812218+00:00",
       "run_id": "2026-09-04",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTCfJKg",
+      "source_node_id": "R_kgDOTCfJKg",
+      "full_name": "bikini/exploitarium",
+      "source_full_name": "bikini/exploitarium",
+      "featured_at": "2026-09-05T15:55:41.336709+00:00",
+      "run_id": "2026-09-05",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOP_B-MQ",
+      "source_node_id": "R_kgDOP_B-MQ",
+      "full_name": "radixark/miles",
+      "source_full_name": "radixark/miles",
+      "featured_at": "2026-09-05T15:55:41.336733+00:00",
+      "run_id": "2026-09-05",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOQ_tuxQ",
+      "source_node_id": "R_kgDOQ_tuxQ",
+      "full_name": "WorldFlowAI/everything-claude-code",
+      "source_full_name": "WorldFlowAI/everything-claude-code",
+      "featured_at": "2026-09-05T15:55:41.336744+00:00",
+      "run_id": "2026-09-05",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOR1vNbQ",
+      "source_node_id": "R_kgDOR1vNbQ",
+      "full_name": "k2-fsa/OmniVoice",
+      "source_full_name": "k2-fsa/OmniVoice",
+      "featured_at": "2026-09-05T15:55:41.336751+00:00",
+      "run_id": "2026-09-05",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOSAvt2w",
+      "source_node_id": "R_kgDOSAvt2w",
+      "full_name": "Jakubantalik/Libraries.dev",
+      "source_full_name": "Jakubantalik/Libraries.dev",
+      "featured_at": "2026-09-05T15:55:41.336758+00:00",
+      "run_id": "2026-09-05",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOQ3j5Tg",
+      "source_node_id": "R_kgDOQ3j5Tg",
+      "full_name": "vercel-labs/agent-browser",
+      "source_full_name": "vercel-labs/agent-browser",
+      "featured_at": "2026-09-05T15:55:41.336764+00:00",
+      "run_id": "2026-09-05",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOLB_5lQ",
+      "source_node_id": "R_kgDOLB_5lQ",
+      "full_name": "thewh1teagle/vibe",
+      "source_full_name": "thewh1teagle/vibe",
+      "featured_at": "2026-09-05T15:55:41.336770+00:00",
+      "run_id": "2026-09-05",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOSXL7VQ",
+      "source_node_id": "R_kgDOSXL7VQ",
+      "full_name": "BraveOPotato/FckSignups",
+      "source_full_name": "BraveOPotato/FckSignups",
+      "featured_at": "2026-09-05T15:55:41.336776+00:00",
+      "run_id": "2026-09-05",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOROPqOg",
+      "source_node_id": "R_kgDOROPqOg",
+      "full_name": "tonhowtf/omniget",
+      "source_full_name": "tonhowtf/omniget",
+      "featured_at": "2026-09-05T15:55:41.336782+00:00",
+      "run_id": "2026-09-05",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOJKSTjA",
+      "source_node_id": "R_kgDOJKSTjA",
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "source_full_name": "Significant-Gravitas/AutoGPT",
+      "featured_at": "2026-09-05T15:55:41.336788+00:00",
+      "run_id": "2026-09-05",
+      "rank": 10
     }
   ]
 }
