@@ -1980,6 +1980,96 @@
       "featured_at": "2026-09-05T15:55:41.336788+00:00",
       "run_id": "2026-09-05",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTEYNUA",
+      "source_node_id": "R_kgDOTEYNUA",
+      "full_name": "experientiallabs/experiential",
+      "source_full_name": "experientiallabs/experiential",
+      "featured_at": "2026-09-06T16:06:28.827977+00:00",
+      "run_id": "2026-09-06",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDORnFxbw",
+      "source_node_id": "R_kgDORnFxbw",
+      "full_name": "AdventDevInc/kudu",
+      "source_full_name": "AdventDevInc/kudu",
+      "featured_at": "2026-09-06T16:06:28.828004+00:00",
+      "run_id": "2026-09-06",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4MzIyMjQ0MQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4MzIyMjQ0MQ==",
+      "full_name": "donnemartin/system-design-primer",
+      "source_full_name": "donnemartin/system-design-primer",
+      "featured_at": "2026-09-06T16:06:28.828014+00:00",
+      "run_id": "2026-09-06",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOOEqgHw",
+      "source_node_id": "R_kgDOOEqgHw",
+      "full_name": "ahujasid/blender-mcp",
+      "source_full_name": "ahujasid/blender-mcp",
+      "featured_at": "2026-09-06T16:06:28.828022+00:00",
+      "run_id": "2026-09-06",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOTMJUnA",
+      "source_node_id": "R_kgDOTMJUnA",
+      "full_name": "aipoch/open-science",
+      "source_full_name": "aipoch/open-science",
+      "featured_at": "2026-09-06T16:06:28.828028+00:00",
+      "run_id": "2026-09-06",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOTKgSkg",
+      "source_node_id": "R_kgDOTKgSkg",
+      "full_name": "nklmilojevic/sofka",
+      "source_full_name": "nklmilojevic/sofka",
+      "featured_at": "2026-09-06T16:06:28.828035+00:00",
+      "run_id": "2026-09-06",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDONbw-OQ",
+      "source_node_id": "R_kgDONbw-OQ",
+      "full_name": "The-Swarm-Corporation/AutoHedge",
+      "source_full_name": "The-Swarm-Corporation/AutoHedge",
+      "featured_at": "2026-09-06T16:06:28.828041+00:00",
+      "run_id": "2026-09-06",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMzYwMjM3NDc=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMzYwMjM3NDc=",
+      "full_name": "Stremio/stremio-web",
+      "source_full_name": "Stremio/stremio-web",
+      "featured_at": "2026-09-06T16:06:28.828047+00:00",
+      "run_id": "2026-09-06",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORBW6qA",
+      "source_node_id": "R_kgDORBW6qA",
+      "full_name": "jo-inc/camofox-browser",
+      "source_full_name": "jo-inc/camofox-browser",
+      "featured_at": "2026-09-06T16:06:28.828052+00:00",
+      "run_id": "2026-09-06",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOJ0Z1Pg",
+      "source_node_id": "R_kgDOJ0Z1Pg",
+      "full_name": "ollama/ollama",
+      "source_full_name": "ollama/ollama",
+      "featured_at": "2026-09-06T16:06:28.828058+00:00",
+      "run_id": "2026-09-06",
+      "rank": 10
     }
   ]
 }
