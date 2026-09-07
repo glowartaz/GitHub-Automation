@@ -2070,6 +2070,96 @@
       "featured_at": "2026-09-06T16:06:28.828058+00:00",
       "run_id": "2026-09-06",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDONO810w",
+      "source_node_id": "R_kgDONO810w",
+      "full_name": "microsoft/markitdown",
+      "source_full_name": "microsoft/markitdown",
+      "featured_at": "2026-09-07T18:15:35.738291+00:00",
+      "run_id": "2026-09-07",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQchDtQ",
+      "source_node_id": "R_kgDOQchDtQ",
+      "full_name": "openai/skills",
+      "source_full_name": "openai/skills",
+      "featured_at": "2026-09-07T18:15:35.738323+00:00",
+      "run_id": "2026-09-07",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMTI4OTExMA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMTI4OTExMA==",
+      "full_name": "vinta/awesome-python",
+      "source_full_name": "vinta/awesome-python",
+      "featured_at": "2026-09-07T18:15:35.738334+00:00",
+      "run_id": "2026-09-07",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOOlwd1Q",
+      "source_node_id": "R_kgDOOlwd1Q",
+      "full_name": "bytedance/deer-flow",
+      "source_full_name": "bytedance/deer-flow",
+      "featured_at": "2026-09-07T18:15:35.738343+00:00",
+      "run_id": "2026-09-07",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOPctHXQ",
+      "source_node_id": "R_kgDOPctHXQ",
+      "full_name": "MoonTechLab/LunaTV",
+      "source_full_name": "MoonTechLab/LunaTV",
+      "featured_at": "2026-09-07T18:15:35.738350+00:00",
+      "run_id": "2026-09-07",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORWiFDA",
+      "source_node_id": "R_kgDORWiFDA",
+      "full_name": "mksglu/context-mode",
+      "source_full_name": "mksglu/context-mode",
+      "featured_at": "2026-09-07T18:15:35.738357+00:00",
+      "run_id": "2026-09-07",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQD44gg",
+      "source_node_id": "R_kgDOQD44gg",
+      "full_name": "pascalorg/editor",
+      "source_full_name": "pascalorg/editor",
+      "featured_at": "2026-09-07T18:15:35.738363+00:00",
+      "run_id": "2026-09-07",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOI67vwg",
+      "source_node_id": "R_kgDOI67vwg",
+      "full_name": "lightpanda-io/browser",
+      "source_full_name": "lightpanda-io/browser",
+      "featured_at": "2026-09-07T18:15:35.738369+00:00",
+      "run_id": "2026-09-07",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDONLGgZw",
+      "source_node_id": "R_kgDONLGgZw",
+      "full_name": "Nutlope/logocreator",
+      "source_full_name": "Nutlope/logocreator",
+      "featured_at": "2026-09-07T18:15:35.738375+00:00",
+      "run_id": "2026-09-07",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOTDloIA",
+      "source_node_id": "R_kgDOTDloIA",
+      "full_name": "Yu9191/wloc",
+      "source_full_name": "Yu9191/wloc",
+      "featured_at": "2026-09-07T18:15:35.738381+00:00",
+      "run_id": "2026-09-07",
+      "rank": 10
     }
   ]
 }
