@@ -2160,6 +2160,96 @@
       "featured_at": "2026-09-07T18:15:35.738381+00:00",
       "run_id": "2026-09-07",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOR4-tJA",
+      "source_node_id": "R_kgDOR4-tJA",
+      "full_name": "microsoft/tgrep",
+      "source_full_name": "microsoft/tgrep",
+      "featured_at": "2026-09-08T17:14:27.982553+00:00",
+      "run_id": "2026-09-08",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSNvMSw",
+      "source_node_id": "R_kgDOSNvMSw",
+      "full_name": "Tencent/teamai-cli",
+      "source_full_name": "Tencent/teamai-cli",
+      "featured_at": "2026-09-08T17:14:27.982572+00:00",
+      "run_id": "2026-09-08",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOScw2eQ",
+      "source_node_id": "R_kgDOScw2eQ",
+      "full_name": "ayghri/i-have-adhd",
+      "source_full_name": "ayghri/i-have-adhd",
+      "featured_at": "2026-09-08T17:14:27.982580+00:00",
+      "run_id": "2026-09-08",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDORrl2sA",
+      "source_node_id": "R_kgDORrl2sA",
+      "full_name": "advaitpaliwal/feynman",
+      "source_full_name": "advaitpaliwal/feynman",
+      "featured_at": "2026-09-08T17:14:27.982586+00:00",
+      "run_id": "2026-09-08",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOLVA3Hg",
+      "source_node_id": "R_kgDOLVA3Hg",
+      "full_name": "hpcaitech/Open-Sora",
+      "source_full_name": "hpcaitech/Open-Sora",
+      "featured_at": "2026-09-08T17:14:27.982591+00:00",
+      "run_id": "2026-09-08",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOReoB_w",
+      "source_node_id": "R_kgDOReoB_w",
+      "full_name": "openai/plugins",
+      "source_full_name": "openai/plugins",
+      "featured_at": "2026-09-08T17:14:27.982596+00:00",
+      "run_id": "2026-09-08",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOKTy-NA",
+      "source_node_id": "R_kgDOKTy-NA",
+      "full_name": "viarotel-org/escrcpy",
+      "source_full_name": "viarotel-org/escrcpy",
+      "featured_at": "2026-09-08T17:14:27.982600+00:00",
+      "run_id": "2026-09-08",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOO3hF2A",
+      "source_node_id": "R_kgDOO3hF2A",
+      "full_name": "ruvnet/RuView",
+      "source_full_name": "ruvnet/RuView",
+      "featured_at": "2026-09-08T17:14:27.982604+00:00",
+      "run_id": "2026-09-08",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOPD3GSw",
+      "source_node_id": "R_kgDOPD3GSw",
+      "full_name": "shareAI-lab/learn-claude-code",
+      "source_full_name": "shareAI-lab/learn-claude-code",
+      "featured_at": "2026-09-08T17:14:27.982609+00:00",
+      "run_id": "2026-09-08",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOPKaX0g",
+      "source_node_id": "R_kgDOPKaX0g",
+      "full_name": "0x4m4/hexstrike-ai",
+      "source_full_name": "0x4m4/hexstrike-ai",
+      "featured_at": "2026-09-08T17:14:27.982613+00:00",
+      "run_id": "2026-09-08",
+      "rank": 10
     }
   ]
 }
