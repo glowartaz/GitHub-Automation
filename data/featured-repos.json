@@ -2250,6 +2250,96 @@
       "featured_at": "2026-09-08T17:14:27.982613+00:00",
       "run_id": "2026-09-08",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDONhjwzw",
+      "source_node_id": "R_kgDONhjwzw",
+      "full_name": "liquidslr/system-design-notes",
+      "source_full_name": "liquidslr/system-design-notes",
+      "featured_at": "2026-09-09T17:10:02.112424+00:00",
+      "run_id": "2026-09-09",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOJM5Wlw",
+      "source_node_id": "R_kgDOJM5Wlw",
+      "full_name": "vastsa/PI-Desktop",
+      "source_full_name": "vastsa/PI-Desktop",
+      "featured_at": "2026-09-09T17:10:02.112452+00:00",
+      "run_id": "2026-09-09",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOOmLn0w",
+      "source_node_id": "R_kgDOOmLn0w",
+      "full_name": "superplanehq/superplane",
+      "source_full_name": "superplanehq/superplane",
+      "featured_at": "2026-09-09T17:10:02.112464+00:00",
+      "run_id": "2026-09-09",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOLY4afw",
+      "source_node_id": "R_kgDOLY4afw",
+      "full_name": "supermemoryai/supermemory",
+      "source_full_name": "supermemoryai/supermemory",
+      "featured_at": "2026-09-09T17:10:02.112471+00:00",
+      "run_id": "2026-09-09",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORA42tg",
+      "source_node_id": "R_kgDORA42tg",
+      "full_name": "jamiepine/voicebox",
+      "source_full_name": "jamiepine/voicebox",
+      "featured_at": "2026-09-09T17:10:02.112478+00:00",
+      "run_id": "2026-09-09",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOKjdIGw",
+      "source_node_id": "R_kgDOKjdIGw",
+      "full_name": "Automattic/harper",
+      "source_full_name": "Automattic/harper",
+      "featured_at": "2026-09-09T17:10:02.112485+00:00",
+      "run_id": "2026-09-09",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOOjqi0Q",
+      "source_node_id": "R_kgDOOjqi0Q",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "source_full_name": "asgeirtj/system_prompts_leaks",
+      "featured_at": "2026-09-09T17:10:02.112491+00:00",
+      "run_id": "2026-09-09",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOSXZbXg",
+      "source_node_id": "R_kgDOSXZbXg",
+      "full_name": "PrimeIntellect-ai/prime-agent",
+      "source_full_name": "PrimeIntellect-ai/prime-agent",
+      "featured_at": "2026-09-09T17:10:02.112497+00:00",
+      "run_id": "2026-09-09",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQ5_BBQ",
+      "source_node_id": "R_kgDOQ5_BBQ",
+      "full_name": "vercel-labs/skills",
+      "source_full_name": "vercel-labs/skills",
+      "featured_at": "2026-09-09T17:10:02.112503+00:00",
+      "run_id": "2026-09-09",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOPWQiFw",
+      "source_node_id": "R_kgDOPWQiFw",
+      "full_name": "dmtrKovalenko/fff",
+      "source_full_name": "dmtrKovalenko/fff",
+      "featured_at": "2026-09-09T17:10:02.112509+00:00",
+      "run_id": "2026-09-09",
+      "rank": 10
     }
   ]
 }
