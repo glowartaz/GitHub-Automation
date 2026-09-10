@@ -2340,6 +2340,96 @@
       "featured_at": "2026-09-09T17:10:02.112509+00:00",
       "run_id": "2026-09-09",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORBoH-g",
+      "source_node_id": "R_kgDORBoH-g",
+      "full_name": "alsk1992/CloddsBot",
+      "source_full_name": "alsk1992/CloddsBot",
+      "featured_at": "2026-09-10T17:04:00.081968+00:00",
+      "run_id": "2026-09-10",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSzNzqQ",
+      "source_node_id": "R_kgDOSzNzqQ",
+      "full_name": "alphaXiv/OpenResearch",
+      "source_full_name": "alphaXiv/OpenResearch",
+      "featured_at": "2026-09-10T17:04:00.081996+00:00",
+      "run_id": "2026-09-10",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORtlnUw",
+      "source_node_id": "R_kgDORtlnUw",
+      "full_name": "HakanSeven12/OpenCADStudio",
+      "source_full_name": "HakanSeven12/OpenCADStudio",
+      "featured_at": "2026-09-10T17:04:00.082007+00:00",
+      "run_id": "2026-09-10",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOTKgHjQ",
+      "source_node_id": "R_kgDOTKgHjQ",
+      "full_name": "JustVugg/colibri",
+      "source_full_name": "JustVugg/colibri",
+      "featured_at": "2026-09-10T17:04:00.082014+00:00",
+      "run_id": "2026-09-10",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMjI3NTExMzE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMjI3NTExMzE=",
+      "full_name": "Asabeneh/30-Days-Of-Python",
+      "source_full_name": "Asabeneh/30-Days-Of-Python",
+      "featured_at": "2026-09-10T17:04:00.082021+00:00",
+      "run_id": "2026-09-10",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4MTE0MjczMg==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4MTE0MjczMg==",
+      "full_name": "armory3d/armorpaint",
+      "source_full_name": "armory3d/armorpaint",
+      "featured_at": "2026-09-10T17:04:00.082027+00:00",
+      "run_id": "2026-09-10",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOTUEWWA",
+      "source_node_id": "R_kgDOTUEWWA",
+      "full_name": "feigeCode/navop",
+      "source_full_name": "feigeCode/navop",
+      "featured_at": "2026-09-10T17:04:00.082033+00:00",
+      "run_id": "2026-09-10",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOJnWQXw",
+      "source_node_id": "R_kgDOJnWQXw",
+      "full_name": "jiji262/douyin-downloader",
+      "source_full_name": "jiji262/douyin-downloader",
+      "featured_at": "2026-09-10T17:04:00.082038+00:00",
+      "run_id": "2026-09-10",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOH-jzvQ",
+      "source_node_id": "R_kgDOH-jzvQ",
+      "full_name": "ultralytics/ultralytics",
+      "source_full_name": "ultralytics/ultralytics",
+      "featured_at": "2026-09-10T17:04:00.082044+00:00",
+      "run_id": "2026-09-10",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNzY5ODIwMTQ=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNzY5ODIwMTQ=",
+      "full_name": "NVIDIA/Megatron-LM",
+      "source_full_name": "NVIDIA/Megatron-LM",
+      "featured_at": "2026-09-10T17:04:00.082066+00:00",
+      "run_id": "2026-09-10",
+      "rank": 10
     }
   ]
 }
