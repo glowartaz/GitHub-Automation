@@ -2430,6 +2430,96 @@
       "featured_at": "2026-09-10T17:04:00.082066+00:00",
       "run_id": "2026-09-10",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA==",
+      "full_name": "react/react",
+      "source_full_name": "react/react",
+      "featured_at": "2026-09-11T17:08:38.791862+00:00",
+      "run_id": "2026-09-11",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTBO9Tw",
+      "source_node_id": "R_kgDOTBO9Tw",
+      "full_name": "p1neappleXpress/OpenFlux",
+      "source_full_name": "p1neappleXpress/OpenFlux",
+      "featured_at": "2026-09-11T17:08:38.791879+00:00",
+      "run_id": "2026-09-11",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNDY1NzIz",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNDY1NzIz",
+      "full_name": "Sonarr/Sonarr",
+      "source_full_name": "Sonarr/Sonarr",
+      "featured_at": "2026-09-11T17:08:38.791885+00:00",
+      "run_id": "2026-09-11",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDONx3mXw",
+      "source_node_id": "R_kgDONx3mXw",
+      "full_name": "jihe520/MathModelAgent",
+      "source_full_name": "jihe520/MathModelAgent",
+      "featured_at": "2026-09-11T17:08:38.791889+00:00",
+      "run_id": "2026-09-11",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk0MDY5MzA5NzU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk0MDY5MzA5NzU=",
+      "full_name": "bobeff/open-source-games",
+      "source_full_name": "bobeff/open-source-games",
+      "featured_at": "2026-09-11T17:08:38.791892+00:00",
+      "run_id": "2026-09-11",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOSPPUPw",
+      "source_node_id": "R_kgDOSPPUPw",
+      "full_name": "melgarafael/DeskcommCRM",
+      "source_full_name": "melgarafael/DeskcommCRM",
+      "featured_at": "2026-09-11T17:08:38.791896+00:00",
+      "run_id": "2026-09-11",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOR-eOog",
+      "source_node_id": "R_kgDOR-eOog",
+      "full_name": "jordan-gibbs/hyperresearch",
+      "source_full_name": "jordan-gibbs/hyperresearch",
+      "featured_at": "2026-09-11T17:08:38.791899+00:00",
+      "run_id": "2026-09-11",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOQqTXnA",
+      "source_node_id": "R_kgDOQqTXnA",
+      "full_name": "0xranx/OpenContext",
+      "source_full_name": "0xranx/OpenContext",
+      "featured_at": "2026-09-11T17:08:38.791902+00:00",
+      "run_id": "2026-09-11",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORcxyRg",
+      "source_node_id": "R_kgDORcxyRg",
+      "full_name": "googleworkspace/cli",
+      "source_full_name": "googleworkspace/cli",
+      "featured_at": "2026-09-11T17:08:38.791905+00:00",
+      "run_id": "2026-09-11",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOQeuD7w",
+      "source_node_id": "R_kgDOQeuD7w",
+      "full_name": "chthollyphile/folia-major",
+      "source_full_name": "chthollyphile/folia-major",
+      "featured_at": "2026-09-11T17:08:38.791918+00:00",
+      "run_id": "2026-09-11",
+      "rank": 10
     }
   ]
 }
