@@ -2520,6 +2520,96 @@
       "featured_at": "2026-09-11T17:08:38.791918+00:00",
       "run_id": "2026-09-11",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyODMyMTE5MDE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyODMyMTE5MDE=",
+      "full_name": "yuliskov/SmartTube",
+      "source_full_name": "yuliskov/SmartTube",
+      "featured_at": "2026-09-12T16:10:03.514836+00:00",
+      "run_id": "2026-09-12",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQNl2xg",
+      "source_node_id": "R_kgDOQNl2xg",
+      "full_name": "nab138/iloader",
+      "source_full_name": "nab138/iloader",
+      "featured_at": "2026-09-12T16:10:03.514862+00:00",
+      "run_id": "2026-09-12",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDONuVFoA",
+      "source_node_id": "R_kgDONuVFoA",
+      "full_name": "multimodal-art-projection/YuE",
+      "source_full_name": "multimodal-art-projection/YuE",
+      "featured_at": "2026-09-12T16:10:03.514871+00:00",
+      "run_id": "2026-09-12",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDONmu-ag",
+      "source_node_id": "R_kgDONmu-ag",
+      "full_name": "vxcontrol/pentagi",
+      "source_full_name": "vxcontrol/pentagi",
+      "featured_at": "2026-09-12T16:10:03.514877+00:00",
+      "run_id": "2026-09-12",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOTP8OYw",
+      "source_node_id": "R_kgDOTP8OYw",
+      "full_name": "petergyang/no-ai-slop",
+      "source_full_name": "petergyang/no-ai-slop",
+      "featured_at": "2026-09-12T16:10:03.514883+00:00",
+      "run_id": "2026-09-12",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORd96qw",
+      "source_node_id": "R_kgDORd96qw",
+      "full_name": "SnailSploit/Claude-Red",
+      "source_full_name": "SnailSploit/Claude-Red",
+      "featured_at": "2026-09-12T16:10:03.514889+00:00",
+      "run_id": "2026-09-12",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQPV-KQ",
+      "source_node_id": "R_kgDOQPV-KQ",
+      "full_name": "raine/workmux",
+      "source_full_name": "raine/workmux",
+      "featured_at": "2026-09-12T16:10:03.514895+00:00",
+      "run_id": "2026-09-12",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4OTM1OTc5Mg==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4OTM1OTc5Mg==",
+      "full_name": "reacherhq/check-if-email-exists",
+      "source_full_name": "reacherhq/check-if-email-exists",
+      "featured_at": "2026-09-12T16:10:03.514900+00:00",
+      "run_id": "2026-09-12",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOJ8NLww",
+      "source_node_id": "R_kgDOJ8NLww",
+      "full_name": "drawdb-io/drawdb",
+      "source_full_name": "drawdb-io/drawdb",
+      "featured_at": "2026-09-12T16:10:03.514905+00:00",
+      "run_id": "2026-09-12",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOM9cyRw",
+      "source_node_id": "R_kgDOM9cyRw",
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "source_full_name": "Flowseal/zapret-discord-youtube",
+      "featured_at": "2026-09-12T16:10:03.514910+00:00",
+      "run_id": "2026-09-12",
+      "rank": 10
     }
   ]
 }
