@@ -2610,6 +2610,96 @@
       "featured_at": "2026-09-12T16:10:03.514910+00:00",
       "run_id": "2026-09-12",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSgbPIg",
+      "source_node_id": "R_kgDOSgbPIg",
+      "full_name": "alibaba/open-code-review",
+      "source_full_name": "alibaba/open-code-review",
+      "featured_at": "2026-09-13T16:57:57.301079+00:00",
+      "run_id": "2026-09-13",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQEkLnw",
+      "source_node_id": "R_kgDOQEkLnw",
+      "full_name": "max-sixty/worktrunk",
+      "source_full_name": "max-sixty/worktrunk",
+      "featured_at": "2026-09-13T16:57:57.301105+00:00",
+      "run_id": "2026-09-13",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOIGVm7g",
+      "source_node_id": "R_kgDOIGVm7g",
+      "full_name": "martin-olivier/airgorah",
+      "source_full_name": "martin-olivier/airgorah",
+      "featured_at": "2026-09-13T16:57:57.301117+00:00",
+      "run_id": "2026-09-13",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOQ80aRQ",
+      "source_node_id": "R_kgDOQ80aRQ",
+      "full_name": "tech-leads-club/agent-skills",
+      "source_full_name": "tech-leads-club/agent-skills",
+      "featured_at": "2026-09-13T16:57:57.301124+00:00",
+      "run_id": "2026-09-13",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOSRkPEA",
+      "source_node_id": "R_kgDOSRkPEA",
+      "full_name": "mattpocock/dictionary-of-ai-coding",
+      "source_full_name": "mattpocock/dictionary-of-ai-coding",
+      "featured_at": "2026-09-13T16:57:57.301131+00:00",
+      "run_id": "2026-09-13",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOSWQFdA",
+      "source_node_id": "R_kgDOSWQFdA",
+      "full_name": "microsoft/AI-Engineering-Coach",
+      "source_full_name": "microsoft/AI-Engineering-Coach",
+      "featured_at": "2026-09-13T16:57:57.301138+00:00",
+      "run_id": "2026-09-13",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOR7zWtw",
+      "source_node_id": "R_kgDOR7zWtw",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "source_full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "featured_at": "2026-09-13T16:57:57.301144+00:00",
+      "run_id": "2026-09-13",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDORBEkag",
+      "source_node_id": "R_kgDORBEkag",
+      "full_name": "ColeMurray/background-agents",
+      "source_full_name": "ColeMurray/background-agents",
+      "featured_at": "2026-09-13T16:57:57.301150+00:00",
+      "run_id": "2026-09-13",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDONXs8_A",
+      "source_node_id": "R_kgDONXs8_A",
+      "full_name": "thesysdev/openui",
+      "source_full_name": "thesysdev/openui",
+      "featured_at": "2026-09-13T16:57:57.301156+00:00",
+      "run_id": "2026-09-13",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNTUyMjA2NDE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNTUyMjA2NDE=",
+      "full_name": "huggingface/transformers",
+      "source_full_name": "huggingface/transformers",
+      "featured_at": "2026-09-13T16:57:57.301162+00:00",
+      "run_id": "2026-09-13",
+      "rank": 10
     }
   ]
 }
