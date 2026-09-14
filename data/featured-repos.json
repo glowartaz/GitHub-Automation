@@ -2700,6 +2700,96 @@
       "featured_at": "2026-09-13T16:57:57.301162+00:00",
       "run_id": "2026-09-13",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxODk4MjkzOTI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxODk4MjkzOTI=",
+      "full_name": "ever-co/ever-gauzy",
+      "source_full_name": "ever-co/ever-gauzy",
+      "featured_at": "2026-09-14T18:34:59.925795+00:00",
+      "run_id": "2026-09-14",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQdLIuw",
+      "source_node_id": "R_kgDOQdLIuw",
+      "full_name": "666ghj/MiroFish",
+      "source_full_name": "666ghj/MiroFish",
+      "featured_at": "2026-09-14T18:34:59.925820+00:00",
+      "run_id": "2026-09-14",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOIoAhgw",
+      "source_node_id": "R_kgDOIoAhgw",
+      "full_name": "localsend/localsend",
+      "source_full_name": "localsend/localsend",
+      "featured_at": "2026-09-14T18:34:59.925830+00:00",
+      "run_id": "2026-09-14",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNDQ5NDkzNjE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNDQ5NDkzNjE=",
+      "full_name": "Mathieu2301/TradingView-API",
+      "source_full_name": "Mathieu2301/TradingView-API",
+      "featured_at": "2026-09-14T18:34:59.925838+00:00",
+      "run_id": "2026-09-14",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOI8xhwA",
+      "source_node_id": "R_kgDOI8xhwA",
+      "full_name": "danny-avila/LibreChat",
+      "source_full_name": "danny-avila/LibreChat",
+      "featured_at": "2026-09-14T18:34:59.925845+00:00",
+      "run_id": "2026-09-14",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDONyaO6Q",
+      "source_node_id": "R_kgDONyaO6Q",
+      "full_name": "reconurge/flowsint",
+      "source_full_name": "reconurge/flowsint",
+      "featured_at": "2026-09-14T18:34:59.925852+00:00",
+      "run_id": "2026-09-14",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOS2SYLQ",
+      "source_node_id": "R_kgDOS2SYLQ",
+      "full_name": "peetzweg/opendisplay",
+      "source_full_name": "peetzweg/opendisplay",
+      "featured_at": "2026-09-14T18:34:59.925858+00:00",
+      "run_id": "2026-09-14",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOPwqvLQ",
+      "source_node_id": "R_kgDOPwqvLQ",
+      "full_name": "OpenBMB/VoxCPM",
+      "source_full_name": "OpenBMB/VoxCPM",
+      "featured_at": "2026-09-14T18:34:59.925868+00:00",
+      "run_id": "2026-09-14",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNTQzMjgzNzE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNTQzMjgzNzE=",
+      "full_name": "NangoHQ/nango",
+      "source_full_name": "NangoHQ/nango",
+      "featured_at": "2026-09-14T18:34:59.925874+00:00",
+      "run_id": "2026-09-14",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMzM0ODMxMTY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMzM0ODMxMTY=",
+      "full_name": "dgtlmoon/changedetection.io",
+      "source_full_name": "dgtlmoon/changedetection.io",
+      "featured_at": "2026-09-14T18:34:59.925881+00:00",
+      "run_id": "2026-09-14",
+      "rank": 10
     }
   ]
 }
