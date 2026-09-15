@@ -2790,6 +2790,96 @@
       "featured_at": "2026-09-14T18:34:59.925881+00:00",
       "run_id": "2026-09-14",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOS-b1TA",
+      "source_node_id": "R_kgDOS-b1TA",
+      "full_name": "cloudflare/security-audit-skill",
+      "source_full_name": "cloudflare/security-audit-skill",
+      "featured_at": "2026-09-15T17:41:18.232239+00:00",
+      "run_id": "2026-09-15",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOIDVo1g",
+      "source_node_id": "R_kgDOIDVo1g",
+      "full_name": "fleetbase/fleetbase",
+      "source_full_name": "fleetbase/fleetbase",
+      "featured_at": "2026-09-15T17:41:18.232265+00:00",
+      "run_id": "2026-09-15",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOPBI6Sw",
+      "source_node_id": "R_kgDOPBI6Sw",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "source_full_name": "Crosstalk-Solutions/project-nomad",
+      "featured_at": "2026-09-15T17:41:18.232277+00:00",
+      "run_id": "2026-09-15",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDORcT-5w",
+      "source_node_id": "R_kgDORcT-5w",
+      "full_name": "Homebrew/BrewUI",
+      "source_full_name": "Homebrew/BrewUI",
+      "featured_at": "2026-09-15T17:41:18.232285+00:00",
+      "run_id": "2026-09-15",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOIhIiww",
+      "source_node_id": "R_kgDOIhIiww",
+      "full_name": "roboflow/supervision",
+      "source_full_name": "roboflow/supervision",
+      "featured_at": "2026-09-15T17:41:18.232292+00:00",
+      "run_id": "2026-09-15",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOSanIog",
+      "source_node_id": "R_kgDOSanIog",
+      "full_name": "kunchenguid/lavish-axi",
+      "source_full_name": "kunchenguid/lavish-axi",
+      "featured_at": "2026-09-15T17:41:18.232298+00:00",
+      "run_id": "2026-09-15",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOGyI-8A",
+      "source_node_id": "R_kgDOGyI-8A",
+      "full_name": "immich-app/immich",
+      "source_full_name": "immich-app/immich",
+      "featured_at": "2026-09-15T17:41:18.232304+00:00",
+      "run_id": "2026-09-15",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOS1qBpA",
+      "source_node_id": "R_kgDOS1qBpA",
+      "full_name": "MG1937/ASC",
+      "source_full_name": "MG1937/ASC",
+      "featured_at": "2026-09-15T17:41:18.232310+00:00",
+      "run_id": "2026-09-15",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOKxH29A",
+      "source_node_id": "R_kgDOKxH29A",
+      "full_name": "rustfs/rustfs",
+      "source_full_name": "rustfs/rustfs",
+      "featured_at": "2026-09-15T17:41:18.232316+00:00",
+      "run_id": "2026-09-15",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOJHBKtw",
+      "source_node_id": "R_kgDOJHBKtw",
+      "full_name": "rommapp/romm",
+      "source_full_name": "rommapp/romm",
+      "featured_at": "2026-09-15T17:41:18.232322+00:00",
+      "run_id": "2026-09-15",
+      "rank": 10
     }
   ]
 }
