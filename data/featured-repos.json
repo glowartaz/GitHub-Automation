@@ -2880,6 +2880,96 @@
       "featured_at": "2026-09-15T17:41:18.232322+00:00",
       "run_id": "2026-09-15",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOPQrONg",
+      "source_node_id": "R_kgDOPQrONg",
+      "full_name": "Tencent/WeKnora",
+      "source_full_name": "Tencent/WeKnora",
+      "featured_at": "2026-09-16T17:40:08.201885+00:00",
+      "run_id": "2026-09-16",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTIqiAg",
+      "source_node_id": "R_kgDOTIqiAg",
+      "full_name": "abue-ammar/tinycast",
+      "source_full_name": "abue-ammar/tinycast",
+      "featured_at": "2026-09-16T17:40:08.201915+00:00",
+      "run_id": "2026-09-16",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOTRrGxQ",
+      "source_node_id": "R_kgDOTRrGxQ",
+      "full_name": "TencentCloud/Octop",
+      "source_full_name": "TencentCloud/Octop",
+      "featured_at": "2026-09-16T17:40:08.201924+00:00",
+      "run_id": "2026-09-16",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNzQ0OTU0MjU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNzQ0OTU0MjU=",
+      "full_name": "remotion-dev/remotion",
+      "source_full_name": "remotion-dev/remotion",
+      "featured_at": "2026-09-16T17:40:08.201931+00:00",
+      "run_id": "2026-09-16",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOQI1skA",
+      "source_node_id": "R_kgDOQI1skA",
+      "full_name": "meituan-longcat/LongCat-Video",
+      "source_full_name": "meituan-longcat/LongCat-Video",
+      "featured_at": "2026-09-16T17:40:08.201937+00:00",
+      "run_id": "2026-09-16",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMTQ1ODcxOTM=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMTQ1ODcxOTM=",
+      "full_name": "supabase/supabase",
+      "source_full_name": "supabase/supabase",
+      "featured_at": "2026-09-16T17:40:08.201943+00:00",
+      "run_id": "2026-09-16",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDORMzO-g",
+      "source_node_id": "R_kgDORMzO-g",
+      "full_name": "xuanyustudio/LocalMiniDrama",
+      "source_full_name": "xuanyustudio/LocalMiniDrama",
+      "featured_at": "2026-09-16T17:40:08.201949+00:00",
+      "run_id": "2026-09-16",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOPeGy7g",
+      "source_node_id": "R_kgDOPeGy7g",
+      "full_name": "darkzOGx/youtube-automation-agent",
+      "source_full_name": "darkzOGx/youtube-automation-agent",
+      "featured_at": "2026-09-16T17:40:08.201954+00:00",
+      "run_id": "2026-09-16",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOSpqjmQ",
+      "source_node_id": "R_kgDOSpqjmQ",
+      "full_name": "opengeos/GeoLibre",
+      "source_full_name": "opengeos/GeoLibre",
+      "featured_at": "2026-09-16T17:40:08.201960+00:00",
+      "run_id": "2026-09-16",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOMSqWwQ",
+      "source_node_id": "R_kgDOMSqWwQ",
+      "full_name": "cline/cline",
+      "source_full_name": "cline/cline",
+      "featured_at": "2026-09-16T17:40:08.201965+00:00",
+      "run_id": "2026-09-16",
+      "rank": 10
     }
   ]
 }
