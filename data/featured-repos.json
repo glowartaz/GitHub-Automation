@@ -2970,6 +2970,96 @@
       "featured_at": "2026-09-16T17:40:08.201965+00:00",
       "run_id": "2026-09-16",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTBhgGw",
+      "source_node_id": "R_kgDOTBhgGw",
+      "full_name": "Tencent/BrowserSkill",
+      "source_full_name": "Tencent/BrowserSkill",
+      "featured_at": "2026-09-17T17:37:14.173081+00:00",
+      "run_id": "2026-09-17",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTSI50A",
+      "source_node_id": "R_kgDOTSI50A",
+      "full_name": "arnegiacomo/fugleramme",
+      "source_full_name": "arnegiacomo/fugleramme",
+      "featured_at": "2026-09-17T17:37:14.173106+00:00",
+      "run_id": "2026-09-17",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOQ_-q4g",
+      "source_node_id": "R_kgDOQ_-q4g",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "source_full_name": "anthropics/knowledge-work-plugins",
+      "featured_at": "2026-09-17T17:37:14.173117+00:00",
+      "run_id": "2026-09-17",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDONpkwfw",
+      "source_node_id": "R_kgDONpkwfw",
+      "full_name": "rowboatlabs/rowboat",
+      "source_full_name": "rowboatlabs/rowboat",
+      "featured_at": "2026-09-17T17:37:14.173125+00:00",
+      "run_id": "2026-09-17",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOGkVX1g",
+      "source_node_id": "R_kgDOGkVX1g",
+      "full_name": "coder/coder",
+      "source_full_name": "coder/coder",
+      "featured_at": "2026-09-17T17:37:14.173132+00:00",
+      "run_id": "2026-09-17",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOQySeqg",
+      "source_node_id": "R_kgDOQySeqg",
+      "full_name": "jarrodwatts/claude-hud",
+      "source_full_name": "jarrodwatts/claude-hud",
+      "featured_at": "2026-09-17T17:37:14.173138+00:00",
+      "run_id": "2026-09-17",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOS8OoUg",
+      "source_node_id": "R_kgDOS8OoUg",
+      "full_name": "vercel/eve",
+      "source_full_name": "vercel/eve",
+      "featured_at": "2026-09-17T17:37:14.173144+00:00",
+      "run_id": "2026-09-17",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk0ODEwOTIzOQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk0ODEwOTIzOQ==",
+      "full_name": "cilium/cilium",
+      "source_full_name": "cilium/cilium",
+      "featured_at": "2026-09-17T17:37:14.173149+00:00",
+      "run_id": "2026-09-17",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "source_full_name": "freeCodeCamp/freeCodeCamp",
+      "featured_at": "2026-09-17T17:37:14.173155+00:00",
+      "run_id": "2026-09-17",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk3MDEwNzc4Ng==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk3MDEwNzc4Ng==",
+      "full_name": "vercel/next.js",
+      "source_full_name": "vercel/next.js",
+      "featured_at": "2026-09-17T17:37:14.173161+00:00",
+      "run_id": "2026-09-17",
+      "rank": 10
     }
   ]
 }
