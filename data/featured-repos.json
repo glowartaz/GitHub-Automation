@@ -3060,6 +3060,96 @@
       "featured_at": "2026-09-17T17:37:14.173161+00:00",
       "run_id": "2026-09-17",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOPYoUTA",
+      "source_node_id": "R_kgDOPYoUTA",
+      "full_name": "Fission-AI/OpenSpec",
+      "source_full_name": "Fission-AI/OpenSpec",
+      "featured_at": "2026-09-18T17:03:05.827438+00:00",
+      "run_id": "2026-09-18",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOPEtKuQ",
+      "source_node_id": "R_kgDOPEtKuQ",
+      "full_name": "shiyu-coder/Kronos",
+      "source_full_name": "shiyu-coder/Kronos",
+      "featured_at": "2026-09-18T17:03:05.827461+00:00",
+      "run_id": "2026-09-18",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk3MjcwNTM4",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk3MjcwNTM4",
+      "full_name": "ankitects/anki",
+      "source_full_name": "ankitects/anki",
+      "featured_at": "2026-09-18T17:03:05.827472+00:00",
+      "run_id": "2026-09-18",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDONd1g_Q",
+      "source_node_id": "R_kgDONd1g_Q",
+      "full_name": "ahmedkhaleel2004/gitdiagram",
+      "source_full_name": "ahmedkhaleel2004/gitdiagram",
+      "featured_at": "2026-09-18T17:03:05.827479+00:00",
+      "run_id": "2026-09-18",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDONDsQ1w",
+      "source_node_id": "R_kgDONDsQ1w",
+      "full_name": "lfnovo/open-notebook",
+      "source_full_name": "lfnovo/open-notebook",
+      "featured_at": "2026-09-18T17:03:05.827486+00:00",
+      "run_id": "2026-09-18",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNjIyOTYxMjI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNjIyOTYxMjI=",
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "source_full_name": "PaddlePaddle/PaddleOCR",
+      "featured_at": "2026-09-18T17:03:05.827492+00:00",
+      "run_id": "2026-09-18",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOO9oTuQ",
+      "source_node_id": "R_kgDOO9oTuQ",
+      "full_name": "microsoft/agent-lightning",
+      "source_full_name": "microsoft/agent-lightning",
+      "featured_at": "2026-09-18T17:03:05.827498+00:00",
+      "run_id": "2026-09-18",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDORz9IfA",
+      "source_node_id": "R_kgDORz9IfA",
+      "full_name": "tradesdontlie/tradingview-mcp",
+      "source_full_name": "tradesdontlie/tradingview-mcp",
+      "featured_at": "2026-09-18T17:03:05.827505+00:00",
+      "run_id": "2026-09-18",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzODI0OTYzNjE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzODI0OTYzNjE=",
+      "full_name": "louislam/uptime-kuma",
+      "source_full_name": "louislam/uptime-kuma",
+      "featured_at": "2026-09-18T17:03:05.827510+00:00",
+      "run_id": "2026-09-18",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOILkxew",
+      "source_node_id": "R_kgDOILkxew",
+      "full_name": "JoeanAmier/TikTokDownloader",
+      "source_full_name": "JoeanAmier/TikTokDownloader",
+      "featured_at": "2026-09-18T17:03:05.827516+00:00",
+      "run_id": "2026-09-18",
+      "rank": 10
     }
   ]
 }
