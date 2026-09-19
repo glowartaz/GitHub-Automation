@@ -3150,6 +3150,96 @@
       "featured_at": "2026-09-18T17:03:05.827516+00:00",
       "run_id": "2026-09-18",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOP4jlrg",
+      "source_node_id": "R_kgDOP4jlrg",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "source_full_name": "Open-Dev-Society/OpenStock",
+      "featured_at": "2026-09-19T16:22:22.698775+00:00",
+      "run_id": "2026-09-19",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQ52_2Q",
+      "source_node_id": "R_kgDOQ52_2Q",
+      "full_name": "vercel-labs/json-render",
+      "source_full_name": "vercel-labs/json-render",
+      "featured_at": "2026-09-19T16:22:22.698797+00:00",
+      "run_id": "2026-09-19",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDONyaAvQ",
+      "source_node_id": "R_kgDONyaAvQ",
+      "full_name": "trycua/cua",
+      "source_full_name": "trycua/cua",
+      "featured_at": "2026-09-19T16:22:22.698804+00:00",
+      "run_id": "2026-09-19",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMzQ5OTk2OTc=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMzQ5OTk2OTc=",
+      "full_name": "higgsfield-ai/higgsfield",
+      "source_full_name": "higgsfield-ai/higgsfield",
+      "featured_at": "2026-09-19T16:22:22.698808+00:00",
+      "run_id": "2026-09-19",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORNmh8A",
+      "source_node_id": "R_kgDORNmh8A",
+      "full_name": "mcncarl/yichen-skills",
+      "source_full_name": "mcncarl/yichen-skills",
+      "featured_at": "2026-09-19T16:22:22.698812+00:00",
+      "run_id": "2026-09-19",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNTI4NzAzNzI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNTI4NzAzNzI=",
+      "full_name": "ruanyf/weekly",
+      "source_full_name": "ruanyf/weekly",
+      "featured_at": "2026-09-19T16:22:22.698816+00:00",
+      "run_id": "2026-09-19",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOSqSwNA",
+      "source_node_id": "R_kgDOSqSwNA",
+      "full_name": "yyjeqhc/webcodex",
+      "source_full_name": "yyjeqhc/webcodex",
+      "featured_at": "2026-09-19T16:22:22.698820+00:00",
+      "run_id": "2026-09-19",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDONWoU0w",
+      "source_node_id": "R_kgDONWoU0w",
+      "full_name": "virattt/ai-hedge-fund",
+      "source_full_name": "virattt/ai-hedge-fund",
+      "featured_at": "2026-09-19T16:22:22.698824+00:00",
+      "run_id": "2026-09-19",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNTA4OTE1MzI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNTA4OTE1MzI=",
+      "full_name": "cloudflare/quiche",
+      "source_full_name": "cloudflare/quiche",
+      "featured_at": "2026-09-19T16:22:22.698827+00:00",
+      "run_id": "2026-09-19",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOJxtHSw",
+      "source_node_id": "R_kgDOJxtHSw",
+      "full_name": "mem0ai/mem0",
+      "source_full_name": "mem0ai/mem0",
+      "featured_at": "2026-09-19T16:22:22.698831+00:00",
+      "run_id": "2026-09-19",
+      "rank": 10
     }
   ]
 }
