@@ -3240,6 +3240,96 @@
       "featured_at": "2026-09-19T16:22:22.698831+00:00",
       "run_id": "2026-09-19",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNzU4NTYzMjY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNzU4NTYzMjY=",
+      "full_name": "ZuodaoTech/everyone-can-use-english",
+      "source_full_name": "ZuodaoTech/everyone-can-use-english",
+      "featured_at": "2026-09-20T16:51:44.513209+00:00",
+      "run_id": "2026-09-20",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOPIwfLw",
+      "source_node_id": "R_kgDOPIwfLw",
+      "full_name": "zhouxiaoka/autoclip",
+      "source_full_name": "zhouxiaoka/autoclip",
+      "featured_at": "2026-09-20T16:51:44.513238+00:00",
+      "run_id": "2026-09-20",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDONeluaA",
+      "source_node_id": "R_kgDONeluaA",
+      "full_name": "krillinai/OpenCreator",
+      "source_full_name": "krillinai/OpenCreator",
+      "featured_at": "2026-09-20T16:51:44.513250+00:00",
+      "run_id": "2026-09-20",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDORXFZgQ",
+      "source_node_id": "R_kgDORXFZgQ",
+      "full_name": "anthropics/financial-services",
+      "source_full_name": "anthropics/financial-services",
+      "featured_at": "2026-09-20T16:51:44.513258+00:00",
+      "run_id": "2026-09-20",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOTNJGLA",
+      "source_node_id": "R_kgDOTNJGLA",
+      "full_name": "yynxxxxx/Codex-X",
+      "source_full_name": "yynxxxxx/Codex-X",
+      "featured_at": "2026-09-20T16:51:44.513264+00:00",
+      "run_id": "2026-09-20",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDONpG8pw",
+      "source_node_id": "R_kgDONpG8pw",
+      "full_name": "FareedKhan-dev/train-llm-from-scratch",
+      "source_full_name": "FareedKhan-dev/train-llm-from-scratch",
+      "featured_at": "2026-09-20T16:51:44.513271+00:00",
+      "run_id": "2026-09-20",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOPZyePQ",
+      "source_node_id": "R_kgDOPZyePQ",
+      "full_name": "mihail911/modern-software-dev-assignments",
+      "source_full_name": "mihail911/modern-software-dev-assignments",
+      "featured_at": "2026-09-20T16:51:44.513278+00:00",
+      "run_id": "2026-09-20",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOLk6wNA",
+      "source_node_id": "R_kgDOLk6wNA",
+      "full_name": "browserbase/stagehand",
+      "source_full_name": "browserbase/stagehand",
+      "featured_at": "2026-09-20T16:51:44.513284+00:00",
+      "run_id": "2026-09-20",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORtIxKw",
+      "source_node_id": "R_kgDORtIxKw",
+      "full_name": "mnfst/awesome-free-llm-apis",
+      "source_full_name": "mnfst/awesome-free-llm-apis",
+      "featured_at": "2026-09-20T16:51:44.513290+00:00",
+      "run_id": "2026-09-20",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOKu2F5w",
+      "source_node_id": "R_kgDOKu2F5w",
+      "full_name": "CapSoftware/Cap",
+      "source_full_name": "CapSoftware/Cap",
+      "featured_at": "2026-09-20T16:51:44.513296+00:00",
+      "run_id": "2026-09-20",
+      "rank": 10
     }
   ]
 }
