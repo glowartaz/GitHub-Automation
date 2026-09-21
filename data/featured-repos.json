@@ -3330,6 +3330,96 @@
       "featured_at": "2026-09-20T16:51:44.513296+00:00",
       "run_id": "2026-09-20",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORlS_jw",
+      "source_node_id": "R_kgDORlS_jw",
+      "full_name": "BuilderIO/agent-native",
+      "source_full_name": "BuilderIO/agent-native",
+      "featured_at": "2026-09-21T18:37:02.974912+00:00",
+      "run_id": "2026-09-21",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTe0Vvw",
+      "source_node_id": "R_kgDOTe0Vvw",
+      "full_name": "Jakubantalik/thinking-orbs",
+      "source_full_name": "Jakubantalik/thinking-orbs",
+      "featured_at": "2026-09-21T18:37:02.974933+00:00",
+      "run_id": "2026-09-21",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzODY1MjQ4OTU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzODY1MjQ4OTU=",
+      "full_name": "mvt-project/mvt",
+      "source_full_name": "mvt-project/mvt",
+      "featured_at": "2026-09-21T18:37:02.974941+00:00",
+      "run_id": "2026-09-21",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDON-hKPQ",
+      "source_node_id": "R_kgDON-hKPQ",
+      "full_name": "yikart/AiToEarn",
+      "source_full_name": "yikart/AiToEarn",
+      "featured_at": "2026-09-21T18:37:02.974947+00:00",
+      "run_id": "2026-09-21",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzOTQxMDI2MTI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzOTQxMDI2MTI=",
+      "full_name": "fmhy/edit",
+      "source_full_name": "fmhy/edit",
+      "featured_at": "2026-09-21T18:37:02.974953+00:00",
+      "run_id": "2026-09-21",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOQ8RYXQ",
+      "source_node_id": "R_kgDOQ8RYXQ",
+      "full_name": "guohuiyuan/go-music-dl",
+      "source_full_name": "guohuiyuan/go-music-dl",
+      "featured_at": "2026-09-21T18:37:02.974958+00:00",
+      "run_id": "2026-09-21",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDORHeFSQ",
+      "source_node_id": "R_kgDORHeFSQ",
+      "full_name": "eval-exec/neomacs",
+      "source_full_name": "eval-exec/neomacs",
+      "featured_at": "2026-09-21T18:37:02.974963+00:00",
+      "run_id": "2026-09-21",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOQ_vqRg",
+      "source_node_id": "R_kgDOQ_vqRg",
+      "full_name": "TNT-Likely/PanWatch",
+      "source_full_name": "TNT-Likely/PanWatch",
+      "featured_at": "2026-09-21T18:37:02.974967+00:00",
+      "run_id": "2026-09-21",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQ9Inng",
+      "source_node_id": "R_kgDOQ9Inng",
+      "full_name": "xai-org/x-algorithm",
+      "source_full_name": "xai-org/x-algorithm",
+      "featured_at": "2026-09-21T18:37:02.974972+00:00",
+      "run_id": "2026-09-21",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOPGh7XA",
+      "source_node_id": "R_kgDOPGh7XA",
+      "full_name": "davila7/claude-code-templates",
+      "source_full_name": "davila7/claude-code-templates",
+      "featured_at": "2026-09-21T18:37:02.974976+00:00",
+      "run_id": "2026-09-21",
+      "rank": 10
     }
   ]
 }
