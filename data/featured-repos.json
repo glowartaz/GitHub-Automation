@@ -3420,6 +3420,96 @@
       "featured_at": "2026-09-21T18:37:02.974976+00:00",
       "run_id": "2026-09-21",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOR1BXBQ",
+      "source_node_id": "R_kgDOR1BXBQ",
+      "full_name": "google/ax",
+      "source_full_name": "google/ax",
+      "featured_at": "2026-09-22T17:40:50.427968+00:00",
+      "run_id": "2026-09-22",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTMPsvA",
+      "source_node_id": "R_kgDOTMPsvA",
+      "full_name": "hydra-db/hydradb",
+      "source_full_name": "hydra-db/hydradb",
+      "featured_at": "2026-09-22T17:40:50.427995+00:00",
+      "run_id": "2026-09-22",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOROnEew",
+      "source_node_id": "R_kgDOROnEew",
+      "full_name": "Nasiko-Labs/nasiko",
+      "source_full_name": "Nasiko-Labs/nasiko",
+      "featured_at": "2026-09-22T17:40:50.428006+00:00",
+      "run_id": "2026-09-22",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOIF8T9Q",
+      "source_node_id": "R_kgDOIF8T9Q",
+      "full_name": "dream-num/univer",
+      "source_full_name": "dream-num/univer",
+      "featured_at": "2026-09-22T17:40:50.428013+00:00",
+      "run_id": "2026-09-22",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOHvghIw",
+      "source_node_id": "R_kgDOHvghIw",
+      "full_name": "upscayl/upscayl",
+      "source_full_name": "upscayl/upscayl",
+      "featured_at": "2026-09-22T17:40:50.428020+00:00",
+      "run_id": "2026-09-22",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOTZW35A",
+      "source_node_id": "R_kgDOTZW35A",
+      "full_name": "superdesigndev/treg",
+      "source_full_name": "superdesigndev/treg",
+      "featured_at": "2026-09-22T17:40:50.428026+00:00",
+      "run_id": "2026-09-22",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOR460eg",
+      "source_node_id": "R_kgDOR460eg",
+      "full_name": "tokio-rs/topcoat",
+      "source_full_name": "tokio-rs/topcoat",
+      "featured_at": "2026-09-22T17:40:50.428032+00:00",
+      "run_id": "2026-09-22",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOTcv79w",
+      "source_node_id": "R_kgDOTcv79w",
+      "full_name": "DuarteSantos8/openGym",
+      "source_full_name": "DuarteSantos8/openGym",
+      "featured_at": "2026-09-22T17:40:50.428037+00:00",
+      "run_id": "2026-09-22",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORmvzqA",
+      "source_node_id": "R_kgDORmvzqA",
+      "full_name": "calesthio/Crucix",
+      "source_full_name": "calesthio/Crucix",
+      "featured_at": "2026-09-22T17:40:50.428043+00:00",
+      "run_id": "2026-09-22",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOKr-Pwg",
+      "source_node_id": "R_kgDOKr-Pwg",
+      "full_name": "QuantumNous/new-api",
+      "source_full_name": "QuantumNous/new-api",
+      "featured_at": "2026-09-22T17:40:50.428049+00:00",
+      "run_id": "2026-09-22",
+      "rank": 10
     }
   ]
 }
