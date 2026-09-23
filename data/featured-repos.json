@@ -3510,6 +3510,96 @@
       "featured_at": "2026-09-22T17:40:50.428049+00:00",
       "run_id": "2026-09-22",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORYFOhA",
+      "source_node_id": "R_kgDORYFOhA",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "source_full_name": "DeusData/codebase-memory-mcp",
+      "featured_at": "2026-09-23T17:50:47.508202+00:00",
+      "run_id": "2026-09-23",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDORUIU8w",
+      "source_node_id": "R_kgDORUIU8w",
+      "full_name": "lahfir/agent-desktop",
+      "source_full_name": "lahfir/agent-desktop",
+      "featured_at": "2026-09-23T17:50:47.508230+00:00",
+      "run_id": "2026-09-23",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDONlQVzw",
+      "source_node_id": "R_kgDONlQVzw",
+      "full_name": "DmNote-App/DmNote",
+      "source_full_name": "DmNote-App/DmNote",
+      "featured_at": "2026-09-23T17:50:47.508239+00:00",
+      "run_id": "2026-09-23",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOL26R1g",
+      "source_node_id": "R_kgDOL26R1g",
+      "full_name": "harry7557558/spirula-studio",
+      "source_full_name": "harry7557558/spirula-studio",
+      "featured_at": "2026-09-23T17:50:47.508245+00:00",
+      "run_id": "2026-09-23",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOOqJOzg",
+      "source_node_id": "R_kgDOOqJOzg",
+      "full_name": "strands-agents/harness-sdk",
+      "source_full_name": "strands-agents/harness-sdk",
+      "featured_at": "2026-09-23T17:50:47.508251+00:00",
+      "run_id": "2026-09-23",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORsTU7g",
+      "source_node_id": "R_kgDORsTU7g",
+      "full_name": "westpoint-io/mimik",
+      "source_full_name": "westpoint-io/mimik",
+      "featured_at": "2026-09-23T17:50:47.508256+00:00",
+      "run_id": "2026-09-23",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOS2bABA",
+      "source_node_id": "R_kgDOS2bABA",
+      "full_name": "XiaomiMiMo/MiMo-Code",
+      "source_full_name": "XiaomiMiMo/MiMo-Code",
+      "featured_at": "2026-09-23T17:50:47.508261+00:00",
+      "run_id": "2026-09-23",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOPSZv0w",
+      "source_node_id": "R_kgDOPSZv0w",
+      "full_name": "acsandmann/rift",
+      "source_full_name": "acsandmann/rift",
+      "featured_at": "2026-09-23T17:50:47.508266+00:00",
+      "run_id": "2026-09-23",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOL8nxmw",
+      "source_node_id": "R_kgDOL8nxmw",
+      "full_name": "poloclub/transformer-explainer",
+      "source_full_name": "poloclub/transformer-explainer",
+      "featured_at": "2026-09-23T17:50:47.508271+00:00",
+      "run_id": "2026-09-23",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOSk3_ZA",
+      "source_node_id": "R_kgDOSk3_ZA",
+      "full_name": "open-gsd/gsd-core",
+      "source_full_name": "open-gsd/gsd-core",
+      "featured_at": "2026-09-23T17:50:47.508276+00:00",
+      "run_id": "2026-09-23",
+      "rank": 10
     }
   ]
 }
