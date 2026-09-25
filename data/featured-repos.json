@@ -3690,6 +3690,96 @@
       "featured_at": "2026-09-24T17:52:37.690686+00:00",
       "run_id": "2026-09-24",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORclPyA",
+      "source_node_id": "R_kgDORclPyA",
+      "full_name": "paperclipai/paperclip",
+      "source_full_name": "paperclipai/paperclip",
+      "featured_at": "2026-09-25T17:54:26.269927+00:00",
+      "run_id": "2026-09-25",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOLyRtKQ",
+      "source_node_id": "R_kgDOLyRtKQ",
+      "full_name": "NVIDIA/Model-Optimizer",
+      "source_full_name": "NVIDIA/Model-Optimizer",
+      "featured_at": "2026-09-25T17:54:26.269947+00:00",
+      "run_id": "2026-09-25",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOTAYQNQ",
+      "source_node_id": "R_kgDOTAYQNQ",
+      "full_name": "derv82/wifit3",
+      "source_full_name": "derv82/wifit3",
+      "featured_at": "2026-09-25T17:54:26.269956+00:00",
+      "run_id": "2026-09-25",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOPJPepw",
+      "source_node_id": "R_kgDOPJPepw",
+      "full_name": "google/langextract",
+      "source_full_name": "google/langextract",
+      "featured_at": "2026-09-25T17:54:26.269962+00:00",
+      "run_id": "2026-09-25",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk2MjgxMjI2MQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk2MjgxMjI2MQ==",
+      "full_name": "kelseyhightower/kubernetes-the-hard-way",
+      "source_full_name": "kelseyhightower/kubernetes-the-hard-way",
+      "featured_at": "2026-09-25T17:54:26.269967+00:00",
+      "run_id": "2026-09-25",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOR2ntBw",
+      "source_node_id": "R_kgDOR2ntBw",
+      "full_name": "mvschwarz/openrig",
+      "source_full_name": "mvschwarz/openrig",
+      "featured_at": "2026-09-25T17:54:26.269972+00:00",
+      "run_id": "2026-09-25",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk1NzYyMDE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk1NzYyMDE=",
+      "full_name": "mrdoob/three.js",
+      "source_full_name": "mrdoob/three.js",
+      "featured_at": "2026-09-25T17:54:26.269976+00:00",
+      "run_id": "2026-09-25",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDORMhgaQ",
+      "source_node_id": "R_kgDORMhgaQ",
+      "full_name": "run-llama/liteparse",
+      "source_full_name": "run-llama/liteparse",
+      "featured_at": "2026-09-25T17:54:26.269981+00:00",
+      "run_id": "2026-09-25",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOMsLY6g",
+      "source_node_id": "R_kgDOMsLY6g",
+      "full_name": "nobodywho-ooo/nobodywho",
+      "source_full_name": "nobodywho-ooo/nobodywho",
+      "featured_at": "2026-09-25T17:54:26.269985+00:00",
+      "run_id": "2026-09-25",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMjcwODk4NzA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMjcwODk4NzA=",
+      "full_name": "payloadcms/payload",
+      "source_full_name": "payloadcms/payload",
+      "featured_at": "2026-09-25T17:54:26.269989+00:00",
+      "run_id": "2026-09-25",
+      "rank": 10
     }
   ]
 }
