@@ -3780,6 +3780,96 @@
       "featured_at": "2026-09-25T17:54:26.269989+00:00",
       "run_id": "2026-09-25",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOKrhEtA",
+      "source_node_id": "R_kgDOKrhEtA",
+      "full_name": "openbao/openbao",
+      "source_full_name": "openbao/openbao",
+      "featured_at": "2026-09-26T16:59:17.021919+00:00",
+      "run_id": "2026-09-26",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOOQVw5Q",
+      "source_node_id": "R_kgDOOQVw5Q",
+      "full_name": "mobile-next/mobile-mcp",
+      "source_full_name": "mobile-next/mobile-mcp",
+      "featured_at": "2026-09-26T16:59:17.021943+00:00",
+      "run_id": "2026-09-26",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORpsWiQ",
+      "source_node_id": "R_kgDORpsWiQ",
+      "full_name": "lightningpixel/modly",
+      "source_full_name": "lightningpixel/modly",
+      "featured_at": "2026-09-26T16:59:17.021954+00:00",
+      "run_id": "2026-09-26",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNjI5OTg0Nzk=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNjI5OTg0Nzk=",
+      "full_name": "sherlock-project/sherlock",
+      "source_full_name": "sherlock-project/sherlock",
+      "featured_at": "2026-09-26T16:59:17.021961+00:00",
+      "run_id": "2026-09-26",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOTgrO0w",
+      "source_node_id": "R_kgDOTgrO0w",
+      "full_name": "vercel-labs/scriptc",
+      "source_full_name": "vercel-labs/scriptc",
+      "featured_at": "2026-09-26T16:59:17.021968+00:00",
+      "run_id": "2026-09-26",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==",
+      "full_name": "microsoft/vscode",
+      "source_full_name": "microsoft/vscode",
+      "featured_at": "2026-09-26T16:59:17.021975+00:00",
+      "run_id": "2026-09-26",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOHzFRPw",
+      "source_node_id": "R_kgDOHzFRPw",
+      "full_name": "hmjz100/LinkSwift",
+      "source_full_name": "hmjz100/LinkSwift",
+      "featured_at": "2026-09-26T16:59:17.021981+00:00",
+      "run_id": "2026-09-26",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOTPb-HQ",
+      "source_node_id": "R_kgDOTPb-HQ",
+      "full_name": "zenbu-labs/terminal-browser",
+      "source_full_name": "zenbu-labs/terminal-browser",
+      "featured_at": "2026-09-26T16:59:17.021987+00:00",
+      "run_id": "2026-09-26",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMTI2MzkwNzE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMTI2MzkwNzE=",
+      "full_name": "bregman-arie/devops-exercises",
+      "source_full_name": "bregman-arie/devops-exercises",
+      "featured_at": "2026-09-26T16:59:17.021993+00:00",
+      "run_id": "2026-09-26",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOPSVUiA",
+      "source_node_id": "R_kgDOPSVUiA",
+      "full_name": "wshobson/agents",
+      "source_full_name": "wshobson/agents",
+      "featured_at": "2026-09-26T16:59:17.021999+00:00",
+      "run_id": "2026-09-26",
+      "rank": 10
     }
   ]
 }
