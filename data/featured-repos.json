@@ -3870,6 +3870,96 @@
       "featured_at": "2026-09-26T16:59:17.021999+00:00",
       "run_id": "2026-09-26",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMzQ5MTg5NQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMzQ5MTg5NQ==",
+      "full_name": "EbookFoundation/free-programming-books",
+      "source_full_name": "EbookFoundation/free-programming-books",
+      "featured_at": "2026-09-27T17:36:30.859360+00:00",
+      "run_id": "2026-09-27",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOHUPVtw",
+      "source_node_id": "R_kgDOHUPVtw",
+      "full_name": "InfinityLoop1308/PipePipe",
+      "source_full_name": "InfinityLoop1308/PipePipe",
+      "featured_at": "2026-09-27T17:36:30.859382+00:00",
+      "run_id": "2026-09-27",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORg9yrQ",
+      "source_node_id": "R_kgDORg9yrQ",
+      "full_name": "willfaust/Madeira",
+      "source_full_name": "willfaust/Madeira",
+      "featured_at": "2026-09-27T17:36:30.859391+00:00",
+      "run_id": "2026-09-27",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOMGdSNQ",
+      "source_node_id": "R_kgDOMGdSNQ",
+      "full_name": "microsoft/data-formulator",
+      "source_full_name": "microsoft/data-formulator",
+      "featured_at": "2026-09-27T17:36:30.859396+00:00",
+      "run_id": "2026-09-27",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOKOGnGg",
+      "source_node_id": "R_kgDOKOGnGg",
+      "full_name": "putyy/res-downloader",
+      "source_full_name": "putyy/res-downloader",
+      "featured_at": "2026-09-27T17:36:30.859400+00:00",
+      "run_id": "2026-09-27",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNDA2ODA4Mzk=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNDA2ODA4Mzk=",
+      "full_name": "git-bug/git-bug",
+      "source_full_name": "git-bug/git-bug",
+      "featured_at": "2026-09-27T17:36:30.859405+00:00",
+      "run_id": "2026-09-27",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOSpvcnw",
+      "source_node_id": "R_kgDOSpvcnw",
+      "full_name": "SinaXhpm/Submarine",
+      "source_full_name": "SinaXhpm/Submarine",
+      "featured_at": "2026-09-27T17:36:30.859409+00:00",
+      "run_id": "2026-09-27",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==",
+      "full_name": "pytorch/pytorch",
+      "source_full_name": "pytorch/pytorch",
+      "featured_at": "2026-09-27T17:36:30.859414+00:00",
+      "run_id": "2026-09-27",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOHN_kHw",
+      "source_node_id": "R_kgDOHN_kHw",
+      "full_name": "dagucloud/dagu",
+      "source_full_name": "dagucloud/dagu",
+      "featured_at": "2026-09-27T17:36:30.859418+00:00",
+      "run_id": "2026-09-27",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMzY3ODA0NDU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMzY3ODA0NDU=",
+      "full_name": "kitao/pyxel",
+      "source_full_name": "kitao/pyxel",
+      "featured_at": "2026-09-27T17:36:30.859422+00:00",
+      "run_id": "2026-09-27",
+      "rank": 10
     }
   ]
 }
