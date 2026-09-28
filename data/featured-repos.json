@@ -3960,6 +3960,96 @@
       "featured_at": "2026-09-27T17:36:30.859422+00:00",
       "run_id": "2026-09-27",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOLJyqEQ",
+      "source_node_id": "R_kgDOLJyqEQ",
+      "full_name": "satnaing/shadcn-admin",
+      "source_full_name": "satnaing/shadcn-admin",
+      "featured_at": "2026-09-28T20:07:28.899931+00:00",
+      "run_id": "2026-09-28",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDONXX6dw",
+      "source_node_id": "R_kgDONXX6dw",
+      "full_name": "moeru-ai/airi",
+      "source_full_name": "moeru-ai/airi",
+      "featured_at": "2026-09-28T20:07:28.899954+00:00",
+      "run_id": "2026-09-28",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4ODAxMTkwOA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4ODAxMTkwOA==",
+      "full_name": "practical-tutorials/project-based-learning",
+      "source_full_name": "practical-tutorials/project-based-learning",
+      "featured_at": "2026-09-28T20:07:28.899965+00:00",
+      "run_id": "2026-09-28",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOS_q8NQ",
+      "source_node_id": "R_kgDOS_q8NQ",
+      "full_name": "ashhart/TensorFold",
+      "source_full_name": "ashhart/TensorFold",
+      "featured_at": "2026-09-28T20:07:28.899972+00:00",
+      "run_id": "2026-09-28",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOSXkMwg",
+      "source_node_id": "R_kgDOSXkMwg",
+      "full_name": "microsoft/SkillOpt",
+      "source_full_name": "microsoft/SkillOpt",
+      "featured_at": "2026-09-28T20:07:28.899979+00:00",
+      "run_id": "2026-09-28",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOKH31kA",
+      "source_node_id": "R_kgDOKH31kA",
+      "full_name": "topoteretes/cognee",
+      "source_full_name": "topoteretes/cognee",
+      "featured_at": "2026-09-28T20:07:28.899985+00:00",
+      "run_id": "2026-09-28",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQ9ePjA",
+      "source_node_id": "R_kgDOQ9ePjA",
+      "full_name": "rorkai/App-Store-Connect-CLI",
+      "source_full_name": "rorkai/App-Store-Connect-CLI",
+      "featured_at": "2026-09-28T20:07:28.899991+00:00",
+      "run_id": "2026-09-28",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOQwpiiA",
+      "source_node_id": "R_kgDOQwpiiA",
+      "full_name": "samugit83/redamon",
+      "source_full_name": "samugit83/redamon",
+      "featured_at": "2026-09-28T20:07:28.899997+00:00",
+      "run_id": "2026-09-28",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQheEEQ",
+      "source_node_id": "R_kgDOQheEEQ",
+      "full_name": "code-yeongyu/oh-my-openagent",
+      "source_full_name": "code-yeongyu/oh-my-openagent",
+      "featured_at": "2026-09-28T20:07:28.900003+00:00",
+      "run_id": "2026-09-28",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDORbFe_Q",
+      "source_node_id": "R_kgDORbFe_Q",
+      "full_name": "HelpCode-ai/anythingmcp",
+      "source_full_name": "HelpCode-ai/anythingmcp",
+      "featured_at": "2026-09-28T20:07:28.900009+00:00",
+      "run_id": "2026-09-28",
+      "rank": 10
     }
   ]
 }
