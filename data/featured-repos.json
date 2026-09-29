@@ -4050,6 +4050,96 @@
       "featured_at": "2026-09-28T20:07:28.900009+00:00",
       "run_id": "2026-09-28",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORYG5fg",
+      "source_node_id": "R_kgDORYG5fg",
+      "full_name": "NVIDIA/OpenShell",
+      "source_full_name": "NVIDIA/OpenShell",
+      "featured_at": "2026-09-29T18:35:49.626925+00:00",
+      "run_id": "2026-09-29",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOOSIGEQ",
+      "source_node_id": "R_kgDOOSIGEQ",
+      "full_name": "VectifyAI/PageIndex",
+      "source_full_name": "VectifyAI/PageIndex",
+      "featured_at": "2026-09-29T18:35:49.626954+00:00",
+      "run_id": "2026-09-29",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOPrEI7g",
+      "source_node_id": "R_kgDOPrEI7g",
+      "full_name": "Gaurav-Gosain/tuios",
+      "source_full_name": "Gaurav-Gosain/tuios",
+      "featured_at": "2026-09-29T18:35:49.626965+00:00",
+      "run_id": "2026-09-29",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOMcSVvg",
+      "source_node_id": "R_kgDOMcSVvg",
+      "full_name": "Pumpkin-MC/Pumpkin",
+      "source_full_name": "Pumpkin-MC/Pumpkin",
+      "featured_at": "2026-09-29T18:35:49.626973+00:00",
+      "run_id": "2026-09-29",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOSGizRQ",
+      "source_node_id": "R_kgDOSGizRQ",
+      "full_name": "timhartmann7/omnyssh",
+      "source_full_name": "timhartmann7/omnyssh",
+      "featured_at": "2026-09-29T18:35:49.626979+00:00",
+      "run_id": "2026-09-29",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOR1YMug",
+      "source_node_id": "R_kgDOR1YMug",
+      "full_name": "averygan/reclip",
+      "source_full_name": "averygan/reclip",
+      "featured_at": "2026-09-29T18:35:49.626985+00:00",
+      "run_id": "2026-09-29",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDORXYnQA",
+      "source_node_id": "R_kgDORXYnQA",
+      "full_name": "cloudflare/vinext",
+      "source_full_name": "cloudflare/vinext",
+      "featured_at": "2026-09-29T18:35:49.626992+00:00",
+      "run_id": "2026-09-29",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOKQSOaw",
+      "source_node_id": "R_kgDOKQSOaw",
+      "full_name": "harvard-edge/cs249r_book",
+      "source_full_name": "harvard-edge/cs249r_book",
+      "featured_at": "2026-09-29T18:35:49.626998+00:00",
+      "run_id": "2026-09-29",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOIvux3g",
+      "source_node_id": "R_kgDOIvux3g",
+      "full_name": "jdx/mise",
+      "source_full_name": "jdx/mise",
+      "featured_at": "2026-09-29T18:35:49.627004+00:00",
+      "run_id": "2026-09-29",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOQlAGiA",
+      "source_node_id": "R_kgDOQlAGiA",
+      "full_name": "vercel-labs/agent-skills",
+      "source_full_name": "vercel-labs/agent-skills",
+      "featured_at": "2026-09-29T18:35:49.627010+00:00",
+      "run_id": "2026-09-29",
+      "rank": 10
     }
   ]
 }
