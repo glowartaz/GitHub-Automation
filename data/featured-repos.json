@@ -4140,6 +4140,96 @@
       "featured_at": "2026-09-29T18:35:49.627010+00:00",
       "run_id": "2026-09-29",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOJXFz5Q",
+      "source_node_id": "R_kgDOJXFz5Q",
+      "full_name": "HunxByts/GhostTrack",
+      "source_full_name": "HunxByts/GhostTrack",
+      "featured_at": "2026-09-30T18:24:44.944714+00:00",
+      "run_id": "2026-09-30",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSN5LZA",
+      "source_node_id": "R_kgDOSN5LZA",
+      "full_name": "ifixai-ai/iFixAi",
+      "source_full_name": "ifixai-ai/iFixAi",
+      "featured_at": "2026-09-30T18:24:44.944733+00:00",
+      "run_id": "2026-09-30",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk5NTM4MTI0OA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk5NTM4MTI0OA==",
+      "full_name": "qbittorrent/search-plugins",
+      "source_full_name": "qbittorrent/search-plugins",
+      "featured_at": "2026-09-30T18:24:44.944740+00:00",
+      "run_id": "2026-09-30",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOQ8Zv7w",
+      "source_node_id": "R_kgDOQ8Zv7w",
+      "full_name": "colbymchenry/codegraph",
+      "source_full_name": "colbymchenry/codegraph",
+      "featured_at": "2026-09-30T18:24:44.944744+00:00",
+      "run_id": "2026-09-30",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMjI5MjEyNDg=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMjI5MjEyNDg=",
+      "full_name": "LibreTranslate/LibreTranslate",
+      "source_full_name": "LibreTranslate/LibreTranslate",
+      "featured_at": "2026-09-30T18:24:44.944748+00:00",
+      "run_id": "2026-09-30",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDONRaG_w",
+      "source_node_id": "R_kgDONRaG_w",
+      "full_name": "modelcontextprotocol/servers",
+      "source_full_name": "modelcontextprotocol/servers",
+      "featured_at": "2026-09-30T18:24:44.944752+00:00",
+      "run_id": "2026-09-30",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOR5mq1Q",
+      "source_node_id": "R_kgDOR5mq1Q",
+      "full_name": "VectifyAI/OpenKB",
+      "source_full_name": "VectifyAI/OpenKB",
+      "featured_at": "2026-09-30T18:24:44.944756+00:00",
+      "run_id": "2026-09-30",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOOY4eVg",
+      "source_node_id": "R_kgDOOY4eVg",
+      "full_name": "bmad-code-org/BMAD-METHOD",
+      "source_full_name": "bmad-code-org/BMAD-METHOD",
+      "featured_at": "2026-09-30T18:24:44.944759+00:00",
+      "run_id": "2026-09-30",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOR6R3VQ",
+      "source_node_id": "R_kgDOR6R3VQ",
+      "full_name": "xiufengsun/TokenTracker",
+      "source_full_name": "xiufengsun/TokenTracker",
+      "featured_at": "2026-09-30T18:24:44.944763+00:00",
+      "run_id": "2026-09-30",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMTIwMjYxMTY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMTIwMjYxMTY=",
+      "full_name": "WesselKroos/youtube-ambilight",
+      "source_full_name": "WesselKroos/youtube-ambilight",
+      "featured_at": "2026-09-30T18:24:44.944767+00:00",
+      "run_id": "2026-09-30",
+      "rank": 10
     }
   ]
 }
