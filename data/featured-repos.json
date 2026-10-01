@@ -4230,6 +4230,96 @@
       "featured_at": "2026-09-30T18:24:44.944767+00:00",
       "run_id": "2026-09-30",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOGayjGg",
+      "source_node_id": "R_kgDOGayjGg",
+      "full_name": "dmtrKovalenko/fframes",
+      "source_full_name": "dmtrKovalenko/fframes",
+      "featured_at": "2026-10-01T18:48:50.861779+00:00",
+      "run_id": "2026-10-01",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTaHAxw",
+      "source_node_id": "R_kgDOTaHAxw",
+      "full_name": "pablostanley/yoinks",
+      "source_full_name": "pablostanley/yoinks",
+      "featured_at": "2026-10-01T18:48:50.861797+00:00",
+      "run_id": "2026-10-01",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOHfAAfQ",
+      "source_node_id": "R_kgDOHfAAfQ",
+      "full_name": "Neet-Nestor/Telegram-Media-Downloader",
+      "source_full_name": "Neet-Nestor/Telegram-Media-Downloader",
+      "featured_at": "2026-10-01T18:48:50.861804+00:00",
+      "run_id": "2026-10-01",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOTgmRhg",
+      "source_node_id": "R_kgDOTgmRhg",
+      "full_name": "Friedrich-M/UniMate",
+      "source_full_name": "Friedrich-M/UniMate",
+      "featured_at": "2026-10-01T18:48:50.861807+00:00",
+      "run_id": "2026-10-01",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOM61wYg",
+      "source_node_id": "R_kgDOM61wYg",
+      "full_name": "tile-ai/tilelang",
+      "source_full_name": "tile-ai/tilelang",
+      "featured_at": "2026-10-01T18:48:50.861811+00:00",
+      "run_id": "2026-10-01",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4OTAzMzU1Ng==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4OTAzMzU1Ng==",
+      "full_name": "firebase/firebase-ios-sdk",
+      "source_full_name": "firebase/firebase-ios-sdk",
+      "featured_at": "2026-10-01T18:48:50.861815+00:00",
+      "run_id": "2026-10-01",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOOmBWgw",
+      "source_node_id": "R_kgDOOmBWgw",
+      "full_name": "ag-ui-protocol/ag-ui",
+      "source_full_name": "ag-ui-protocol/ag-ui",
+      "featured_at": "2026-10-01T18:48:50.861818+00:00",
+      "run_id": "2026-10-01",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNTQ4MzI3OTk=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNTQ4MzI3OTk=",
+      "full_name": "Z4nzu/hackingtool",
+      "source_full_name": "Z4nzu/hackingtool",
+      "featured_at": "2026-10-01T18:48:50.861821+00:00",
+      "run_id": "2026-10-01",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOO6BQUQ",
+      "source_node_id": "R_kgDOO6BQUQ",
+      "full_name": "github/awesome-copilot",
+      "source_full_name": "github/awesome-copilot",
+      "featured_at": "2026-10-01T18:48:50.861824+00:00",
+      "run_id": "2026-10-01",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMzI0NjQzOTU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMzI0NjQzOTU=",
+      "full_name": "Snailclimb/JavaGuide",
+      "source_full_name": "Snailclimb/JavaGuide",
+      "featured_at": "2026-10-01T18:48:50.861827+00:00",
+      "run_id": "2026-10-01",
+      "rank": 10
     }
   ]
 }
