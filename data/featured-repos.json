@@ -4320,6 +4320,96 @@
       "featured_at": "2026-10-01T18:48:50.861827+00:00",
       "run_id": "2026-10-01",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMjE0NTgxMzY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMjE0NTgxMzY=",
+      "full_name": "Effect-TS/effect",
+      "source_full_name": "Effect-TS/effect",
+      "featured_at": "2026-10-02T18:20:24.237487+00:00",
+      "run_id": "2026-10-02",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDORGyANg",
+      "source_node_id": "R_kgDORGyANg",
+      "full_name": "rmyndharis/OpenWA",
+      "source_full_name": "rmyndharis/OpenWA",
+      "featured_at": "2026-10-02T18:20:24.237511+00:00",
+      "run_id": "2026-10-02",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNDM1NDYzMzU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNDM1NDYzMzU=",
+      "full_name": "tabler/tabler-icons",
+      "source_full_name": "tabler/tabler-icons",
+      "featured_at": "2026-10-02T18:20:24.237522+00:00",
+      "run_id": "2026-10-02",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOPj60Ig",
+      "source_node_id": "R_kgDOPj60Ig",
+      "full_name": "microsoft/VibeVoice",
+      "source_full_name": "microsoft/VibeVoice",
+      "featured_at": "2026-10-02T18:20:24.237530+00:00",
+      "run_id": "2026-10-02",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOTXS_xQ",
+      "source_node_id": "R_kgDOTXS_xQ",
+      "full_name": "LuxAlgo/Vela",
+      "source_full_name": "LuxAlgo/Vela",
+      "featured_at": "2026-10-02T18:20:24.237537+00:00",
+      "run_id": "2026-10-02",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOTMFaYQ",
+      "source_node_id": "R_kgDOTMFaYQ",
+      "full_name": "zerx-lab/FluxDown",
+      "source_full_name": "zerx-lab/FluxDown",
+      "featured_at": "2026-10-02T18:20:24.237544+00:00",
+      "run_id": "2026-10-02",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQ3G9dg",
+      "source_node_id": "R_kgDOQ3G9dg",
+      "full_name": "mrifqidaffaaditya/WA-AKG",
+      "source_full_name": "mrifqidaffaaditya/WA-AKG",
+      "featured_at": "2026-10-02T18:20:24.237550+00:00",
+      "run_id": "2026-10-02",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxODg0MzgxOTE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxODg0MzgxOTE=",
+      "full_name": "tradingview/lightweight-charts",
+      "source_full_name": "tradingview/lightweight-charts",
+      "featured_at": "2026-10-02T18:20:24.237556+00:00",
+      "run_id": "2026-10-02",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNTk5ODE4MzA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNTk5ODE4MzA=",
+      "full_name": "spicetify/cli",
+      "source_full_name": "spicetify/cli",
+      "featured_at": "2026-10-02T18:20:24.237562+00:00",
+      "run_id": "2026-10-02",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOQ1YkHQ",
+      "source_node_id": "R_kgDOQ1YkHQ",
+      "full_name": "hicccc77/WeFlow",
+      "source_full_name": "hicccc77/WeFlow",
+      "featured_at": "2026-10-02T18:20:24.237568+00:00",
+      "run_id": "2026-10-02",
+      "rank": 10
     }
   ]
 }
