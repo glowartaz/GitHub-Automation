@@ -4410,6 +4410,96 @@
       "featured_at": "2026-10-02T18:20:24.237568+00:00",
       "run_id": "2026-10-02",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORLtfbQ",
+      "source_node_id": "R_kgDORLtfbQ",
+      "full_name": "pingdotgg/t3code",
+      "source_full_name": "pingdotgg/t3code",
+      "featured_at": "2026-10-03T17:06:23.834103+00:00",
+      "run_id": "2026-10-03",
+      "rank": 1
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4NzMzMjg=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4NzMzMjg=",
+      "full_name": "getsentry/sentry",
+      "source_full_name": "getsentry/sentry",
+      "featured_at": "2026-10-03T17:06:23.834127+00:00",
+      "run_id": "2026-10-03",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOPZjYqA",
+      "source_node_id": "R_kgDOPZjYqA",
+      "full_name": "jamwithai/production-agentic-rag-course",
+      "source_full_name": "jamwithai/production-agentic-rag-course",
+      "featured_at": "2026-10-03T17:06:23.834138+00:00",
+      "run_id": "2026-10-03",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDON4t-Ng",
+      "source_node_id": "R_kgDON4t-Ng",
+      "full_name": "cjpais/Handy",
+      "source_full_name": "cjpais/Handy",
+      "featured_at": "2026-10-03T17:06:23.834145+00:00",
+      "run_id": "2026-10-03",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOQFGYIg",
+      "source_node_id": "R_kgDOQFGYIg",
+      "full_name": "kaifcodec/user-scanner",
+      "source_full_name": "kaifcodec/user-scanner",
+      "featured_at": "2026-10-03T17:06:23.834152+00:00",
+      "run_id": "2026-10-03",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORbYSZg",
+      "source_node_id": "R_kgDORbYSZg",
+      "full_name": "breferrari/obsidian-mind",
+      "source_full_name": "breferrari/obsidian-mind",
+      "featured_at": "2026-10-03T17:06:23.834158+00:00",
+      "run_id": "2026-10-03",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOHSAURg",
+      "source_node_id": "R_kgDOHSAURg",
+      "full_name": "agno-agi/agno",
+      "source_full_name": "agno-agi/agno",
+      "featured_at": "2026-10-03T17:06:23.834165+00:00",
+      "run_id": "2026-10-03",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk1MzgwOTA5MA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk1MzgwOTA5MA==",
+      "full_name": "juliangarnier/anime",
+      "source_full_name": "juliangarnier/anime",
+      "featured_at": "2026-10-03T17:06:23.834171+00:00",
+      "run_id": "2026-10-03",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQ4pdCg",
+      "source_node_id": "R_kgDOQ4pdCg",
+      "full_name": "Tracer-Cloud/opensre",
+      "source_full_name": "Tracer-Cloud/opensre",
+      "featured_at": "2026-10-03T17:06:23.834177+00:00",
+      "run_id": "2026-10-03",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDORscuWA",
+      "source_node_id": "R_kgDORscuWA",
+      "full_name": "minghinmatthewlam/pi-gui",
+      "source_full_name": "minghinmatthewlam/pi-gui",
+      "featured_at": "2026-10-03T17:06:23.834182+00:00",
+      "run_id": "2026-10-03",
+      "rank": 10
     }
   ]
 }
