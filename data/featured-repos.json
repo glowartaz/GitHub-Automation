@@ -4500,6 +4500,96 @@
       "featured_at": "2026-10-03T17:06:23.834182+00:00",
       "run_id": "2026-10-03",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTgAgwg",
+      "source_node_id": "R_kgDOTgAgwg",
+      "full_name": "tester-army/e2e",
+      "source_full_name": "tester-army/e2e",
+      "featured_at": "2026-10-04T17:24:24.819406+00:00",
+      "run_id": "2026-10-04",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSWHWUg",
+      "source_node_id": "R_kgDOSWHWUg",
+      "full_name": "antirez/ds4",
+      "source_full_name": "antirez/ds4",
+      "featured_at": "2026-10-04T17:24:24.819429+00:00",
+      "run_id": "2026-10-04",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOJ9smgQ",
+      "source_node_id": "R_kgDOJ9smgQ",
+      "full_name": "FalkorDB/FalkorDB",
+      "source_full_name": "FalkorDB/FalkorDB",
+      "featured_at": "2026-10-04T17:24:24.819440+00:00",
+      "run_id": "2026-10-04",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOOMIq8w",
+      "source_node_id": "R_kgDOOMIq8w",
+      "full_name": "kanoqwq/UFI-TOOLS",
+      "source_full_name": "kanoqwq/UFI-TOOLS",
+      "featured_at": "2026-10-04T17:24:24.819504+00:00",
+      "run_id": "2026-10-04",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOMGlPsA",
+      "source_node_id": "R_kgDOMGlPsA",
+      "full_name": "ok-oldking/ok-wuthering-waves",
+      "source_full_name": "ok-oldking/ok-wuthering-waves",
+      "featured_at": "2026-10-04T17:24:24.819549+00:00",
+      "run_id": "2026-10-04",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOKLsOZA",
+      "source_node_id": "R_kgDOKLsOZA",
+      "full_name": "tursodatabase/turso",
+      "source_full_name": "tursodatabase/turso",
+      "featured_at": "2026-10-04T17:24:24.819558+00:00",
+      "run_id": "2026-10-04",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOSRjPRQ",
+      "source_node_id": "R_kgDOSRjPRQ",
+      "full_name": "wilbowes/EchoMuse",
+      "source_full_name": "wilbowes/EchoMuse",
+      "featured_at": "2026-10-04T17:24:24.819579+00:00",
+      "run_id": "2026-10-04",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOTh8pjw",
+      "source_node_id": "R_kgDOTh8pjw",
+      "full_name": "samwhosung/benilla",
+      "source_full_name": "samwhosung/benilla",
+      "featured_at": "2026-10-04T17:24:24.819585+00:00",
+      "run_id": "2026-10-04",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk5OTQwMTI5OQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk5OTQwMTI5OQ==",
+      "full_name": "ai/nanoid",
+      "source_full_name": "ai/nanoid",
+      "featured_at": "2026-10-04T17:24:24.819591+00:00",
+      "run_id": "2026-10-04",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyOTIwNzYyMQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyOTIwNzYyMQ==",
+      "full_name": "caddyserver/caddy",
+      "source_full_name": "caddyserver/caddy",
+      "featured_at": "2026-10-04T17:24:24.819624+00:00",
+      "run_id": "2026-10-04",
+      "rank": 10
     }
   ]
 }
