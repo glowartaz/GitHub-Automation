@@ -4590,6 +4590,96 @@
       "featured_at": "2026-10-04T17:24:24.819624+00:00",
       "run_id": "2026-10-04",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSB6hVQ",
+      "source_node_id": "R_kgDOSB6hVQ",
+      "full_name": "morluto/rea",
+      "source_full_name": "morluto/rea",
+      "featured_at": "2026-10-06T18:53:30.653077+00:00",
+      "run_id": "2026-10-06",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTs_xqg",
+      "source_node_id": "R_kgDOTs_xqg",
+      "full_name": "boykopovar/AnyPS5",
+      "source_full_name": "boykopovar/AnyPS5",
+      "featured_at": "2026-10-06T18:53:30.653103+00:00",
+      "run_id": "2026-10-06",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOQBjiAQ",
+      "source_node_id": "R_kgDOQBjiAQ",
+      "full_name": "msitarzewski/agency-agents",
+      "source_full_name": "msitarzewski/agency-agents",
+      "featured_at": "2026-10-06T18:53:30.653114+00:00",
+      "run_id": "2026-10-06",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDON43IkQ",
+      "source_node_id": "R_kgDON43IkQ",
+      "full_name": "deepseek-ai/DeepGEMM",
+      "source_full_name": "deepseek-ai/DeepGEMM",
+      "featured_at": "2026-10-06T18:53:30.653121+00:00",
+      "run_id": "2026-10-06",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOOZbRSA",
+      "source_node_id": "R_kgDOOZbRSA",
+      "full_name": "Joooook/12306-mcp",
+      "source_full_name": "Joooook/12306-mcp",
+      "featured_at": "2026-10-06T18:53:30.653128+00:00",
+      "run_id": "2026-10-06",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOHGbvPA",
+      "source_node_id": "R_kgDOHGbvPA",
+      "full_name": "storytold/artcraft",
+      "source_full_name": "storytold/artcraft",
+      "featured_at": "2026-10-06T18:53:30.653134+00:00",
+      "run_id": "2026-10-06",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyOTk1MTA3ODM=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyOTk1MTA3ODM=",
+      "full_name": "rui314/mold",
+      "source_full_name": "rui314/mold",
+      "featured_at": "2026-10-06T18:53:30.653140+00:00",
+      "run_id": "2026-10-06",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOTjz82Q",
+      "source_node_id": "R_kgDOTjz82Q",
+      "full_name": "Autumn-27/ARTEX",
+      "source_full_name": "Autumn-27/ARTEX",
+      "featured_at": "2026-10-06T18:53:30.653147+00:00",
+      "run_id": "2026-10-06",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOS3jeow",
+      "source_node_id": "R_kgDOS3jeow",
+      "full_name": "omnigent-ai/omnigent",
+      "source_full_name": "omnigent-ai/omnigent",
+      "featured_at": "2026-10-06T18:53:30.653153+00:00",
+      "run_id": "2026-10-06",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMTkxOTAxODc=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMTkxOTAxODc=",
+      "full_name": "gitleaks/gitleaks",
+      "source_full_name": "gitleaks/gitleaks",
+      "featured_at": "2026-10-06T18:53:30.653159+00:00",
+      "run_id": "2026-10-06",
+      "rank": 10
     }
   ]
 }
