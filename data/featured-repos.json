@@ -4770,6 +4770,96 @@
       "featured_at": "2026-10-07T19:19:48.578868+00:00",
       "run_id": "2026-10-07",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOPn2YWg",
+      "source_node_id": "R_kgDOPn2YWg",
+      "full_name": "docker/docker-agent",
+      "source_full_name": "docker/docker-agent",
+      "featured_at": "2026-10-08T19:15:37.560053+00:00",
+      "run_id": "2026-10-08",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOOpAIvg",
+      "source_node_id": "R_kgDOOpAIvg",
+      "full_name": "CursorTouch/Windows-MCP",
+      "source_full_name": "CursorTouch/Windows-MCP",
+      "featured_at": "2026-10-08T19:15:37.560076+00:00",
+      "run_id": "2026-10-08",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOTdLZdQ",
+      "source_node_id": "R_kgDOTdLZdQ",
+      "full_name": "Vincentwei1021/video-shotcraft",
+      "source_full_name": "Vincentwei1021/video-shotcraft",
+      "featured_at": "2026-10-08T19:15:37.560084+00:00",
+      "run_id": "2026-10-08",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOQabWUg",
+      "source_node_id": "R_kgDOQabWUg",
+      "full_name": "IAmTomShaw/f1-race-replay",
+      "source_full_name": "IAmTomShaw/f1-race-replay",
+      "featured_at": "2026-10-08T19:15:37.560090+00:00",
+      "run_id": "2026-10-08",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORKXRjw",
+      "source_node_id": "R_kgDORKXRjw",
+      "full_name": "microsoft/mxc",
+      "source_full_name": "microsoft/mxc",
+      "featured_at": "2026-10-08T19:15:37.560095+00:00",
+      "run_id": "2026-10-08",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNjU1MjI2NTE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNjU1MjI2NTE=",
+      "full_name": "emilk/egui",
+      "source_full_name": "emilk/egui",
+      "featured_at": "2026-10-08T19:15:37.560100+00:00",
+      "run_id": "2026-10-08",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOLr2o1g",
+      "source_node_id": "R_kgDOLr2o1g",
+      "full_name": "ItzCrazyKns/Vane",
+      "source_full_name": "ItzCrazyKns/Vane",
+      "featured_at": "2026-10-08T19:15:37.560105+00:00",
+      "run_id": "2026-10-08",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOH1Ppow",
+      "source_node_id": "R_kgDOH1Ppow",
+      "full_name": "invoke-ai/InvokeAI",
+      "source_full_name": "invoke-ai/InvokeAI",
+      "featured_at": "2026-10-08T19:15:37.560109+00:00",
+      "run_id": "2026-10-08",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOOXuApg",
+      "source_node_id": "R_kgDOOXuApg",
+      "full_name": "dyad-sh/dyad",
+      "source_full_name": "dyad-sh/dyad",
+      "featured_at": "2026-10-08T19:15:37.560114+00:00",
+      "run_id": "2026-10-08",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOQwzpgg",
+      "source_node_id": "R_kgDOQwzpgg",
+      "full_name": "Gimanh/taskview-community",
+      "source_full_name": "Gimanh/taskview-community",
+      "featured_at": "2026-10-08T19:15:37.560118+00:00",
+      "run_id": "2026-10-08",
+      "rank": 10
     }
   ]
 }
