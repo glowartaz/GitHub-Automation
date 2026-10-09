@@ -4860,6 +4860,96 @@
       "featured_at": "2026-10-08T19:15:37.560118+00:00",
       "run_id": "2026-10-08",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOQl_Gyg",
+      "source_node_id": "R_kgDOQl_Gyg",
+      "full_name": "hugohe3/ppt-master",
+      "source_full_name": "hugohe3/ppt-master",
+      "featured_at": "2026-10-09T18:45:44.342578+00:00",
+      "run_id": "2026-10-09",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSgpgKw",
+      "source_node_id": "R_kgDOSgpgKw",
+      "full_name": "Tencent-Hunyuan/Hy-MT2",
+      "source_full_name": "Tencent-Hunyuan/Hy-MT2",
+      "featured_at": "2026-10-09T18:45:44.342604+00:00",
+      "run_id": "2026-10-09",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOQ1mH3Q",
+      "source_node_id": "R_kgDOQ1mH3Q",
+      "full_name": "headroomlabs-ai/headroom",
+      "source_full_name": "headroomlabs-ai/headroom",
+      "featured_at": "2026-10-09T18:45:44.342615+00:00",
+      "run_id": "2026-10-09",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOSDnhmQ",
+      "source_node_id": "R_kgDOSDnhmQ",
+      "full_name": "Robbyant/lingbot-map",
+      "source_full_name": "Robbyant/lingbot-map",
+      "featured_at": "2026-10-09T18:45:44.342622+00:00",
+      "run_id": "2026-10-09",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOKALCgQ",
+      "source_node_id": "R_kgDOKALCgQ",
+      "full_name": "BerriAI/litellm",
+      "source_full_name": "BerriAI/litellm",
+      "featured_at": "2026-10-09T18:45:44.342629+00:00",
+      "run_id": "2026-10-09",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORfd2LQ",
+      "source_node_id": "R_kgDORfd2LQ",
+      "full_name": "twostraws/SwiftUI-Agent-Skill",
+      "source_full_name": "twostraws/SwiftUI-Agent-Skill",
+      "featured_at": "2026-10-09T18:45:44.342635+00:00",
+      "run_id": "2026-10-09",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOK4sStA",
+      "source_node_id": "R_kgDOK4sStA",
+      "full_name": "infiniflow/ragflow",
+      "source_full_name": "infiniflow/ragflow",
+      "featured_at": "2026-10-09T18:45:44.342642+00:00",
+      "run_id": "2026-10-09",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDORv4DoQ",
+      "source_node_id": "R_kgDORv4DoQ",
+      "full_name": "PurpleDoubleD/locally-uncensored",
+      "source_full_name": "PurpleDoubleD/locally-uncensored",
+      "featured_at": "2026-10-09T18:45:44.342648+00:00",
+      "run_id": "2026-10-09",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDON4xxbw",
+      "source_node_id": "R_kgDON4xxbw",
+      "full_name": "liyupi/ai-guide",
+      "source_full_name": "liyupi/ai-guide",
+      "featured_at": "2026-10-09T18:45:44.342654+00:00",
+      "run_id": "2026-10-09",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOHE14iw",
+      "source_node_id": "R_kgDOHE14iw",
+      "full_name": "hiroi-sora/Umi-OCR",
+      "source_full_name": "hiroi-sora/Umi-OCR",
+      "featured_at": "2026-10-09T18:45:44.342659+00:00",
+      "run_id": "2026-10-09",
+      "rank": 10
     }
   ]
 }
