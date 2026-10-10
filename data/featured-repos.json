@@ -4950,6 +4950,96 @@
       "featured_at": "2026-10-09T18:45:44.342659+00:00",
       "run_id": "2026-10-09",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOQdV8Sw",
+      "source_node_id": "R_kgDOQdV8Sw",
+      "full_name": "microsoft/TRELLIS.2",
+      "source_full_name": "microsoft/TRELLIS.2",
+      "featured_at": "2026-10-10T17:44:07.370610+00:00",
+      "run_id": "2026-10-10",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTM2dMg",
+      "source_node_id": "R_kgDOTM2dMg",
+      "full_name": "GLinnik21/plx-native",
+      "source_full_name": "GLinnik21/plx-native",
+      "featured_at": "2026-10-10T17:44:07.370633+00:00",
+      "run_id": "2026-10-10",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMTc5MjgyNA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMTc5MjgyNA==",
+      "full_name": "flutter/flutter",
+      "source_full_name": "flutter/flutter",
+      "featured_at": "2026-10-10T17:44:07.370644+00:00",
+      "run_id": "2026-10-10",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOO3L3cg",
+      "source_node_id": "R_kgDOO3L3cg",
+      "full_name": "BitterSecurity/Decepticon",
+      "source_full_name": "BitterSecurity/Decepticon",
+      "featured_at": "2026-10-10T17:44:07.370652+00:00",
+      "run_id": "2026-10-10",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMzQ3OTg2NzU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMzQ3OTg2NzU=",
+      "full_name": "bevyengine/bevy",
+      "source_full_name": "bevyengine/bevy",
+      "featured_at": "2026-10-10T17:44:07.370659+00:00",
+      "run_id": "2026-10-10",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMzgwNzYwNg==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMzgwNzYwNg==",
+      "full_name": "junegunn/fzf",
+      "source_full_name": "junegunn/fzf",
+      "featured_at": "2026-10-10T17:44:07.370666+00:00",
+      "run_id": "2026-10-10",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMzMxMzAwODk=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMzMxMzAwODk=",
+      "full_name": "charmbracelet/bubbletea",
+      "source_full_name": "charmbracelet/bubbletea",
+      "featured_at": "2026-10-10T17:44:07.370672+00:00",
+      "run_id": "2026-10-10",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk1OTA1MzMw",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk1OTA1MzMw",
+      "full_name": "greensock/GSAP",
+      "source_full_name": "greensock/GSAP",
+      "featured_at": "2026-10-10T17:44:07.370678+00:00",
+      "run_id": "2026-10-10",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMzM0NDIzODQ=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMzM0NDIzODQ=",
+      "full_name": "denoland/deno",
+      "source_full_name": "denoland/deno",
+      "featured_at": "2026-10-10T17:44:07.370683+00:00",
+      "run_id": "2026-10-10",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNjA5MTkxMTk=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNjA5MTkxMTk=",
+      "full_name": "fastapi/fastapi",
+      "source_full_name": "fastapi/fastapi",
+      "featured_at": "2026-10-10T17:44:07.370689+00:00",
+      "run_id": "2026-10-10",
+      "rank": 10
     }
   ]
 }
