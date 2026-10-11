@@ -5040,6 +5040,96 @@
       "featured_at": "2026-10-10T17:44:07.370689+00:00",
       "run_id": "2026-10-10",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOJueYYw",
+      "source_node_id": "R_kgDOJueYYw",
+      "full_name": "lyogavin/airllm",
+      "source_full_name": "lyogavin/airllm",
+      "featured_at": "2026-10-11T17:59:55.660366+00:00",
+      "run_id": "2026-10-11",
+      "rank": 1
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxODQwODYzNQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxODQwODYzNQ==",
+      "full_name": "chrislgarry/Apollo-11",
+      "source_full_name": "chrislgarry/Apollo-11",
+      "featured_at": "2026-10-11T17:59:55.660389+00:00",
+      "run_id": "2026-10-11",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORljR6g",
+      "source_node_id": "R_kgDORljR6g",
+      "full_name": "CopilotKit/OpenIntelligentUI",
+      "source_full_name": "CopilotKit/OpenIntelligentUI",
+      "featured_at": "2026-10-11T17:59:55.660399+00:00",
+      "run_id": "2026-10-11",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOKHoIqg",
+      "source_node_id": "R_kgDOKHoIqg",
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "source_full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "featured_at": "2026-10-11T17:59:55.660407+00:00",
+      "run_id": "2026-10-11",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOOfluAw",
+      "source_node_id": "R_kgDOOfluAw",
+      "full_name": "denoland/celld",
+      "source_full_name": "denoland/celld",
+      "featured_at": "2026-10-11T17:59:55.660414+00:00",
+      "run_id": "2026-10-11",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORuSRRA",
+      "source_node_id": "R_kgDORuSRRA",
+      "full_name": "repowise-dev/repowise",
+      "source_full_name": "repowise-dev/repowise",
+      "featured_at": "2026-10-11T17:59:55.660421+00:00",
+      "run_id": "2026-10-11",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOOQt5lg",
+      "source_node_id": "R_kgDOOQt5lg",
+      "full_name": "lharries/whatsapp-mcp",
+      "source_full_name": "lharries/whatsapp-mcp",
+      "featured_at": "2026-10-11T17:59:55.660427+00:00",
+      "run_id": "2026-10-11",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNjYzMDQwMjY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNjYzMDQwMjY=",
+      "full_name": "BishopFox/sliver",
+      "source_full_name": "BishopFox/sliver",
+      "featured_at": "2026-10-11T17:59:55.660433+00:00",
+      "run_id": "2026-10-11",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNjk4OTM3MQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNjk4OTM3MQ==",
+      "full_name": "MagicMirrorOrg/MagicMirror",
+      "source_full_name": "MagicMirrorOrg/MagicMirror",
+      "featured_at": "2026-10-11T17:59:55.660439+00:00",
+      "run_id": "2026-10-11",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk0MDYzNDYxMDM=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk0MDYzNDYxMDM=",
+      "full_name": "Project-HAMi/HAMi",
+      "source_full_name": "Project-HAMi/HAMi",
+      "featured_at": "2026-10-11T17:59:55.660445+00:00",
+      "run_id": "2026-10-11",
+      "rank": 10
     }
   ]
 }
