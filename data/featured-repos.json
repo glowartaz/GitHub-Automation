@@ -5130,6 +5130,96 @@
       "featured_at": "2026-10-11T17:59:55.660445+00:00",
       "run_id": "2026-10-11",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTvkezg",
+      "source_node_id": "R_kgDOTvkezg",
+      "full_name": "ranxianglei/billion-context",
+      "source_full_name": "ranxianglei/billion-context",
+      "featured_at": "2026-10-12T21:39:35.380860+00:00",
+      "run_id": "2026-10-12",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQz8JRg",
+      "source_node_id": "R_kgDOQz8JRg",
+      "full_name": "1jehuang/jcode",
+      "source_full_name": "1jehuang/jcode",
+      "featured_at": "2026-10-12T21:39:35.380881+00:00",
+      "run_id": "2026-10-12",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOShxvdw",
+      "source_node_id": "R_kgDOShxvdw",
+      "full_name": "Javis603/token-monitor",
+      "source_full_name": "Javis603/token-monitor",
+      "featured_at": "2026-10-12T21:39:35.380887+00:00",
+      "run_id": "2026-10-12",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOMfa6vg",
+      "source_node_id": "R_kgDOMfa6vg",
+      "full_name": "microsoft/BitNet",
+      "source_full_name": "microsoft/BitNet",
+      "featured_at": "2026-10-12T21:39:35.380892+00:00",
+      "run_id": "2026-10-12",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOJuGcGQ",
+      "source_node_id": "R_kgDOJuGcGQ",
+      "full_name": "gtsteffaniak/filebrowser",
+      "source_full_name": "gtsteffaniak/filebrowser",
+      "featured_at": "2026-10-12T21:39:35.380896+00:00",
+      "run_id": "2026-10-12",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDONb1u3A",
+      "source_node_id": "R_kgDONb1u3A",
+      "full_name": "microsoft/litebox",
+      "source_full_name": "microsoft/litebox",
+      "featured_at": "2026-10-12T21:39:35.380899+00:00",
+      "run_id": "2026-10-12",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOLlkzWg",
+      "source_node_id": "R_kgDOLlkzWg",
+      "full_name": "Armur-Ai/Pentest-Swarm-AI",
+      "source_full_name": "Armur-Ai/Pentest-Swarm-AI",
+      "featured_at": "2026-10-12T21:39:35.380903+00:00",
+      "run_id": "2026-10-12",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMjg4ODk5Mw==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMjg4ODk5Mw==",
+      "full_name": "home-assistant/core",
+      "source_full_name": "home-assistant/core",
+      "featured_at": "2026-10-12T21:39:35.380906+00:00",
+      "run_id": "2026-10-12",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNDU3NzU4MDA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNDU3NzU4MDA=",
+      "full_name": "chaolucky18/xuexitongScript",
+      "source_full_name": "chaolucky18/xuexitongScript",
+      "featured_at": "2026-10-12T21:39:35.380910+00:00",
+      "run_id": "2026-10-12",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDORvpmVg",
+      "source_node_id": "R_kgDORvpmVg",
+      "full_name": "NomaDamas/k-skill",
+      "source_full_name": "NomaDamas/k-skill",
+      "featured_at": "2026-10-12T21:39:35.380914+00:00",
+      "run_id": "2026-10-12",
+      "rank": 10
     }
   ]
 }
