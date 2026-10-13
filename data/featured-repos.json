@@ -5220,6 +5220,96 @@
       "featured_at": "2026-10-12T21:39:35.380914+00:00",
       "run_id": "2026-10-12",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDONQkKUQ",
+      "source_node_id": "R_kgDONQkKUQ",
+      "full_name": "xtool-org/xtool",
+      "source_full_name": "xtool-org/xtool",
+      "featured_at": "2026-10-13T19:52:24.956525+00:00",
+      "run_id": "2026-10-13",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOS-KLqg",
+      "source_node_id": "R_kgDOS-KLqg",
+      "full_name": "baidu/Unlimited-OCR",
+      "source_full_name": "baidu/Unlimited-OCR",
+      "featured_at": "2026-10-13T19:52:24.956549+00:00",
+      "run_id": "2026-10-13",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDONlCshw",
+      "source_node_id": "R_kgDONlCshw",
+      "full_name": "apify/apify-mcp-server",
+      "source_full_name": "apify/apify-mcp-server",
+      "featured_at": "2026-10-13T19:52:24.956560+00:00",
+      "run_id": "2026-10-13",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOQ0Pttw",
+      "source_node_id": "R_kgDOQ0Pttw",
+      "full_name": "NVIDIA/personaplex",
+      "source_full_name": "NVIDIA/personaplex",
+      "featured_at": "2026-10-13T19:52:24.956567+00:00",
+      "run_id": "2026-10-13",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOQ1KxMw",
+      "source_node_id": "R_kgDOQ1KxMw",
+      "full_name": "sgl-project/sglang-omni",
+      "source_full_name": "sgl-project/sglang-omni",
+      "featured_at": "2026-10-13T19:52:24.956574+00:00",
+      "run_id": "2026-10-13",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOTQZsuA",
+      "source_node_id": "R_kgDOTQZsuA",
+      "full_name": "Bennettxai/FounderOS",
+      "source_full_name": "Bennettxai/FounderOS",
+      "featured_at": "2026-10-13T19:52:24.956580+00:00",
+      "run_id": "2026-10-13",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDORSe_7g",
+      "source_node_id": "R_kgDORSe_7g",
+      "full_name": "truelockmc/streambert",
+      "source_full_name": "truelockmc/streambert",
+      "featured_at": "2026-10-13T19:52:24.956586+00:00",
+      "run_id": "2026-10-13",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOPk00YA",
+      "source_node_id": "R_kgDOPk00YA",
+      "full_name": "vllm-project/semantic-router",
+      "source_full_name": "vllm-project/semantic-router",
+      "featured_at": "2026-10-13T19:52:24.956592+00:00",
+      "run_id": "2026-10-13",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQsmVpA",
+      "source_node_id": "R_kgDOQsmVpA",
+      "full_name": "raphaelmansuy/edgequake",
+      "source_full_name": "raphaelmansuy/edgequake",
+      "featured_at": "2026-10-13T19:52:24.956598+00:00",
+      "run_id": "2026-10-13",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOQ65icQ",
+      "source_node_id": "R_kgDOQ65icQ",
+      "full_name": "supabase/agent-skills",
+      "source_full_name": "supabase/agent-skills",
+      "featured_at": "2026-10-13T19:52:24.956603+00:00",
+      "run_id": "2026-10-13",
+      "rank": 10
     }
   ]
 }
