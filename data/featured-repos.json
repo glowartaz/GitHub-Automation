@@ -5310,6 +5310,96 @@
       "featured_at": "2026-10-13T19:52:24.956603+00:00",
       "run_id": "2026-10-13",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOJCKOWw",
+      "source_node_id": "R_kgDOJCKOWw",
+      "full_name": "ntdevlabs/tiny11builder",
+      "source_full_name": "ntdevlabs/tiny11builder",
+      "featured_at": "2026-10-14T17:53:09.602981+00:00",
+      "run_id": "2026-10-14",
+      "rank": 1
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMzA5Njk1OQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMzA5Njk1OQ==",
+      "full_name": "golang/go",
+      "source_full_name": "golang/go",
+      "featured_at": "2026-10-14T17:53:09.603001+00:00",
+      "run_id": "2026-10-14",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4MTU5ODk2MQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4MTU5ODk2MQ==",
+      "full_name": "python/cpython",
+      "source_full_name": "python/cpython",
+      "featured_at": "2026-10-14T17:53:09.603009+00:00",
+      "run_id": "2026-10-14",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOKbIFZQ",
+      "source_node_id": "R_kgDOKbIFZQ",
+      "full_name": "astral-sh/uv",
+      "source_full_name": "astral-sh/uv",
+      "featured_at": "2026-10-14T17:53:09.603015+00:00",
+      "run_id": "2026-10-14",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORoeGDg",
+      "source_node_id": "R_kgDORoeGDg",
+      "full_name": "plugin87/ux-ui-agent-skills",
+      "source_full_name": "plugin87/ux-ui-agent-skills",
+      "featured_at": "2026-10-14T17:53:09.603020+00:00",
+      "run_id": "2026-10-14",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMzcwNzg0ODc=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMzcwNzg0ODc=",
+      "full_name": "vuejs/core",
+      "source_full_name": "vuejs/core",
+      "featured_at": "2026-10-14T17:53:09.603025+00:00",
+      "run_id": "2026-10-14",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMzE5NTg2Njg=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMzE5NTg2Njg=",
+      "full_name": "vosen/ZLUDA",
+      "source_full_name": "vosen/ZLUDA",
+      "featured_at": "2026-10-14T17:53:09.603030+00:00",
+      "run_id": "2026-10-14",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk2MTIyMzA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk2MTIyMzA=",
+      "full_name": "nvm-sh/nvm",
+      "source_full_name": "nvm-sh/nvm",
+      "featured_at": "2026-10-14T17:53:09.603034+00:00",
+      "run_id": "2026-10-14",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOOKH-SA",
+      "source_node_id": "R_kgDOOKH-SA",
+      "full_name": "TecharoHQ/anubis",
+      "source_full_name": "TecharoHQ/anubis",
+      "featured_at": "2026-10-14T17:53:09.603038+00:00",
+      "run_id": "2026-10-14",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxOTY3MDE2MTk=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxOTY3MDE2MTk=",
+      "full_name": "tauri-apps/tauri",
+      "source_full_name": "tauri-apps/tauri",
+      "featured_at": "2026-10-14T17:53:09.603043+00:00",
+      "run_id": "2026-10-14",
+      "rank": 10
     }
   ]
 }
