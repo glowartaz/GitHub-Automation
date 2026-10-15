@@ -5400,6 +5400,96 @@
       "featured_at": "2026-10-14T17:53:09.603043+00:00",
       "run_id": "2026-10-14",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTJJATQ",
+      "source_node_id": "R_kgDOTJJATQ",
+      "full_name": "xerj-org/xerj",
+      "source_full_name": "xerj-org/xerj",
+      "featured_at": "2026-10-15T17:43:19.420933+00:00",
+      "run_id": "2026-10-15",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSAgYkw",
+      "source_node_id": "R_kgDOSAgYkw",
+      "full_name": "SegFault42/HeliosGen",
+      "source_full_name": "SegFault42/HeliosGen",
+      "featured_at": "2026-10-15T17:43:19.420959+00:00",
+      "run_id": "2026-10-15",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOTxuw0Q",
+      "source_node_id": "R_kgDOTxuw0Q",
+      "full_name": "ShawnPana/phone-harness",
+      "source_full_name": "ShawnPana/phone-harness",
+      "featured_at": "2026-10-15T17:43:19.420970+00:00",
+      "run_id": "2026-10-15",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOTmXGgQ",
+      "source_node_id": "R_kgDOTmXGgQ",
+      "full_name": "ErTasselli/OpenTerminal",
+      "source_full_name": "ErTasselli/OpenTerminal",
+      "featured_at": "2026-10-15T17:43:19.420978+00:00",
+      "run_id": "2026-10-15",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOOWmeAQ",
+      "source_node_id": "R_kgDOOWmeAQ",
+      "full_name": "koharu-rs/koharu",
+      "source_full_name": "koharu-rs/koharu",
+      "featured_at": "2026-10-15T17:43:19.420985+00:00",
+      "run_id": "2026-10-15",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOIFKaXA",
+      "source_node_id": "R_kgDOIFKaXA",
+      "full_name": "usebruno/bruno",
+      "source_full_name": "usebruno/bruno",
+      "featured_at": "2026-10-15T17:43:19.420991+00:00",
+      "run_id": "2026-10-15",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMjE5ODE4OTE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMjE5ODE4OTE=",
+      "full_name": "microsoft/playwright",
+      "source_full_name": "microsoft/playwright",
+      "featured_at": "2026-10-15T17:43:19.420997+00:00",
+      "run_id": "2026-10-15",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOSYBDSg",
+      "source_node_id": "R_kgDOSYBDSg",
+      "full_name": "dimthink/PriceAI",
+      "source_full_name": "dimthink/PriceAI",
+      "featured_at": "2026-10-15T17:43:19.421003+00:00",
+      "run_id": "2026-10-15",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQggPRg",
+      "source_node_id": "R_kgDOQggPRg",
+      "full_name": "Crosstalk-Solutions/unifi-toolkit",
+      "source_full_name": "Crosstalk-Solutions/unifi-toolkit",
+      "featured_at": "2026-10-15T17:43:19.421009+00:00",
+      "run_id": "2026-10-15",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOQS9jlQ",
+      "source_node_id": "R_kgDOQS9jlQ",
+      "full_name": "LargeModGames/spotatui",
+      "source_full_name": "LargeModGames/spotatui",
+      "featured_at": "2026-10-15T17:43:19.421015+00:00",
+      "run_id": "2026-10-15",
+      "rank": 10
     }
   ]
 }
