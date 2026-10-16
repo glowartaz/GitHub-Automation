@@ -5490,6 +5490,96 @@
       "featured_at": "2026-10-15T17:43:19.421015+00:00",
       "run_id": "2026-10-15",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOOU0meQ",
+      "source_node_id": "R_kgDOOU0meQ",
+      "full_name": "LibreSpark/LibreTV",
+      "source_full_name": "LibreSpark/LibreTV",
+      "featured_at": "2026-10-16T17:16:50.872986+00:00",
+      "run_id": "2026-10-16",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSoW1xg",
+      "source_node_id": "R_kgDOSoW1xg",
+      "full_name": "michael-denyer/pstack-claude",
+      "source_full_name": "michael-denyer/pstack-claude",
+      "featured_at": "2026-10-16T17:16:50.873013+00:00",
+      "run_id": "2026-10-16",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOSV6N_A",
+      "source_node_id": "R_kgDOSV6N_A",
+      "full_name": "lightseekorg/tokenspeed",
+      "source_full_name": "lightseekorg/tokenspeed",
+      "featured_at": "2026-10-16T17:16:50.873024+00:00",
+      "run_id": "2026-10-16",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOT3oQWg",
+      "source_node_id": "R_kgDOT3oQWg",
+      "full_name": "google/artemis",
+      "source_full_name": "google/artemis",
+      "featured_at": "2026-10-16T17:16:50.873032+00:00",
+      "run_id": "2026-10-16",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOOELNJA",
+      "source_node_id": "R_kgDOOELNJA",
+      "full_name": "voidzero-dev/vite-plus",
+      "source_full_name": "voidzero-dev/vite-plus",
+      "featured_at": "2026-10-16T17:16:50.873039+00:00",
+      "run_id": "2026-10-16",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOQ-jLPQ",
+      "source_node_id": "R_kgDOQ-jLPQ",
+      "full_name": "superdesigndev/superdesign-skill",
+      "source_full_name": "superdesigndev/superdesign-skill",
+      "featured_at": "2026-10-16T17:16:50.873046+00:00",
+      "run_id": "2026-10-16",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOO-ySGg",
+      "source_node_id": "R_kgDOO-ySGg",
+      "full_name": "superdesigndev/superdesign",
+      "source_full_name": "superdesigndev/superdesign",
+      "featured_at": "2026-10-16T17:16:50.873052+00:00",
+      "run_id": "2026-10-16",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOPE4ZGg",
+      "source_node_id": "R_kgDOPE4ZGg",
+      "full_name": "elder-plinius/V3R1T4S",
+      "source_full_name": "elder-plinius/V3R1T4S",
+      "featured_at": "2026-10-16T17:16:50.873058+00:00",
+      "run_id": "2026-10-16",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOTm5JMw",
+      "source_node_id": "R_kgDOTm5JMw",
+      "full_name": "pollen-robotics/microduck",
+      "source_full_name": "pollen-robotics/microduck",
+      "featured_at": "2026-10-16T17:16:50.873064+00:00",
+      "run_id": "2026-10-16",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDORocqWA",
+      "source_node_id": "R_kgDORocqWA",
+      "full_name": "android/skills",
+      "source_full_name": "android/skills",
+      "featured_at": "2026-10-16T17:16:50.873069+00:00",
+      "run_id": "2026-10-16",
+      "rank": 10
     }
   ]
 }
