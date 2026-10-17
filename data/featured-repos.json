@@ -5580,6 +5580,96 @@
       "featured_at": "2026-10-16T17:16:50.873069+00:00",
       "run_id": "2026-10-16",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTRdWXA",
+      "source_node_id": "R_kgDOTRdWXA",
+      "full_name": "withmarbleapp/os-taxonomy",
+      "source_full_name": "withmarbleapp/os-taxonomy",
+      "featured_at": "2026-10-17T16:16:17.345790+00:00",
+      "run_id": "2026-10-17",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTOlZRA",
+      "source_node_id": "R_kgDOTOlZRA",
+      "full_name": "mixelpixx/Konnect",
+      "source_full_name": "mixelpixx/Konnect",
+      "featured_at": "2026-10-17T16:16:17.345816+00:00",
+      "run_id": "2026-10-17",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORGsMpQ",
+      "source_node_id": "R_kgDORGsMpQ",
+      "full_name": "GCWing/OpenBitFun",
+      "source_full_name": "GCWing/OpenBitFun",
+      "featured_at": "2026-10-17T16:16:17.345827+00:00",
+      "run_id": "2026-10-17",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOT3ChxQ",
+      "source_node_id": "R_kgDOT3ChxQ",
+      "full_name": "elie222/rakazo",
+      "source_full_name": "elie222/rakazo",
+      "featured_at": "2026-10-17T16:16:17.345835+00:00",
+      "run_id": "2026-10-17",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOSzIPRA",
+      "source_node_id": "R_kgDOSzIPRA",
+      "full_name": "ScrapeCreators/social-media-research-skills",
+      "source_full_name": "ScrapeCreators/social-media-research-skills",
+      "featured_at": "2026-10-17T16:16:17.345842+00:00",
+      "run_id": "2026-10-17",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORRiFLA",
+      "source_node_id": "R_kgDORRiFLA",
+      "full_name": "Gentleman-Programming/engram",
+      "source_full_name": "Gentleman-Programming/engram",
+      "featured_at": "2026-10-17T16:16:17.345848+00:00",
+      "run_id": "2026-10-17",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOSNbiXQ",
+      "source_node_id": "R_kgDOSNbiXQ",
+      "full_name": "maddada/Ghostex",
+      "source_full_name": "maddada/Ghostex",
+      "featured_at": "2026-10-17T16:16:17.345855+00:00",
+      "run_id": "2026-10-17",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOSkqLzQ",
+      "source_node_id": "R_kgDOSkqLzQ",
+      "full_name": "OpenBMB/PilotDeck",
+      "source_full_name": "OpenBMB/PilotDeck",
+      "featured_at": "2026-10-17T16:16:17.345861+00:00",
+      "run_id": "2026-10-17",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNTAzNjAxODQ=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNTAzNjAxODQ=",
+      "full_name": "calcom/cal.diy",
+      "source_full_name": "calcom/cal.diy",
+      "featured_at": "2026-10-17T16:16:17.345866+00:00",
+      "run_id": "2026-10-17",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNDA1NDc1MjA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNDA1NDc1MjA=",
+      "full_name": "zed-industries/zed",
+      "source_full_name": "zed-industries/zed",
+      "featured_at": "2026-10-17T16:16:17.345872+00:00",
+      "run_id": "2026-10-17",
+      "rank": 10
     }
   ]
 }
