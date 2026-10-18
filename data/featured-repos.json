@@ -5670,6 +5670,96 @@
       "featured_at": "2026-10-17T16:16:17.345872+00:00",
       "run_id": "2026-10-17",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOMqMnmg",
+      "source_node_id": "R_kgDOMqMnmg",
+      "full_name": "anthropics/claude-quickstarts",
+      "source_full_name": "anthropics/claude-quickstarts",
+      "featured_at": "2026-10-18T16:28:04.742075+00:00",
+      "run_id": "2026-10-18",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOR-o04w",
+      "source_node_id": "R_kgDOR-o04w",
+      "full_name": "heartleo/zlib",
+      "source_full_name": "heartleo/zlib",
+      "featured_at": "2026-10-18T16:28:04.742103+00:00",
+      "run_id": "2026-10-18",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOQ8ZDTg",
+      "source_node_id": "R_kgDOQ8ZDTg",
+      "full_name": "Kruk2/jasna",
+      "source_full_name": "Kruk2/jasna",
+      "featured_at": "2026-10-18T16:28:04.742113+00:00",
+      "run_id": "2026-10-18",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOS_CQEA",
+      "source_node_id": "R_kgDOS_CQEA",
+      "full_name": "alvinunreal/lazyskills",
+      "source_full_name": "alvinunreal/lazyskills",
+      "featured_at": "2026-10-18T16:28:04.742120+00:00",
+      "run_id": "2026-10-18",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOTSFf8g",
+      "source_node_id": "R_kgDOTSFf8g",
+      "full_name": "NVlabs/ASPIRE",
+      "source_full_name": "NVlabs/ASPIRE",
+      "featured_at": "2026-10-18T16:28:04.742125+00:00",
+      "run_id": "2026-10-18",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOJwwGvg",
+      "source_node_id": "R_kgDOJwwGvg",
+      "full_name": "mlabonne/llm-course",
+      "source_full_name": "mlabonne/llm-course",
+      "featured_at": "2026-10-18T16:28:04.742131+00:00",
+      "run_id": "2026-10-18",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOT32U8Q",
+      "source_node_id": "R_kgDOT32U8Q",
+      "full_name": "jasonxu114514/opencode2api",
+      "source_full_name": "jasonxu114514/opencode2api",
+      "featured_at": "2026-10-18T16:28:04.742137+00:00",
+      "run_id": "2026-10-18",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOR30V3Q",
+      "source_node_id": "R_kgDOR30V3Q",
+      "full_name": "mozilla-ai/otari",
+      "source_full_name": "mozilla-ai/otari",
+      "featured_at": "2026-10-18T16:28:04.742142+00:00",
+      "run_id": "2026-10-18",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORLIWjQ",
+      "source_node_id": "R_kgDORLIWjQ",
+      "full_name": "tristenlammi/Arrmada",
+      "source_full_name": "tristenlammi/Arrmada",
+      "featured_at": "2026-10-18T16:28:04.742147+00:00",
+      "run_id": "2026-10-18",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDONGNdIQ",
+      "source_node_id": "R_kgDONGNdIQ",
+      "full_name": "guoyue2010/lxmusic-",
+      "source_full_name": "guoyue2010/lxmusic-",
+      "featured_at": "2026-10-18T16:28:04.742153+00:00",
+      "run_id": "2026-10-18",
+      "rank": 10
     }
   ]
 }
