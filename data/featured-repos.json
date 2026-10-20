@@ -5850,6 +5850,96 @@
       "featured_at": "2026-10-19T19:09:25.919428+00:00",
       "run_id": "2026-10-19",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOT33qtw",
+      "source_node_id": "R_kgDOT33qtw",
+      "full_name": "PC2005-cloud/dsh-pet",
+      "source_full_name": "PC2005-cloud/dsh-pet",
+      "featured_at": "2026-10-20T17:55:51.831939+00:00",
+      "run_id": "2026-10-20",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSzP8yw",
+      "source_node_id": "R_kgDOSzP8yw",
+      "full_name": "strelov1/freehire",
+      "source_full_name": "strelov1/freehire",
+      "featured_at": "2026-10-20T17:55:51.831974+00:00",
+      "run_id": "2026-10-20",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOR_S01w",
+      "source_node_id": "R_kgDOR_S01w",
+      "full_name": "ModernRelay/omnigraph",
+      "source_full_name": "ModernRelay/omnigraph",
+      "featured_at": "2026-10-20T17:55:51.831982+00:00",
+      "run_id": "2026-10-20",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOJLVrdQ",
+      "source_node_id": "R_kgDOJLVrdQ",
+      "full_name": "mudler/LocalAI",
+      "source_full_name": "mudler/LocalAI",
+      "featured_at": "2026-10-20T17:55:51.831988+00:00",
+      "run_id": "2026-10-20",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOTp0QPw",
+      "source_node_id": "R_kgDOTp0QPw",
+      "full_name": "harry0703/MangoDisk",
+      "source_full_name": "harry0703/MangoDisk",
+      "featured_at": "2026-10-20T17:55:51.831994+00:00",
+      "run_id": "2026-10-20",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMDU4MDQ5OA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMDU4MDQ5OA==",
+      "full_name": "kubernetes/kubernetes",
+      "source_full_name": "kubernetes/kubernetes",
+      "featured_at": "2026-10-20T17:55:51.831998+00:00",
+      "run_id": "2026-10-20",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOJaClcA",
+      "source_node_id": "R_kgDOJaClcA",
+      "full_name": "gosom/google-maps-scraper",
+      "source_full_name": "gosom/google-maps-scraper",
+      "featured_at": "2026-10-20T17:55:51.832003+00:00",
+      "run_id": "2026-10-20",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOLKbDkw",
+      "source_node_id": "R_kgDOLKbDkw",
+      "full_name": "ScrapeGraphAI/Scrapegraph-ai",
+      "source_full_name": "ScrapeGraphAI/Scrapegraph-ai",
+      "featured_at": "2026-10-20T17:55:51.832007+00:00",
+      "run_id": "2026-10-20",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOR2vLLA",
+      "source_node_id": "R_kgDOR2vLLA",
+      "full_name": "emdash-cms/emdash",
+      "source_full_name": "emdash-cms/emdash",
+      "featured_at": "2026-10-20T17:55:51.832012+00:00",
+      "run_id": "2026-10-20",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOMce-kQ",
+      "source_node_id": "R_kgDOMce-kQ",
+      "full_name": "abus-aikorea/voice-pro",
+      "source_full_name": "abus-aikorea/voice-pro",
+      "featured_at": "2026-10-20T17:55:51.832016+00:00",
+      "run_id": "2026-10-20",
+      "rank": 10
     }
   ]
 }
