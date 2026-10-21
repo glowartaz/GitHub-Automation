@@ -5940,6 +5940,96 @@
       "featured_at": "2026-10-20T17:55:51.832016+00:00",
       "run_id": "2026-10-20",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSa6n_g",
+      "source_node_id": "R_kgDOSa6n_g",
+      "full_name": "Asymptote-Labs/agent-beacon",
+      "source_full_name": "Asymptote-Labs/agent-beacon",
+      "featured_at": "2026-10-21T18:02:13.782618+00:00",
+      "run_id": "2026-10-21",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQRdSAA",
+      "source_node_id": "R_kgDOQRdSAA",
+      "full_name": "luongnv89/claude-howto",
+      "source_full_name": "luongnv89/claude-howto",
+      "featured_at": "2026-10-21T18:02:13.782642+00:00",
+      "run_id": "2026-10-21",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOT5HoWg",
+      "source_node_id": "R_kgDOT5HoWg",
+      "full_name": "shaobeichen/dsh-pocket",
+      "source_full_name": "shaobeichen/dsh-pocket",
+      "featured_at": "2026-10-21T18:02:13.782653+00:00",
+      "run_id": "2026-10-21",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOT4vL9Q",
+      "source_node_id": "R_kgDOT4vL9Q",
+      "full_name": "xmanrui/dsh-im",
+      "source_full_name": "xmanrui/dsh-im",
+      "featured_at": "2026-10-21T18:02:13.782660+00:00",
+      "run_id": "2026-10-21",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOI7qa7g",
+      "source_node_id": "R_kgDOI7qa7g",
+      "full_name": "oxc-project/oxc",
+      "source_full_name": "oxc-project/oxc",
+      "featured_at": "2026-10-21T18:02:13.782667+00:00",
+      "run_id": "2026-10-21",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORYLgvg",
+      "source_node_id": "R_kgDORYLgvg",
+      "full_name": "Emily2040/seedance-2.0",
+      "source_full_name": "Emily2040/seedance-2.0",
+      "featured_at": "2026-10-21T18:02:13.782673+00:00",
+      "run_id": "2026-10-21",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNjYwNzg5OA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNjYwNzg5OA==",
+      "full_name": "harness/harness",
+      "source_full_name": "harness/harness",
+      "featured_at": "2026-10-21T18:02:13.782679+00:00",
+      "run_id": "2026-10-21",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOKZ-mhA",
+      "source_node_id": "R_kgDOKZ-mhA",
+      "full_name": "EasyTier/EasyTier",
+      "source_full_name": "EasyTier/EasyTier",
+      "featured_at": "2026-10-21T18:02:13.782686+00:00",
+      "run_id": "2026-10-21",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORwLoCw",
+      "source_node_id": "R_kgDORwLoCw",
+      "full_name": "larksuite/cli",
+      "source_full_name": "larksuite/cli",
+      "featured_at": "2026-10-21T18:02:13.782691+00:00",
+      "run_id": "2026-10-21",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOPAsbmQ",
+      "source_node_id": "R_kgDOPAsbmQ",
+      "full_name": "trymirai/uzu",
+      "source_full_name": "trymirai/uzu",
+      "featured_at": "2026-10-21T18:02:13.782697+00:00",
+      "run_id": "2026-10-21",
+      "rank": 10
     }
   ]
 }
