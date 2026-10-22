@@ -6030,6 +6030,96 @@
       "featured_at": "2026-10-21T18:02:13.782697+00:00",
       "run_id": "2026-10-21",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxOTAzNTIy",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxOTAzNTIy",
+      "full_name": "php/php-src",
+      "source_full_name": "php/php-src",
+      "featured_at": "2026-10-22T17:58:22.577452+00:00",
+      "run_id": "2026-10-22",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOJb7SKw",
+      "source_node_id": "R_kgDOJb7SKw",
+      "full_name": "onyx-dot-app/onyx",
+      "source_full_name": "onyx-dot-app/onyx",
+      "featured_at": "2026-10-22T17:58:22.577478+00:00",
+      "run_id": "2026-10-22",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOTpHwCA",
+      "source_node_id": "R_kgDOTpHwCA",
+      "full_name": "genspark-ai/genoffice",
+      "source_full_name": "genspark-ai/genoffice",
+      "featured_at": "2026-10-22T17:58:22.577489+00:00",
+      "run_id": "2026-10-22",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOHuHqvg",
+      "source_node_id": "R_kgDOHuHqvg",
+      "full_name": "Meloong-Git/PCL",
+      "source_full_name": "Meloong-Git/PCL",
+      "featured_at": "2026-10-22T17:58:22.577498+00:00",
+      "run_id": "2026-10-22",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOJtVdAQ",
+      "source_node_id": "R_kgDOJtVdAQ",
+      "full_name": "NanmiCoder/MediaCrawler",
+      "source_full_name": "NanmiCoder/MediaCrawler",
+      "featured_at": "2026-10-22T17:58:22.577505+00:00",
+      "run_id": "2026-10-22",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOT6ln0w",
+      "source_node_id": "R_kgDOT6ln0w",
+      "full_name": "CopilotKit/OpenBot",
+      "source_full_name": "CopilotKit/OpenBot",
+      "featured_at": "2026-10-22T17:58:22.577512+00:00",
+      "run_id": "2026-10-22",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMzc1MjM0NDI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMzc1MjM0NDI=",
+      "full_name": "tailscale/tailscale",
+      "source_full_name": "tailscale/tailscale",
+      "featured_at": "2026-10-22T17:58:22.577518+00:00",
+      "run_id": "2026-10-22",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOLwTdQQ",
+      "source_node_id": "R_kgDOLwTdQQ",
+      "full_name": "Dokploy/dokploy",
+      "source_full_name": "Dokploy/dokploy",
+      "featured_at": "2026-10-22T17:58:22.577524+00:00",
+      "run_id": "2026-10-22",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQRgy4w",
+      "source_node_id": "R_kgDOQRgy4w",
+      "full_name": "CarterPerez-dev/Cybersecurity-Projects",
+      "source_full_name": "CarterPerez-dev/Cybersecurity-Projects",
+      "featured_at": "2026-10-22T17:58:22.577529+00:00",
+      "run_id": "2026-10-22",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOOK1zIw",
+      "source_node_id": "R_kgDOOK1zIw",
+      "full_name": "agentgateway/agentgateway",
+      "source_full_name": "agentgateway/agentgateway",
+      "featured_at": "2026-10-22T17:58:22.577535+00:00",
+      "run_id": "2026-10-22",
+      "rank": 10
     }
   ]
 }
