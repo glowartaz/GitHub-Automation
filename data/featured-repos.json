@@ -6120,6 +6120,96 @@
       "featured_at": "2026-10-22T17:58:22.577535+00:00",
       "run_id": "2026-10-22",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSRZo4g",
+      "source_node_id": "R_kgDOSRZo4g",
+      "full_name": "Renhuai123/ziwei-doushu",
+      "source_full_name": "Renhuai123/ziwei-doushu",
+      "featured_at": "2026-10-23T17:51:13.454726+00:00",
+      "run_id": "2026-10-23",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOT4gxmQ",
+      "source_node_id": "R_kgDOT4gxmQ",
+      "full_name": "liguobao/ds-harness-remote",
+      "source_full_name": "liguobao/ds-harness-remote",
+      "featured_at": "2026-10-23T17:51:13.454747+00:00",
+      "run_id": "2026-10-23",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOJcj3uQ",
+      "source_node_id": "R_kgDOJcj3uQ",
+      "full_name": "promptfoo/promptfoo",
+      "source_full_name": "promptfoo/promptfoo",
+      "featured_at": "2026-10-23T17:51:13.454756+00:00",
+      "run_id": "2026-10-23",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxODA2ODc2MjQ=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxODA2ODc2MjQ=",
+      "full_name": "aquasecurity/trivy",
+      "source_full_name": "aquasecurity/trivy",
+      "featured_at": "2026-10-23T17:51:13.454762+00:00",
+      "run_id": "2026-10-23",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk2NTc1MDI0MQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk2NTc1MDI0MQ==",
+      "full_name": "expo/expo",
+      "source_full_name": "expo/expo",
+      "featured_at": "2026-10-23T17:51:13.454767+00:00",
+      "run_id": "2026-10-23",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORSNAUQ",
+      "source_node_id": "R_kgDORSNAUQ",
+      "full_name": "ZSeven-W/openpencil",
+      "source_full_name": "ZSeven-W/openpencil",
+      "featured_at": "2026-10-23T17:51:13.454771+00:00",
+      "run_id": "2026-10-23",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk2ODM4OTIx",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk2ODM4OTIx",
+      "full_name": "prometheus/prometheus",
+      "source_full_name": "prometheus/prometheus",
+      "featured_at": "2026-10-23T17:51:13.454776+00:00",
+      "run_id": "2026-10-23",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOQRzRpg",
+      "source_node_id": "R_kgDOQRzRpg",
+      "full_name": "macro-inc/macro",
+      "source_full_name": "macro-inc/macro",
+      "featured_at": "2026-10-23T17:51:13.454781+00:00",
+      "run_id": "2026-10-23",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORroBxA",
+      "source_node_id": "R_kgDORroBxA",
+      "full_name": "SehajveerSingh2005/bloom",
+      "source_full_name": "SehajveerSingh2005/bloom",
+      "featured_at": "2026-10-23T17:51:13.454785+00:00",
+      "run_id": "2026-10-23",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOJV2uWg",
+      "source_node_id": "R_kgDOJV2uWg",
+      "full_name": "chaitin/SafeLine",
+      "source_full_name": "chaitin/SafeLine",
+      "featured_at": "2026-10-23T17:51:13.454789+00:00",
+      "run_id": "2026-10-23",
+      "rank": 10
     }
   ]
 }
