@@ -6210,6 +6210,96 @@
       "featured_at": "2026-10-23T17:51:13.454789+00:00",
       "run_id": "2026-10-23",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOQFjJqA",
+      "source_node_id": "R_kgDOQFjJqA",
+      "full_name": "anthropics/sandbox-runtime",
+      "source_full_name": "anthropics/sandbox-runtime",
+      "featured_at": "2026-10-24T16:33:08.218568+00:00",
+      "run_id": "2026-10-24",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSOQ9xw",
+      "source_node_id": "R_kgDOSOQ9xw",
+      "full_name": "Nutlope/hallmark",
+      "source_full_name": "Nutlope/hallmark",
+      "featured_at": "2026-10-24T16:33:08.218588+00:00",
+      "run_id": "2026-10-24",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOShYuZA",
+      "source_node_id": "R_kgDOShYuZA",
+      "full_name": "basketikun/infinite-canvas",
+      "source_full_name": "basketikun/infinite-canvas",
+      "featured_at": "2026-10-24T16:33:08.218594+00:00",
+      "run_id": "2026-10-24",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOTgdRUg",
+      "source_node_id": "R_kgDOTgdRUg",
+      "full_name": "makecindy/cindy",
+      "source_full_name": "makecindy/cindy",
+      "featured_at": "2026-10-24T16:33:08.218599+00:00",
+      "run_id": "2026-10-24",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOKTC4Aw",
+      "source_node_id": "R_kgDOKTC4Aw",
+      "full_name": "jbiaojerry/ebook-treasure-chest",
+      "source_full_name": "jbiaojerry/ebook-treasure-chest",
+      "featured_at": "2026-10-24T16:33:08.218603+00:00",
+      "run_id": "2026-10-24",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORymbOg",
+      "source_node_id": "R_kgDORymbOg",
+      "full_name": "herdrdev/herdr",
+      "source_full_name": "herdrdev/herdr",
+      "featured_at": "2026-10-24T16:33:08.218606+00:00",
+      "run_id": "2026-10-24",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOKNDdxA",
+      "source_node_id": "R_kgDOKNDdxA",
+      "full_name": "bendlang/bend",
+      "source_full_name": "bendlang/bend",
+      "featured_at": "2026-10-24T16:33:08.218610+00:00",
+      "run_id": "2026-10-24",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOQp3VPQ",
+      "source_node_id": "R_kgDOQp3VPQ",
+      "full_name": "agentskills/agentskills",
+      "source_full_name": "agentskills/agentskills",
+      "featured_at": "2026-10-24T16:33:08.218614+00:00",
+      "run_id": "2026-10-24",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOMneZ9w",
+      "source_node_id": "R_kgDOMneZ9w",
+      "full_name": "aaif-goose/goose",
+      "source_full_name": "aaif-goose/goose",
+      "featured_at": "2026-10-24T16:33:08.218617+00:00",
+      "run_id": "2026-10-24",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk5MjExMTUwOQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk5MjExMTUwOQ==",
+      "full_name": "TriliumNext/Trilium",
+      "source_full_name": "TriliumNext/Trilium",
+      "featured_at": "2026-10-24T16:33:08.218621+00:00",
+      "run_id": "2026-10-24",
+      "rank": 10
     }
   ]
 }
