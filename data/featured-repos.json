@@ -6300,6 +6300,96 @@
       "featured_at": "2026-10-24T16:33:08.218621+00:00",
       "run_id": "2026-10-24",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOObWEYA",
+      "source_node_id": "R_kgDOObWEYA",
+      "full_name": "google-gemini/gemini-cli",
+      "source_full_name": "google-gemini/gemini-cli",
+      "featured_at": "2026-10-25T17:05:53.054127+00:00",
+      "run_id": "2026-10-25",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSKiaLg",
+      "source_node_id": "R_kgDOSKiaLg",
+      "full_name": "aws/agent-toolkit-for-aws",
+      "source_full_name": "aws/agent-toolkit-for-aws",
+      "featured_at": "2026-10-25T17:05:53.054151+00:00",
+      "run_id": "2026-10-25",
+      "rank": 2
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk1ODAyODAzOA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk1ODAyODAzOA==",
+      "full_name": "521xueweihan/HelloGitHub",
+      "source_full_name": "521xueweihan/HelloGitHub",
+      "featured_at": "2026-10-25T17:05:53.054162+00:00",
+      "run_id": "2026-10-25",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOIlMBmA",
+      "source_node_id": "R_kgDOIlMBmA",
+      "full_name": "AstrBotDevs/AstrBot",
+      "source_full_name": "AstrBotDevs/AstrBot",
+      "featured_at": "2026-10-25T17:05:53.054170+00:00",
+      "run_id": "2026-10-25",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORvcVog",
+      "source_node_id": "R_kgDORvcVog",
+      "full_name": "ulsklyc/yuvomi",
+      "source_full_name": "ulsklyc/yuvomi",
+      "featured_at": "2026-10-25T17:05:53.054176+00:00",
+      "run_id": "2026-10-25",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMzI4ODA2ODk=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMzI4ODA2ODk=",
+      "full_name": "coollabsio/coolify",
+      "source_full_name": "coollabsio/coolify",
+      "featured_at": "2026-10-25T17:05:53.054183+00:00",
+      "run_id": "2026-10-25",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOGHxxiw",
+      "source_node_id": "R_kgDOGHxxiw",
+      "full_name": "maboloshi/github-chinese",
+      "source_full_name": "maboloshi/github-chinese",
+      "featured_at": "2026-10-25T17:05:53.054189+00:00",
+      "run_id": "2026-10-25",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOS_pvMQ",
+      "source_node_id": "R_kgDOS_pvMQ",
+      "full_name": "mantrakp04/ardia",
+      "source_full_name": "mantrakp04/ardia",
+      "featured_at": "2026-10-25T17:05:53.054195+00:00",
+      "run_id": "2026-10-25",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOT2u-XQ",
+      "source_node_id": "R_kgDOT2u-XQ",
+      "full_name": "nightly-labs/openbot",
+      "source_full_name": "nightly-labs/openbot",
+      "featured_at": "2026-10-25T17:05:53.054201+00:00",
+      "run_id": "2026-10-25",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOTRU_yQ",
+      "source_node_id": "R_kgDOTRU_yQ",
+      "full_name": "JetBrains/thinkrail",
+      "source_full_name": "JetBrains/thinkrail",
+      "featured_at": "2026-10-25T17:05:53.054207+00:00",
+      "run_id": "2026-10-25",
+      "rank": 10
     }
   ]
 }
