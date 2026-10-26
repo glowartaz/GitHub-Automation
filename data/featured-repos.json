@@ -6390,6 +6390,96 @@
       "featured_at": "2026-10-25T17:05:53.054207+00:00",
       "run_id": "2026-10-25",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSG2mmQ",
+      "source_node_id": "R_kgDOSG2mmQ",
+      "full_name": "alchaincyf/huashu-design",
+      "source_full_name": "alchaincyf/huashu-design",
+      "featured_at": "2026-10-26T19:11:10.378816+00:00",
+      "run_id": "2026-10-26",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTndUqw",
+      "source_node_id": "R_kgDOTndUqw",
+      "full_name": "microsoft/skill-recorder",
+      "source_full_name": "microsoft/skill-recorder",
+      "featured_at": "2026-10-26T19:11:10.378859+00:00",
+      "run_id": "2026-10-26",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOR-iX-Q",
+      "source_node_id": "R_kgDOR-iX-Q",
+      "full_name": "higgsfield-ai/skills",
+      "source_full_name": "higgsfield-ai/skills",
+      "featured_at": "2026-10-26T19:11:10.378869+00:00",
+      "run_id": "2026-10-26",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOJ5QMpw",
+      "source_node_id": "R_kgDOJ5QMpw",
+      "full_name": "gitroomhq/postiz-app",
+      "source_full_name": "gitroomhq/postiz-app",
+      "featured_at": "2026-10-26T19:11:10.378875+00:00",
+      "run_id": "2026-10-26",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORkxqCA",
+      "source_node_id": "R_kgDORkxqCA",
+      "full_name": "Narcooo/inkos",
+      "source_full_name": "Narcooo/inkos",
+      "featured_at": "2026-10-26T19:11:10.378881+00:00",
+      "run_id": "2026-10-26",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOTzlrNA",
+      "source_node_id": "R_kgDOTzlrNA",
+      "full_name": "HarnessRouter/harnessrouter",
+      "source_full_name": "HarnessRouter/harnessrouter",
+      "featured_at": "2026-10-26T19:11:10.378887+00:00",
+      "run_id": "2026-10-26",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOSHQfjw",
+      "source_node_id": "R_kgDOSHQfjw",
+      "full_name": "malisper/pgrust",
+      "source_full_name": "malisper/pgrust",
+      "featured_at": "2026-10-26T19:11:10.378892+00:00",
+      "run_id": "2026-10-26",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOI789qA",
+      "source_node_id": "R_kgDOI789qA",
+      "full_name": "MHSanaei/3x-ui",
+      "source_full_name": "MHSanaei/3x-ui",
+      "featured_at": "2026-10-26T19:11:10.378898+00:00",
+      "run_id": "2026-10-26",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORQcoNw",
+      "source_node_id": "R_kgDORQcoNw",
+      "full_name": "refactoringhq/tolaria",
+      "source_full_name": "refactoringhq/tolaria",
+      "featured_at": "2026-10-26T19:11:10.378904+00:00",
+      "run_id": "2026-10-26",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOTaHOzA",
+      "source_node_id": "R_kgDOTaHOzA",
+      "full_name": "mesamirh/MovieBox-Tui",
+      "source_full_name": "mesamirh/MovieBox-Tui",
+      "featured_at": "2026-10-26T19:11:10.378909+00:00",
+      "run_id": "2026-10-26",
+      "rank": 10
     }
   ]
 }
