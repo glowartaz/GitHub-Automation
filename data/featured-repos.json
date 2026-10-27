@@ -6480,6 +6480,96 @@
       "featured_at": "2026-10-26T19:11:10.378909+00:00",
       "run_id": "2026-10-26",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOS-pOvA",
+      "source_node_id": "R_kgDOS-pOvA",
+      "full_name": "togg53192-cmd/jailbreaks",
+      "source_full_name": "togg53192-cmd/jailbreaks",
+      "featured_at": "2026-10-27T18:40:11.688843+00:00",
+      "run_id": "2026-10-27",
+      "rank": 1
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk1ODgzNjUzNA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk1ODgzNjUzNA==",
+      "full_name": "algorithm-visualizer/algorithm-visualizer",
+      "source_full_name": "algorithm-visualizer/algorithm-visualizer",
+      "featured_at": "2026-10-27T18:40:11.688869+00:00",
+      "run_id": "2026-10-27",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORYkBQg",
+      "source_node_id": "R_kgDORYkBQg",
+      "full_name": "video-db/call.md",
+      "source_full_name": "video-db/call.md",
+      "featured_at": "2026-10-27T18:40:11.688880+00:00",
+      "run_id": "2026-10-27",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOLYoWQw",
+      "source_node_id": "R_kgDOLYoWQw",
+      "full_name": "galaxy-s10/billd-desk",
+      "source_full_name": "galaxy-s10/billd-desk",
+      "featured_at": "2026-10-27T18:40:11.688888+00:00",
+      "run_id": "2026-10-27",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOSOTJTw",
+      "source_node_id": "R_kgDOSOTJTw",
+      "full_name": "NVIDIA/auto-ontology",
+      "source_full_name": "NVIDIA/auto-ontology",
+      "featured_at": "2026-10-27T18:40:11.688894+00:00",
+      "run_id": "2026-10-27",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOQv43sg",
+      "source_node_id": "R_kgDOQv43sg",
+      "full_name": "backnotprop/plannotator",
+      "source_full_name": "backnotprop/plannotator",
+      "featured_at": "2026-10-27T18:40:11.688900+00:00",
+      "run_id": "2026-10-27",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4NDI0MDQw",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4NDI0MDQw",
+      "full_name": "processing/p5.js",
+      "source_full_name": "processing/p5.js",
+      "featured_at": "2026-10-27T18:40:11.688906+00:00",
+      "run_id": "2026-10-27",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOTKZqmw",
+      "source_node_id": "R_kgDOTKZqmw",
+      "full_name": "HKUDS/AutoSwarm",
+      "source_full_name": "HKUDS/AutoSwarm",
+      "featured_at": "2026-10-27T18:40:11.688912+00:00",
+      "run_id": "2026-10-27",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOTsXg_w",
+      "source_node_id": "R_kgDOTsXg_w",
+      "full_name": "Raktim94/nodedr-restaurant-pos",
+      "source_full_name": "Raktim94/nodedr-restaurant-pos",
+      "featured_at": "2026-10-27T18:40:11.688918+00:00",
+      "run_id": "2026-10-27",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDORsqpeQ",
+      "source_node_id": "R_kgDORsqpeQ",
+      "full_name": "hanliang97/MatrixMedia",
+      "source_full_name": "hanliang97/MatrixMedia",
+      "featured_at": "2026-10-27T18:40:11.688924+00:00",
+      "run_id": "2026-10-27",
+      "rank": 10
     }
   ]
 }
