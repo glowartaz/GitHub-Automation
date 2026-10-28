@@ -6570,6 +6570,96 @@
       "featured_at": "2026-10-27T18:40:11.688924+00:00",
       "run_id": "2026-10-27",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTm1W0A",
+      "source_node_id": "R_kgDOTm1W0A",
+      "full_name": "elayadesign/ai-design-skills",
+      "source_full_name": "elayadesign/ai-design-skills",
+      "featured_at": "2026-10-28T18:49:16.168741+00:00",
+      "run_id": "2026-10-28",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOSSIbRw",
+      "source_node_id": "R_kgDOSSIbRw",
+      "full_name": "beenuar/AiSOC",
+      "source_full_name": "beenuar/AiSOC",
+      "featured_at": "2026-10-28T18:49:16.168766+00:00",
+      "run_id": "2026-10-28",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOQfkh9A",
+      "source_node_id": "R_kgDOQfkh9A",
+      "full_name": "expo/skills",
+      "source_full_name": "expo/skills",
+      "featured_at": "2026-10-28T18:49:16.168777+00:00",
+      "run_id": "2026-10-28",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOPFM7Ew",
+      "source_node_id": "R_kgDOPFM7Ew",
+      "full_name": "router-for-me/CLIProxyAPI",
+      "source_full_name": "router-for-me/CLIProxyAPI",
+      "featured_at": "2026-10-28T18:49:16.168785+00:00",
+      "run_id": "2026-10-28",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNzU2MzUzOTA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNzU2MzUzOTA=",
+      "full_name": "xiaolai/the-craft-of-selfteaching",
+      "source_full_name": "xiaolai/the-craft-of-selfteaching",
+      "featured_at": "2026-10-28T18:49:16.168792+00:00",
+      "run_id": "2026-10-28",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOMf15Pg",
+      "source_node_id": "R_kgDOMf15Pg",
+      "full_name": "DavidHDev/react-bits",
+      "source_full_name": "DavidHDev/react-bits",
+      "featured_at": "2026-10-28T18:49:16.168798+00:00",
+      "run_id": "2026-10-28",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOR1c2gA",
+      "source_node_id": "R_kgDOR1c2gA",
+      "full_name": "shitagaki-lab/see-through",
+      "source_full_name": "shitagaki-lab/see-through",
+      "featured_at": "2026-10-28T18:49:16.168804+00:00",
+      "run_id": "2026-10-28",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOJGBRww",
+      "source_node_id": "R_kgDOJGBRww",
+      "full_name": "stalwartlabs/stalwart",
+      "source_full_name": "stalwartlabs/stalwart",
+      "featured_at": "2026-10-28T18:49:16.168810+00:00",
+      "run_id": "2026-10-28",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOQGUlEg",
+      "source_node_id": "R_kgDOQGUlEg",
+      "full_name": "ParadevAI/Paradev",
+      "source_full_name": "ParadevAI/Paradev",
+      "featured_at": "2026-10-28T18:49:16.168816+00:00",
+      "run_id": "2026-10-28",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOQ2bIeQ",
+      "source_node_id": "R_kgDOQ2bIeQ",
+      "full_name": "Yeachan-Heo/oh-my-claudecode",
+      "source_full_name": "Yeachan-Heo/oh-my-claudecode",
+      "featured_at": "2026-10-28T18:49:16.168822+00:00",
+      "run_id": "2026-10-28",
+      "rank": 10
     }
   ]
 }
