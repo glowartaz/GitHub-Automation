@@ -6660,6 +6660,96 @@
       "featured_at": "2026-10-28T18:49:16.168822+00:00",
       "run_id": "2026-10-28",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOT1lw9w",
+      "source_node_id": "R_kgDOT1lw9w",
+      "full_name": "milind-soni/OpenMausBot",
+      "source_full_name": "milind-soni/OpenMausBot",
+      "featured_at": "2026-10-29T18:56:19.488615+00:00",
+      "run_id": "2026-10-29",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOROahWg",
+      "source_node_id": "R_kgDOROahWg",
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "source_full_name": "Donchitos/Claude-Code-Game-Studios",
+      "featured_at": "2026-10-29T18:56:19.488640+00:00",
+      "run_id": "2026-10-29",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOSwAnfw",
+      "source_node_id": "R_kgDOSwAnfw",
+      "full_name": "rlaope/oh-my-hermes",
+      "source_full_name": "rlaope/oh-my-hermes",
+      "featured_at": "2026-10-29T18:56:19.488648+00:00",
+      "run_id": "2026-10-29",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOUEHx5A",
+      "source_node_id": "R_kgDOUEHx5A",
+      "full_name": "jub0t/Concat",
+      "source_full_name": "jub0t/Concat",
+      "featured_at": "2026-10-29T18:56:19.488654+00:00",
+      "run_id": "2026-10-29",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOSBuRpA",
+      "source_node_id": "R_kgDOSBuRpA",
+      "full_name": "hydro-project/infinity",
+      "source_full_name": "hydro-project/infinity",
+      "featured_at": "2026-10-29T18:56:19.488659+00:00",
+      "run_id": "2026-10-29",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOSOBm3g",
+      "source_node_id": "R_kgDOSOBm3g",
+      "full_name": "nyakang/nyaterm",
+      "source_full_name": "nyakang/nyaterm",
+      "featured_at": "2026-10-29T18:56:19.488665+00:00",
+      "run_id": "2026-10-29",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDORXVykw",
+      "source_node_id": "R_kgDORXVykw",
+      "full_name": "agentscope-ai/QwenPaw",
+      "source_full_name": "agentscope-ai/QwenPaw",
+      "featured_at": "2026-10-29T18:56:19.488669+00:00",
+      "run_id": "2026-10-29",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOJxJfAQ",
+      "source_node_id": "R_kgDOJxJfAQ",
+      "full_name": "CopilotKit/CopilotKit",
+      "source_full_name": "CopilotKit/CopilotKit",
+      "featured_at": "2026-10-29T18:56:19.488674+00:00",
+      "run_id": "2026-10-29",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORNhJ_g",
+      "source_node_id": "R_kgDORNhJ_g",
+      "full_name": "Mesh-LLM/mesh-llm",
+      "source_full_name": "Mesh-LLM/mesh-llm",
+      "featured_at": "2026-10-29T18:56:19.488679+00:00",
+      "run_id": "2026-10-29",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOI4wAgg",
+      "source_node_id": "R_kgDOI4wAgg",
+      "full_name": "openobserve/openobserve",
+      "source_full_name": "openobserve/openobserve",
+      "featured_at": "2026-10-29T18:56:19.488683+00:00",
+      "run_id": "2026-10-29",
+      "rank": 10
     }
   ]
 }
