@@ -6750,6 +6750,96 @@
       "featured_at": "2026-10-29T18:56:19.488683+00:00",
       "run_id": "2026-10-29",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSP2Ipg",
+      "source_node_id": "R_kgDOSP2Ipg",
+      "full_name": "Orkas-AI/Orkas",
+      "source_full_name": "Orkas-AI/Orkas",
+      "featured_at": "2026-10-30T18:33:03.131333+00:00",
+      "run_id": "2026-10-30",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOR5_Rkg",
+      "source_node_id": "R_kgDOR5_Rkg",
+      "full_name": "MemPalace/mempalace",
+      "source_full_name": "MemPalace/mempalace",
+      "featured_at": "2026-10-30T18:33:03.131357+00:00",
+      "run_id": "2026-10-30",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOTcCg9w",
+      "source_node_id": "R_kgDOTcCg9w",
+      "full_name": "anomalyco/hex",
+      "source_full_name": "anomalyco/hex",
+      "featured_at": "2026-10-30T18:33:03.131364+00:00",
+      "run_id": "2026-10-30",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDORkwLaw",
+      "source_node_id": "R_kgDORkwLaw",
+      "full_name": "ethanplusai/harvey",
+      "source_full_name": "ethanplusai/harvey",
+      "featured_at": "2026-10-30T18:33:03.131369+00:00",
+      "run_id": "2026-10-30",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOTeFgKA",
+      "source_node_id": "R_kgDOTeFgKA",
+      "full_name": "daeuniverse/honk",
+      "source_full_name": "daeuniverse/honk",
+      "featured_at": "2026-10-30T18:33:03.131373+00:00",
+      "run_id": "2026-10-30",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk2MjcxMjg5OQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk2MjcxMjg5OQ==",
+      "full_name": "AdguardTeam/AdGuardHome",
+      "source_full_name": "AdguardTeam/AdGuardHome",
+      "featured_at": "2026-10-30T18:33:03.131377+00:00",
+      "run_id": "2026-10-30",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDORneT0g",
+      "source_node_id": "R_kgDORneT0g",
+      "full_name": "IamRamgarhia/Free-GST-Billing-Software",
+      "source_full_name": "IamRamgarhia/Free-GST-Billing-Software",
+      "featured_at": "2026-10-30T18:33:03.131381+00:00",
+      "run_id": "2026-10-30",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDORxLOHg",
+      "source_node_id": "R_kgDORxLOHg",
+      "full_name": "infosave2007/aivpn",
+      "source_full_name": "infosave2007/aivpn",
+      "featured_at": "2026-10-30T18:33:03.131384+00:00",
+      "run_id": "2026-10-30",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOPB-92Q",
+      "source_node_id": "R_kgDOPB-92Q",
+      "full_name": "QwenLM/qwen-code",
+      "source_full_name": "QwenLM/qwen-code",
+      "featured_at": "2026-10-30T18:33:03.131388+00:00",
+      "run_id": "2026-10-30",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOKIBx0g",
+      "source_node_id": "R_kgDOKIBx0g",
+      "full_name": "janhq/jan",
+      "source_full_name": "janhq/jan",
+      "featured_at": "2026-10-30T18:33:03.131392+00:00",
+      "run_id": "2026-10-30",
+      "rank": 10
     }
   ]
 }
