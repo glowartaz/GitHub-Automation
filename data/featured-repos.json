@@ -6840,6 +6840,96 @@
       "featured_at": "2026-10-30T18:33:03.131392+00:00",
       "run_id": "2026-10-30",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOJ4EDkg",
+      "source_node_id": "R_kgDOJ4EDkg",
+      "full_name": "The-PR-Agent/pr-agent",
+      "source_full_name": "The-PR-Agent/pr-agent",
+      "featured_at": "2026-10-31T17:36:36.753683+00:00",
+      "run_id": "2026-10-31",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOOe-Hbg",
+      "source_node_id": "R_kgDOOe-Hbg",
+      "full_name": "maillab/cloud-mail",
+      "source_full_name": "maillab/cloud-mail",
+      "featured_at": "2026-10-31T17:36:36.753711+00:00",
+      "run_id": "2026-10-31",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOO_fxZg",
+      "source_node_id": "R_kgDOO_fxZg",
+      "full_name": "CodeWithCJ/SparkyFitness",
+      "source_full_name": "CodeWithCJ/SparkyFitness",
+      "featured_at": "2026-10-31T17:36:36.753721+00:00",
+      "run_id": "2026-10-31",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOSK6S5Q",
+      "source_node_id": "R_kgDOSK6S5Q",
+      "full_name": "0x0funky/agent-sprite-forge",
+      "source_full_name": "0x0funky/agent-sprite-forge",
+      "featured_at": "2026-10-31T17:36:36.753727+00:00",
+      "run_id": "2026-10-31",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDONa1RRQ",
+      "source_node_id": "R_kgDONa1RRQ",
+      "full_name": "fastrepl/anarlog",
+      "source_full_name": "fastrepl/anarlog",
+      "featured_at": "2026-10-31T17:36:36.753733+00:00",
+      "run_id": "2026-10-31",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDORH399A",
+      "source_node_id": "R_kgDORH399A",
+      "full_name": "betterleaks/betterleaks",
+      "source_full_name": "betterleaks/betterleaks",
+      "featured_at": "2026-10-31T17:36:36.753738+00:00",
+      "run_id": "2026-10-31",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxOTEzMTkzMDY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxOTEzMTkzMDY=",
+      "full_name": "waditu/czsc",
+      "source_full_name": "waditu/czsc",
+      "featured_at": "2026-10-31T17:36:36.753743+00:00",
+      "run_id": "2026-10-31",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxODkyNTYxMjA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxODkyNTYxMjA=",
+      "full_name": "vernesong/OpenClash",
+      "source_full_name": "vernesong/OpenClash",
+      "featured_at": "2026-10-31T17:36:36.753748+00:00",
+      "run_id": "2026-10-31",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOP2Xf8g",
+      "source_node_id": "R_kgDOP2Xf8g",
+      "full_name": "a2ui-project/a2ui",
+      "source_full_name": "a2ui-project/a2ui",
+      "featured_at": "2026-10-31T17:36:36.753753+00:00",
+      "run_id": "2026-10-31",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMzU1MTYyNzA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMzU1MTYyNzA=",
+      "full_name": "k3s-io/k3s",
+      "source_full_name": "k3s-io/k3s",
+      "featured_at": "2026-10-31T17:36:36.753758+00:00",
+      "run_id": "2026-10-31",
+      "rank": 10
     }
   ]
 }
