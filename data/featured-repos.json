@@ -6930,6 +6930,96 @@
       "featured_at": "2026-10-31T17:36:36.753758+00:00",
       "run_id": "2026-10-31",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDONDewpg",
+      "source_node_id": "R_kgDONDewpg",
+      "full_name": "patchy631/ai-engineering-hub",
+      "source_full_name": "patchy631/ai-engineering-hub",
+      "featured_at": "2026-11-01T18:24:36.318833+00:00",
+      "run_id": "2026-11-01",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTedDYg",
+      "source_node_id": "R_kgDOTedDYg",
+      "full_name": "FlashML-org/FreeToken",
+      "source_full_name": "FlashML-org/FreeToken",
+      "featured_at": "2026-11-01T18:24:36.318858+00:00",
+      "run_id": "2026-11-01",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDON14Jzw",
+      "source_node_id": "R_kgDON14Jzw",
+      "full_name": "andreavolpato/spektrafilm",
+      "source_full_name": "andreavolpato/spektrafilm",
+      "featured_at": "2026-11-01T18:24:36.318869+00:00",
+      "run_id": "2026-11-01",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDORmDA6Q",
+      "source_node_id": "R_kgDORmDA6Q",
+      "full_name": "JCodesMore/ai-website-cloner-template",
+      "source_full_name": "JCodesMore/ai-website-cloner-template",
+      "featured_at": "2026-11-01T18:24:36.318877+00:00",
+      "run_id": "2026-11-01",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOSwnJIQ",
+      "source_node_id": "R_kgDOSwnJIQ",
+      "full_name": "techjarves/Portable-Local-Studio",
+      "source_full_name": "techjarves/Portable-Local-Studio",
+      "featured_at": "2026-11-01T18:24:36.318884+00:00",
+      "run_id": "2026-11-01",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOT2LqbA",
+      "source_node_id": "R_kgDOT2LqbA",
+      "full_name": "scenario-labs/skills",
+      "source_full_name": "scenario-labs/skills",
+      "featured_at": "2026-11-01T18:24:36.318890+00:00",
+      "run_id": "2026-11-01",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOHA7HmA",
+      "source_node_id": "R_kgDOHA7HmA",
+      "full_name": "hyprwm/Hyprland",
+      "source_full_name": "hyprwm/Hyprland",
+      "featured_at": "2026-11-01T18:24:36.318897+00:00",
+      "run_id": "2026-11-01",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNDU2OTM5MTY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNDU2OTM5MTY=",
+      "full_name": "kornia/kornia",
+      "source_full_name": "kornia/kornia",
+      "featured_at": "2026-11-01T18:24:36.318903+00:00",
+      "run_id": "2026-11-01",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOG1Zs1w",
+      "source_node_id": "R_kgDOG1Zs1w",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "source_full_name": "paperless-ngx/paperless-ngx",
+      "featured_at": "2026-11-01T18:24:36.318909+00:00",
+      "run_id": "2026-11-01",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOONgOeg",
+      "source_node_id": "R_kgDOONgOeg",
+      "full_name": "oraios/serena",
+      "source_full_name": "oraios/serena",
+      "featured_at": "2026-11-01T18:24:36.318915+00:00",
+      "run_id": "2026-11-01",
+      "rank": 10
     }
   ]
 }
