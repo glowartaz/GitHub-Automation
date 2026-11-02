@@ -7020,6 +7020,96 @@
       "featured_at": "2026-11-01T18:24:36.318915+00:00",
       "run_id": "2026-11-01",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOThuJPg",
+      "source_node_id": "R_kgDOThuJPg",
+      "full_name": "DeanChensj/jiangshan-map",
+      "source_full_name": "DeanChensj/jiangshan-map",
+      "featured_at": "2026-11-02T22:17:40.435581+00:00",
+      "run_id": "2026-11-02",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQBnJRQ",
+      "source_node_id": "R_kgDOQBnJRQ",
+      "full_name": "karpathy/nanochat",
+      "source_full_name": "karpathy/nanochat",
+      "featured_at": "2026-11-02T22:17:40.435608+00:00",
+      "run_id": "2026-11-02",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOT3fSCQ",
+      "source_node_id": "R_kgDOT3fSCQ",
+      "full_name": "CNCKitchen/ScanRuler",
+      "source_full_name": "CNCKitchen/ScanRuler",
+      "featured_at": "2026-11-02T22:17:40.435617+00:00",
+      "run_id": "2026-11-02",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOQ7kWfQ",
+      "source_node_id": "R_kgDOQ7kWfQ",
+      "full_name": "warmbly/warmbly",
+      "source_full_name": "warmbly/warmbly",
+      "featured_at": "2026-11-02T22:17:40.435623+00:00",
+      "run_id": "2026-11-02",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOUAuvsA",
+      "source_node_id": "R_kgDOUAuvsA",
+      "full_name": "kgoedecke/doop",
+      "source_full_name": "kgoedecke/doop",
+      "featured_at": "2026-11-02T22:17:40.435629+00:00",
+      "run_id": "2026-11-02",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOTMtXNA",
+      "source_node_id": "R_kgDOTMtXNA",
+      "full_name": "SimoHypers/limusic",
+      "source_full_name": "SimoHypers/limusic",
+      "featured_at": "2026-11-02T22:17:40.435634+00:00",
+      "run_id": "2026-11-02",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQAyAEg",
+      "source_node_id": "R_kgDOQAyAEg",
+      "full_name": "gastownhall/beads",
+      "source_full_name": "gastownhall/beads",
+      "featured_at": "2026-11-02T22:17:40.435640+00:00",
+      "run_id": "2026-11-02",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMDQ4MzY1ODU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMDQ4MzY1ODU=",
+      "full_name": "mayswind/ezbookkeeping",
+      "source_full_name": "mayswind/ezbookkeeping",
+      "featured_at": "2026-11-02T22:17:40.435646+00:00",
+      "run_id": "2026-11-02",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOTXeV4w",
+      "source_node_id": "R_kgDOTXeV4w",
+      "full_name": "Duecki1/CalibRaw",
+      "source_full_name": "Duecki1/CalibRaw",
+      "featured_at": "2026-11-02T22:17:40.435651+00:00",
+      "run_id": "2026-11-02",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOTcVBSQ",
+      "source_node_id": "R_kgDOTcVBSQ",
+      "full_name": "egoist/kero",
+      "source_full_name": "egoist/kero",
+      "featured_at": "2026-11-02T22:17:40.435656+00:00",
+      "run_id": "2026-11-02",
+      "rank": 10
     }
   ]
 }
