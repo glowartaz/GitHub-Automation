@@ -7110,6 +7110,96 @@
       "featured_at": "2026-11-02T22:17:40.435656+00:00",
       "run_id": "2026-11-02",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDORSvIXA",
+      "source_node_id": "R_kgDORSvIXA",
+      "full_name": "floci-io/floci",
+      "source_full_name": "floci-io/floci",
+      "featured_at": "2026-11-03T20:06:34.023353+00:00",
+      "run_id": "2026-11-03",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQEQrZg",
+      "source_node_id": "R_kgDOQEQrZg",
+      "full_name": "ivankovic/omnidiff",
+      "source_full_name": "ivankovic/omnidiff",
+      "featured_at": "2026-11-03T20:06:34.023382+00:00",
+      "run_id": "2026-11-03",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOT0PjyQ",
+      "source_node_id": "R_kgDOT0PjyQ",
+      "full_name": "lexmount/moli",
+      "source_full_name": "lexmount/moli",
+      "featured_at": "2026-11-03T20:06:34.023393+00:00",
+      "run_id": "2026-11-03",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOPNY4UQ",
+      "source_node_id": "R_kgDOPNY4UQ",
+      "full_name": "Usagi-org/ai-goofish-monitor",
+      "source_full_name": "Usagi-org/ai-goofish-monitor",
+      "featured_at": "2026-11-03T20:06:34.023401+00:00",
+      "run_id": "2026-11-03",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOSLGPyQ",
+      "source_node_id": "R_kgDOSLGPyQ",
+      "full_name": "Yuan1z0825/nature-skills",
+      "source_full_name": "Yuan1z0825/nature-skills",
+      "featured_at": "2026-11-03T20:06:34.023408+00:00",
+      "run_id": "2026-11-03",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOThq6qA",
+      "source_node_id": "R_kgDOThq6qA",
+      "full_name": "spotify/portal-ai-plugins",
+      "source_full_name": "spotify/portal-ai-plugins",
+      "featured_at": "2026-11-03T20:06:34.023414+00:00",
+      "run_id": "2026-11-03",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOTe_qFg",
+      "source_node_id": "R_kgDOTe_qFg",
+      "full_name": "AminBlg/SimpleEnglish",
+      "source_full_name": "AminBlg/SimpleEnglish",
+      "featured_at": "2026-11-03T20:06:34.023419+00:00",
+      "run_id": "2026-11-03",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOMHUFFA",
+      "source_node_id": "R_kgDOMHUFFA",
+      "full_name": "agent0ai/agent-zero",
+      "source_full_name": "agent0ai/agent-zero",
+      "featured_at": "2026-11-03T20:06:34.023425+00:00",
+      "run_id": "2026-11-03",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOUII_MQ",
+      "source_node_id": "R_kgDOUII_MQ",
+      "full_name": "crmne/zapfast",
+      "source_full_name": "crmne/zapfast",
+      "featured_at": "2026-11-03T20:06:34.023431+00:00",
+      "run_id": "2026-11-03",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOTuaIUg",
+      "source_node_id": "R_kgDOTuaIUg",
+      "full_name": "csyangwen/dsh-memory-evolve",
+      "source_full_name": "csyangwen/dsh-memory-evolve",
+      "featured_at": "2026-11-03T20:06:34.023436+00:00",
+      "run_id": "2026-11-03",
+      "rank": 10
     }
   ]
 }
