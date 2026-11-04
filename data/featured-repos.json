@@ -7200,6 +7200,96 @@
       "featured_at": "2026-11-03T20:06:34.023436+00:00",
       "run_id": "2026-11-03",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOUBHRMQ",
+      "source_node_id": "R_kgDOUBHRMQ",
+      "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "source_full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "featured_at": "2026-11-04T20:26:37.256771+00:00",
+      "run_id": "2026-11-04",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTqC0Rw",
+      "source_node_id": "R_kgDOTqC0Rw",
+      "full_name": "FareedKhan-dev/kimi-k3-in-c",
+      "source_full_name": "FareedKhan-dev/kimi-k3-in-c",
+      "featured_at": "2026-11-04T20:26:37.256801+00:00",
+      "run_id": "2026-11-04",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOGlbnpA",
+      "source_node_id": "R_kgDOGlbnpA",
+      "full_name": "MichaelCade/90DaysOfDevOps",
+      "source_full_name": "MichaelCade/90DaysOfDevOps",
+      "featured_at": "2026-11-04T20:26:37.256811+00:00",
+      "run_id": "2026-11-04",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOO0HGrw",
+      "source_node_id": "R_kgDOO0HGrw",
+      "full_name": "Muvon/octomind",
+      "source_full_name": "Muvon/octomind",
+      "featured_at": "2026-11-04T20:26:37.256817+00:00",
+      "run_id": "2026-11-04",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORUj52g",
+      "source_node_id": "R_kgDORUj52g",
+      "full_name": "Thysrael/Horizon",
+      "source_full_name": "Thysrael/Horizon",
+      "featured_at": "2026-11-04T20:26:37.256823+00:00",
+      "run_id": "2026-11-04",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOJne9Sg",
+      "source_node_id": "R_kgDOJne9Sg",
+      "full_name": "Anil-matcha/open-duet",
+      "source_full_name": "Anil-matcha/open-duet",
+      "featured_at": "2026-11-04T20:26:37.256829+00:00",
+      "run_id": "2026-11-04",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOUGA69w",
+      "source_node_id": "R_kgDOUGA69w",
+      "full_name": "crmne/spotifast",
+      "source_full_name": "crmne/spotifast",
+      "featured_at": "2026-11-04T20:26:37.256835+00:00",
+      "run_id": "2026-11-04",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOPXcYIQ",
+      "source_node_id": "R_kgDOPXcYIQ",
+      "full_name": "xpzouying/xiaohongshu-mcp",
+      "source_full_name": "xpzouying/xiaohongshu-mcp",
+      "featured_at": "2026-11-04T20:26:37.256840+00:00",
+      "run_id": "2026-11-04",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOSXBhqA",
+      "source_node_id": "R_kgDOSXBhqA",
+      "full_name": "jo-duchan/tapflow",
+      "source_full_name": "jo-duchan/tapflow",
+      "featured_at": "2026-11-04T20:26:37.256846+00:00",
+      "run_id": "2026-11-04",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNjA2NjcyNw==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNjA2NjcyNw==",
+      "full_name": "mermaid-js/mermaid",
+      "source_full_name": "mermaid-js/mermaid",
+      "featured_at": "2026-11-04T20:26:37.256851+00:00",
+      "run_id": "2026-11-04",
+      "rank": 10
     }
   ]
 }
