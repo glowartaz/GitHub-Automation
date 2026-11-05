@@ -7290,6 +7290,96 @@
       "featured_at": "2026-11-04T20:26:37.256851+00:00",
       "run_id": "2026-11-04",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOS-1Yvw",
+      "source_node_id": "R_kgDOS-1Yvw",
+      "full_name": "tembo/voxl",
+      "source_full_name": "tembo/voxl",
+      "featured_at": "2026-11-05T20:35:49.548320+00:00",
+      "run_id": "2026-11-05",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOP8tDzw",
+      "source_node_id": "R_kgDOP8tDzw",
+      "full_name": "southleft/figma-console-mcp",
+      "source_full_name": "southleft/figma-console-mcp",
+      "featured_at": "2026-11-05T20:35:49.548344+00:00",
+      "run_id": "2026-11-05",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOTaRKMA",
+      "source_node_id": "R_kgDOTaRKMA",
+      "full_name": "sandbox-quantum/switch",
+      "source_full_name": "sandbox-quantum/switch",
+      "featured_at": "2026-11-05T20:35:49.548355+00:00",
+      "run_id": "2026-11-05",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxODk2MjE2MDc=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxODk2MjE2MDc=",
+      "full_name": "github/docs",
+      "source_full_name": "github/docs",
+      "featured_at": "2026-11-05T20:35:49.548364+00:00",
+      "run_id": "2026-11-05",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDORd5yfg",
+      "source_node_id": "R_kgDORd5yfg",
+      "full_name": "KenKaiii/gg-framework",
+      "source_full_name": "KenKaiii/gg-framework",
+      "featured_at": "2026-11-05T20:35:49.548371+00:00",
+      "run_id": "2026-11-05",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOQVR38w",
+      "source_node_id": "R_kgDOQVR38w",
+      "full_name": "awslabs/aidlc-workflows",
+      "source_full_name": "awslabs/aidlc-workflows",
+      "featured_at": "2026-11-05T20:35:49.548378+00:00",
+      "run_id": "2026-11-05",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOG_O3ng",
+      "source_node_id": "R_kgDOG_O3ng",
+      "full_name": "blacklanternsecurity/bbot",
+      "source_full_name": "blacklanternsecurity/bbot",
+      "featured_at": "2026-11-05T20:35:49.548384+00:00",
+      "run_id": "2026-11-05",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk5MzExMzU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk5MzExMzU=",
+      "full_name": "Leaflet/Leaflet",
+      "source_full_name": "Leaflet/Leaflet",
+      "featured_at": "2026-11-05T20:35:49.548390+00:00",
+      "run_id": "2026-11-05",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxODEwNjI2OQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxODEwNjI2OQ==",
+      "full_name": "lz4/lz4",
+      "source_full_name": "lz4/lz4",
+      "featured_at": "2026-11-05T20:35:49.548396+00:00",
+      "run_id": "2026-11-05",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOMeM9jQ",
+      "source_node_id": "R_kgDOMeM9jQ",
+      "full_name": "mihomo-party-org/clash-party",
+      "source_full_name": "mihomo-party-org/clash-party",
+      "featured_at": "2026-11-05T20:35:49.548402+00:00",
+      "run_id": "2026-11-05",
+      "rank": 10
     }
   ]
 }
