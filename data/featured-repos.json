@@ -7380,6 +7380,96 @@
       "featured_at": "2026-11-05T20:35:49.548402+00:00",
       "run_id": "2026-11-05",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTL0XNw",
+      "source_node_id": "R_kgDOTL0XNw",
+      "full_name": "elder-plinius/T3MP3ST",
+      "source_full_name": "elder-plinius/T3MP3ST",
+      "featured_at": "2026-11-06T20:01:11.846332+00:00",
+      "run_id": "2026-11-06",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOJlox8w",
+      "source_node_id": "R_kgDOJlox8w",
+      "full_name": "lobehub/lobehub",
+      "source_full_name": "lobehub/lobehub",
+      "featured_at": "2026-11-06T20:01:11.846354+00:00",
+      "run_id": "2026-11-06",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOQ2zHeg",
+      "source_node_id": "R_kgDOQ2zHeg",
+      "full_name": "meta/astryx",
+      "source_full_name": "meta/astryx",
+      "featured_at": "2026-11-06T20:01:11.846363+00:00",
+      "run_id": "2026-11-06",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4NTgxMjc=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4NTgxMjc=",
+      "full_name": "pandas-dev/pandas",
+      "source_full_name": "pandas-dev/pandas",
+      "featured_at": "2026-11-06T20:01:11.846369+00:00",
+      "run_id": "2026-11-06",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4NTE0",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4NTE0",
+      "full_name": "rails/rails",
+      "source_full_name": "rails/rails",
+      "featured_at": "2026-11-06T20:01:11.846374+00:00",
+      "run_id": "2026-11-06",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk5MDg2MDc=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk5MDg2MDc=",
+      "full_name": "numpy/numpy",
+      "source_full_name": "numpy/numpy",
+      "featured_at": "2026-11-06T20:01:11.846379+00:00",
+      "run_id": "2026-11-06",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk3NDI5MzMyMQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk3NDI5MzMyMQ==",
+      "full_name": "sveltejs/svelte",
+      "source_full_name": "sveltejs/svelte",
+      "featured_at": "2026-11-06T20:01:11.846384+00:00",
+      "run_id": "2026-11-06",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMzA4ODQ0NzA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMzA4ODQ0NzA=",
+      "full_name": "solidjs/solid",
+      "source_full_name": "solidjs/solid",
+      "featured_at": "2026-11-06T20:01:11.846389+00:00",
+      "run_id": "2026-11-06",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNjU3Mzk4MTI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNjU3Mzk4MTI=",
+      "full_name": "tldraw/tldraw",
+      "source_full_name": "tldraw/tldraw",
+      "featured_at": "2026-11-06T20:01:11.846393+00:00",
+      "run_id": "2026-11-06",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMjMzMDM0MDI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMjMzMDM0MDI=",
+      "full_name": "python-poetry/poetry",
+      "source_full_name": "python-poetry/poetry",
+      "featured_at": "2026-11-06T20:01:11.846398+00:00",
+      "run_id": "2026-11-06",
+      "rank": 10
     }
   ]
 }
