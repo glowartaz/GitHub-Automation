@@ -7470,6 +7470,96 @@
       "featured_at": "2026-11-06T20:01:11.846398+00:00",
       "run_id": "2026-11-06",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNDE5NTMzOQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNDE5NTMzOQ==",
+      "full_name": "angular/angular",
+      "source_full_name": "angular/angular",
+      "featured_at": "2026-11-07T18:03:18.515835+00:00",
+      "run_id": "2026-11-07",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOHy0BzQ",
+      "source_node_id": "R_kgDOHy0BzQ",
+      "full_name": "astral-sh/ruff",
+      "source_full_name": "astral-sh/ruff",
+      "featured_at": "2026-11-07T18:03:18.515859+00:00",
+      "run_id": "2026-11-07",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOTJ8PxA",
+      "source_node_id": "R_kgDOTJ8PxA",
+      "full_name": "mbillow/localthings",
+      "source_full_name": "mbillow/localthings",
+      "featured_at": "2026-11-07T18:03:18.515870+00:00",
+      "run_id": "2026-11-07",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxMDYwMTczNDM=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxMDYwMTczNDM=",
+      "full_name": "tailwindlabs/tailwindcss",
+      "source_full_name": "tailwindlabs/tailwindcss",
+      "featured_at": "2026-11-07T18:03:18.515878+00:00",
+      "run_id": "2026-11-07",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNDU5NDkzMw==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNDU5NDkzMw==",
+      "full_name": "Unleash/unleash",
+      "source_full_name": "Unleash/unleash",
+      "featured_at": "2026-11-07T18:03:18.515885+00:00",
+      "run_id": "2026-11-07",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk1MzYzMTk0NQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk1MzYzMTk0NQ==",
+      "full_name": "BurntSushi/ripgrep",
+      "source_full_name": "BurntSushi/ripgrep",
+      "featured_at": "2026-11-07T18:03:18.515891+00:00",
+      "run_id": "2026-11-07",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOTt0kEA",
+      "source_node_id": "R_kgDOTt0kEA",
+      "full_name": "dsx-ai-factory/nvke",
+      "source_full_name": "dsx-ai-factory/nvke",
+      "featured_at": "2026-11-07T18:03:18.515897+00:00",
+      "run_id": "2026-11-07",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk2NzgzNjc4OQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk2NzgzNjc4OQ==",
+      "full_name": "tokio-rs/tokio",
+      "source_full_name": "tokio-rs/tokio",
+      "featured_at": "2026-11-07T18:03:18.515904+00:00",
+      "run_id": "2026-11-07",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk5MDc5MzQxOA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk5MDc5MzQxOA==",
+      "full_name": "sharkdp/fd",
+      "source_full_name": "sharkdp/fd",
+      "featured_at": "2026-11-07T18:03:18.515910+00:00",
+      "run_id": "2026-11-07",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNDM2NzczNw==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNDM2NzczNw==",
+      "full_name": "serde-rs/serde",
+      "source_full_name": "serde-rs/serde",
+      "featured_at": "2026-11-07T18:03:18.515916+00:00",
+      "run_id": "2026-11-07",
+      "rank": 10
     }
   ]
 }
