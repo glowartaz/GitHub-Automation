@@ -7650,6 +7650,96 @@
       "featured_at": "2026-11-08T18:22:24.302141+00:00",
       "run_id": "2026-11-08",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk0MDA1MDExMzY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk0MDA1MDExMzY=",
+      "full_name": "google-deepmind/mujoco",
+      "source_full_name": "google-deepmind/mujoco",
+      "featured_at": "2026-11-09T23:01:34.637022+00:00",
+      "run_id": "2026-11-09",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOR6Xyow",
+      "source_node_id": "R_kgDOR6Xyow",
+      "full_name": "garrytan/gbrain",
+      "source_full_name": "garrytan/gbrain",
+      "featured_at": "2026-11-09T23:01:34.637046+00:00",
+      "run_id": "2026-11-09",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOQqSjUg",
+      "source_node_id": "R_kgDOQqSjUg",
+      "full_name": "opensandbox-group/OpenSandbox",
+      "source_full_name": "opensandbox-group/OpenSandbox",
+      "featured_at": "2026-11-09T23:01:34.637057+00:00",
+      "run_id": "2026-11-09",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOT5W3_w",
+      "source_node_id": "R_kgDOT5W3_w",
+      "full_name": "ooolabdev/ooosplat",
+      "source_full_name": "ooolabdev/ooosplat",
+      "featured_at": "2026-11-09T23:01:34.637064+00:00",
+      "run_id": "2026-11-09",
+      "rank": 4
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNzUzODY5MTA=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNzUzODY5MTA=",
+      "full_name": "soxoj/maigret",
+      "source_full_name": "soxoj/maigret",
+      "featured_at": "2026-11-09T23:01:34.637071+00:00",
+      "run_id": "2026-11-09",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOHlge-A",
+      "source_node_id": "R_kgDOHlge-A",
+      "full_name": "SagerNet/sing-box",
+      "source_full_name": "SagerNet/sing-box",
+      "featured_at": "2026-11-09T23:01:34.637077+00:00",
+      "run_id": "2026-11-09",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNzkxNjMxMjQ=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNzkxNjMxMjQ=",
+      "full_name": "hummingbot/hummingbot",
+      "source_full_name": "hummingbot/hummingbot",
+      "featured_at": "2026-11-09T23:01:34.637084+00:00",
+      "run_id": "2026-11-09",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOMUOeoQ",
+      "source_node_id": "R_kgDOMUOeoQ",
+      "full_name": "CodebuffAI/freebuff",
+      "source_full_name": "CodebuffAI/freebuff",
+      "featured_at": "2026-11-09T23:01:34.637090+00:00",
+      "run_id": "2026-11-09",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOUUDEfQ",
+      "source_node_id": "R_kgDOUUDEfQ",
+      "full_name": "ViceVerse-cz/Serein",
+      "source_full_name": "ViceVerse-cz/Serein",
+      "featured_at": "2026-11-09T23:01:34.637095+00:00",
+      "run_id": "2026-11-09",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOKlg6kQ",
+      "source_node_id": "R_kgDOKlg6kQ",
+      "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "source_full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "featured_at": "2026-11-09T23:01:34.637101+00:00",
+      "run_id": "2026-11-09",
+      "rank": 10
     }
   ]
 }
