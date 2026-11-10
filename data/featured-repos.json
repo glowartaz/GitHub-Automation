@@ -7740,6 +7740,96 @@
       "featured_at": "2026-11-09T23:01:34.637101+00:00",
       "run_id": "2026-11-09",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOPvq5vQ",
+      "source_node_id": "R_kgDOPvq5vQ",
+      "full_name": "homeassistant-ai/ha-mcp",
+      "source_full_name": "homeassistant-ai/ha-mcp",
+      "featured_at": "2026-11-10T20:23:04.109186+00:00",
+      "run_id": "2026-11-10",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOT0yNug",
+      "source_node_id": "R_kgDOT0yNug",
+      "full_name": "WhiteTowerAI/ohmygame",
+      "source_full_name": "WhiteTowerAI/ohmygame",
+      "featured_at": "2026-11-10T20:23:04.109220+00:00",
+      "run_id": "2026-11-10",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOPRMXrw",
+      "source_node_id": "R_kgDOPRMXrw",
+      "full_name": "we-promise/sure",
+      "source_full_name": "we-promise/sure",
+      "featured_at": "2026-11-10T20:23:04.109226+00:00",
+      "run_id": "2026-11-10",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOM30VIw",
+      "source_node_id": "R_kgDOM30VIw",
+      "full_name": "fosrl/pangolin",
+      "source_full_name": "fosrl/pangolin",
+      "featured_at": "2026-11-10T20:23:04.109231+00:00",
+      "run_id": "2026-11-10",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDONgRM2g",
+      "source_node_id": "R_kgDONgRM2g",
+      "full_name": "ashishpatel26/500-AI-Agents-Projects",
+      "source_full_name": "ashishpatel26/500-AI-Agents-Projects",
+      "featured_at": "2026-11-10T20:23:04.109235+00:00",
+      "run_id": "2026-11-10",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk3NzcyNjE3Nw==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk3NzcyNjE3Nw==",
+      "full_name": "trufflesecurity/trufflehog",
+      "source_full_name": "trufflesecurity/trufflehog",
+      "featured_at": "2026-11-10T20:23:04.109239+00:00",
+      "run_id": "2026-11-10",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOMCnLrQ",
+      "source_node_id": "R_kgDOMCnLrQ",
+      "full_name": "LadybirdBrowser/ladybird",
+      "source_full_name": "LadybirdBrowser/ladybird",
+      "featured_at": "2026-11-10T20:23:04.109242+00:00",
+      "run_id": "2026-11-10",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDORdqGxw",
+      "source_node_id": "R_kgDORdqGxw",
+      "full_name": "elder-plinius/OBLITERATUS",
+      "source_full_name": "elder-plinius/OBLITERATUS",
+      "featured_at": "2026-11-10T20:23:04.109246+00:00",
+      "run_id": "2026-11-10",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk2NzE4Njk2OA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk2NzE4Njk2OA==",
+      "full_name": "chinese-poetry/chinese-poetry",
+      "source_full_name": "chinese-poetry/chinese-poetry",
+      "featured_at": "2026-11-10T20:23:04.109249+00:00",
+      "run_id": "2026-11-10",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOMn-6Tg",
+      "source_node_id": "R_kgDOMn-6Tg",
+      "full_name": "a-ghorbani/pocketpal-ai",
+      "source_full_name": "a-ghorbani/pocketpal-ai",
+      "featured_at": "2026-11-10T20:23:04.109253+00:00",
+      "run_id": "2026-11-10",
+      "rank": 10
     }
   ]
 }
