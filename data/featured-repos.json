@@ -7830,6 +7830,96 @@
       "featured_at": "2026-11-10T20:23:04.109253+00:00",
       "run_id": "2026-11-10",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOS2YqAg",
+      "source_node_id": "R_kgDOS2YqAg",
+      "full_name": "shadcn/improve",
+      "source_full_name": "shadcn/improve",
+      "featured_at": "2026-11-11T20:09:05.864136+00:00",
+      "run_id": "2026-11-11",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOLlsW3g",
+      "source_node_id": "R_kgDOLlsW3g",
+      "full_name": "NapNeko/NapCatQQ",
+      "source_full_name": "NapNeko/NapCatQQ",
+      "featured_at": "2026-11-11T20:09:05.864170+00:00",
+      "run_id": "2026-11-11",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDORCp1Rw",
+      "source_node_id": "R_kgDORCp1Rw",
+      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "source_full_name": "GoogleChrome/modern-web-guidance-src",
+      "featured_at": "2026-11-11T20:09:05.864181+00:00",
+      "run_id": "2026-11-11",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk2MzQ3NzY2MA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk2MzQ3NzY2MA==",
+      "full_name": "TheAlgorithms/Java",
+      "source_full_name": "TheAlgorithms/Java",
+      "featured_at": "2026-11-11T20:09:05.864189+00:00",
+      "run_id": "2026-11-11",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOT7VB-w",
+      "source_node_id": "R_kgDOT7VB-w",
+      "full_name": "ShayanAbbas1/dbdelve",
+      "source_full_name": "ShayanAbbas1/dbdelve",
+      "featured_at": "2026-11-11T20:09:05.864196+00:00",
+      "run_id": "2026-11-11",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOIXtSqw",
+      "source_node_id": "R_kgDOIXtSqw",
+      "full_name": "krahets/hello-algo",
+      "source_full_name": "krahets/hello-algo",
+      "featured_at": "2026-11-11T20:09:05.864203+00:00",
+      "run_id": "2026-11-11",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOTlnVHA",
+      "source_node_id": "R_kgDOTlnVHA",
+      "full_name": "Tencent/LoopForge",
+      "source_full_name": "Tencent/LoopForge",
+      "featured_at": "2026-11-11T20:09:05.864208+00:00",
+      "run_id": "2026-11-11",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOGrlpEA",
+      "source_node_id": "R_kgDOGrlpEA",
+      "full_name": "dmunozv04/iSponsorBlockTV",
+      "source_full_name": "dmunozv04/iSponsorBlockTV",
+      "featured_at": "2026-11-11T20:09:05.864215+00:00",
+      "run_id": "2026-11-11",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDORA8Uiw",
+      "source_node_id": "R_kgDORA8Uiw",
+      "full_name": "PenglongHuang/chinese-novelist-skill",
+      "source_full_name": "PenglongHuang/chinese-novelist-skill",
+      "featured_at": "2026-11-11T20:09:05.864220+00:00",
+      "run_id": "2026-11-11",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNjIyMDAyMzQ=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNjIyMDAyMzQ=",
+      "full_name": "OpenCTI-Platform/opencti",
+      "source_full_name": "OpenCTI-Platform/opencti",
+      "featured_at": "2026-11-11T20:09:05.864226+00:00",
+      "run_id": "2026-11-11",
+      "rank": 10
     }
   ]
 }
