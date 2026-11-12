@@ -7920,6 +7920,96 @@
       "featured_at": "2026-11-11T20:09:05.864226+00:00",
       "run_id": "2026-11-11",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTXjnhA",
+      "source_node_id": "R_kgDOTXjnhA",
+      "full_name": "openai/codex-security",
+      "source_full_name": "openai/codex-security",
+      "featured_at": "2026-11-12T20:47:09.271585+00:00",
+      "run_id": "2026-11-12",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDONdgGxQ",
+      "source_node_id": "R_kgDONdgGxQ",
+      "full_name": "pookjw/HermesEnabler",
+      "source_full_name": "pookjw/HermesEnabler",
+      "featured_at": "2026-11-12T20:47:09.271603+00:00",
+      "run_id": "2026-11-12",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOJH_K4A",
+      "source_node_id": "R_kgDOJH_K4A",
+      "full_name": "ggml-org/llama.cpp",
+      "source_full_name": "ggml-org/llama.cpp",
+      "featured_at": "2026-11-12T20:47:09.271609+00:00",
+      "run_id": "2026-11-12",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOIAstBQ",
+      "source_node_id": "R_kgDOIAstBQ",
+      "full_name": "openai/whisper",
+      "source_full_name": "openai/whisper",
+      "featured_at": "2026-11-12T20:47:09.271612+00:00",
+      "run_id": "2026-11-12",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOTDcPlA",
+      "source_node_id": "R_kgDOTDcPlA",
+      "full_name": "NVIDIA/SkillEvaluator",
+      "source_full_name": "NVIDIA/SkillEvaluator",
+      "featured_at": "2026-11-12T20:47:09.271616+00:00",
+      "run_id": "2026-11-12",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxODAxOTA4NTQ=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxODAxOTA4NTQ=",
+      "full_name": "appwrite/appwrite",
+      "source_full_name": "appwrite/appwrite",
+      "featured_at": "2026-11-12T20:47:09.271619+00:00",
+      "run_id": "2026-11-12",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOT7D7kQ",
+      "source_node_id": "R_kgDOT7D7kQ",
+      "full_name": "shanliuling/dsh-image-gen",
+      "source_full_name": "shanliuling/dsh-image-gen",
+      "featured_at": "2026-11-12T20:47:09.271623+00:00",
+      "run_id": "2026-11-12",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk1OTY4OTI=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk1OTY4OTI=",
+      "full_name": "pallets/flask",
+      "source_full_name": "pallets/flask",
+      "featured_at": "2026-11-12T20:47:09.271625+00:00",
+      "run_id": "2026-11-12",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNTg2NjY5NA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNTg2NjY5NA==",
+      "full_name": "RocketChat/Rocket.Chat",
+      "source_full_name": "RocketChat/Rocket.Chat",
+      "featured_at": "2026-11-12T20:47:09.271628+00:00",
+      "run_id": "2026-11-12",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOUVULNw",
+      "source_node_id": "R_kgDOUVULNw",
+      "full_name": "block/buzz-app",
+      "source_full_name": "block/buzz-app",
+      "featured_at": "2026-11-12T20:47:09.271631+00:00",
+      "run_id": "2026-11-12",
+      "rank": 10
     }
   ]
 }
