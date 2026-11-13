@@ -8010,6 +8010,96 @@
       "featured_at": "2026-11-12T20:47:09.271631+00:00",
       "run_id": "2026-11-12",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOUTcMaw",
+      "source_node_id": "R_kgDOUTcMaw",
+      "full_name": "Likely7/Veyra-NRVideo",
+      "source_full_name": "Likely7/Veyra-NRVideo",
+      "featured_at": "2026-11-13T20:29:04.025755+00:00",
+      "run_id": "2026-11-13",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOUNQZzA",
+      "source_node_id": "R_kgDOUNQZzA",
+      "full_name": "kajisho5/ffmpeg-skill",
+      "source_full_name": "kajisho5/ffmpeg-skill",
+      "featured_at": "2026-11-13T20:29:04.025782+00:00",
+      "run_id": "2026-11-13",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOIN1WiA",
+      "source_node_id": "R_kgDOIN1WiA",
+      "full_name": "tw93/Pake",
+      "source_full_name": "tw93/Pake",
+      "featured_at": "2026-11-13T20:29:04.025790+00:00",
+      "run_id": "2026-11-13",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOQFWqwg",
+      "source_node_id": "R_kgDOQFWqwg",
+      "full_name": "tradermonty/claude-trading-skills",
+      "source_full_name": "tradermonty/claude-trading-skills",
+      "featured_at": "2026-11-13T20:29:04.025796+00:00",
+      "run_id": "2026-11-13",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOUWUkdg",
+      "source_node_id": "R_kgDOUWUkdg",
+      "full_name": "aimod-cc/Agent2API",
+      "source_full_name": "aimod-cc/Agent2API",
+      "featured_at": "2026-11-13T20:29:04.025802+00:00",
+      "run_id": "2026-11-13",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOKFU0lQ",
+      "source_node_id": "R_kgDOKFU0lQ",
+      "full_name": "langchain-ai/langgraph",
+      "source_full_name": "langchain-ai/langgraph",
+      "featured_at": "2026-11-13T20:29:04.025807+00:00",
+      "run_id": "2026-11-13",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOS-0Giw",
+      "source_node_id": "R_kgDOS-0Giw",
+      "full_name": "lidge-jun/opencodex",
+      "source_full_name": "lidge-jun/opencodex",
+      "featured_at": "2026-11-13T20:29:04.025812+00:00",
+      "run_id": "2026-11-13",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOTI8l0A",
+      "source_node_id": "R_kgDOTI8l0A",
+      "full_name": "avenoxai/avenoxbeyin",
+      "source_full_name": "avenoxai/avenoxbeyin",
+      "featured_at": "2026-11-13T20:29:04.025816+00:00",
+      "run_id": "2026-11-13",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOTqsaPA",
+      "source_node_id": "R_kgDOTqsaPA",
+      "full_name": "adewaskar/jarvis",
+      "source_full_name": "adewaskar/jarvis",
+      "featured_at": "2026-11-13T20:29:04.025821+00:00",
+      "run_id": "2026-11-13",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyOTIwMTQyMjk=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyOTIwMTQyMjk=",
+      "full_name": "zellij-org/zellij",
+      "source_full_name": "zellij-org/zellij",
+      "featured_at": "2026-11-13T20:29:04.025825+00:00",
+      "run_id": "2026-11-13",
+      "rank": 10
     }
   ]
 }
