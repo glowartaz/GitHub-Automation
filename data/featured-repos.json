@@ -8100,6 +8100,96 @@
       "featured_at": "2026-11-13T20:29:04.025825+00:00",
       "run_id": "2026-11-13",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSUzdDA",
+      "source_node_id": "R_kgDOSUzdDA",
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "source_full_name": "elementalsouls/Claude-BugHunter",
+      "featured_at": "2026-11-14T18:47:20.680977+00:00",
+      "run_id": "2026-11-14",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTdnv7w",
+      "source_node_id": "R_kgDOTdnv7w",
+      "full_name": "andrewyng/openworker",
+      "source_full_name": "andrewyng/openworker",
+      "featured_at": "2026-11-14T18:47:20.681001+00:00",
+      "run_id": "2026-11-14",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOPUaTTw",
+      "source_node_id": "R_kgDOPUaTTw",
+      "full_name": "FujiwaraChoki/supoclip",
+      "source_full_name": "FujiwaraChoki/supoclip",
+      "featured_at": "2026-11-14T18:47:20.681012+00:00",
+      "run_id": "2026-11-14",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOK1bNkg",
+      "source_node_id": "R_kgDOK1bNkg",
+      "full_name": "dreammis/social-auto-upload",
+      "source_full_name": "dreammis/social-auto-upload",
+      "featured_at": "2026-11-14T18:47:20.681020+00:00",
+      "run_id": "2026-11-14",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOQKxyzA",
+      "source_node_id": "R_kgDOQKxyzA",
+      "full_name": "pnnbao97/VieNeu-TTS",
+      "source_full_name": "pnnbao97/VieNeu-TTS",
+      "featured_at": "2026-11-14T18:47:20.681027+00:00",
+      "run_id": "2026-11-14",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOL_2xwg",
+      "source_node_id": "R_kgDOL_2xwg",
+      "full_name": "CherryHQ/cherry-studio",
+      "source_full_name": "CherryHQ/cherry-studio",
+      "featured_at": "2026-11-14T18:47:20.681033+00:00",
+      "run_id": "2026-11-14",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxOTIwNTg5Ng==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxOTIwNTg5Ng==",
+      "full_name": "restic/restic",
+      "source_full_name": "restic/restic",
+      "featured_at": "2026-11-14T18:47:20.681040+00:00",
+      "run_id": "2026-11-14",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNTc4OTcxOTk=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNTc4OTcxOTk=",
+      "full_name": "netbirdio/netbird",
+      "source_full_name": "netbirdio/netbird",
+      "featured_at": "2026-11-14T18:47:20.681046+00:00",
+      "run_id": "2026-11-14",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOK45rdQ",
+      "source_node_id": "R_kgDOK45rdQ",
+      "full_name": "microsoft/PyRIT",
+      "source_full_name": "microsoft/PyRIT",
+      "featured_at": "2026-11-14T18:47:20.681052+00:00",
+      "run_id": "2026-11-14",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk1MzM3MDk4OA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk1MzM3MDk4OA==",
+      "full_name": "GoogleChrome/lighthouse",
+      "source_full_name": "GoogleChrome/lighthouse",
+      "featured_at": "2026-11-14T18:47:20.681058+00:00",
+      "run_id": "2026-11-14",
+      "rank": 10
     }
   ]
 }
