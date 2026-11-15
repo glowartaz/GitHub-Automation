@@ -8190,6 +8190,96 @@
       "featured_at": "2026-11-14T18:47:20.681058+00:00",
       "run_id": "2026-11-14",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOQ7Opvg",
+      "source_node_id": "R_kgDOQ7Opvg",
+      "full_name": "google-labs-code/stitch-skills",
+      "source_full_name": "google-labs-code/stitch-skills",
+      "featured_at": "2026-11-15T19:21:32.766607+00:00",
+      "run_id": "2026-11-15",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOQqfe8g",
+      "source_node_id": "R_kgDOQqfe8g",
+      "full_name": "antithesishq/bombadil",
+      "source_full_name": "antithesishq/bombadil",
+      "featured_at": "2026-11-15T19:21:32.766633+00:00",
+      "run_id": "2026-11-15",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOUAuQJg",
+      "source_node_id": "R_kgDOUAuQJg",
+      "full_name": "bojieli/ai-infra-book",
+      "source_full_name": "bojieli/ai-infra-book",
+      "featured_at": "2026-11-15T19:21:32.766642+00:00",
+      "run_id": "2026-11-15",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOMBgCEg",
+      "source_node_id": "R_kgDOMBgCEg",
+      "full_name": "nolly-studio/cult-ui",
+      "source_full_name": "nolly-studio/cult-ui",
+      "featured_at": "2026-11-15T19:21:32.766648+00:00",
+      "run_id": "2026-11-15",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOHw0mqg",
+      "source_node_id": "R_kgDOHw0mqg",
+      "full_name": "motion-canvas/motion-canvas",
+      "source_full_name": "motion-canvas/motion-canvas",
+      "featured_at": "2026-11-15T19:21:32.766653+00:00",
+      "run_id": "2026-11-15",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOOnqHAw",
+      "source_node_id": "R_kgDOOnqHAw",
+      "full_name": "fqscfqj/Y2A-Auto",
+      "source_full_name": "fqscfqj/Y2A-Auto",
+      "featured_at": "2026-11-15T19:21:32.766658+00:00",
+      "run_id": "2026-11-15",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOKwunUQ",
+      "source_node_id": "R_kgDOKwunUQ",
+      "full_name": "assistant-ui/assistant-ui",
+      "source_full_name": "assistant-ui/assistant-ui",
+      "featured_at": "2026-11-15T19:21:32.766663+00:00",
+      "run_id": "2026-11-15",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDONWxneQ",
+      "source_node_id": "R_kgDONWxneQ",
+      "full_name": "PrefectHQ/fastmcp",
+      "source_full_name": "PrefectHQ/fastmcp",
+      "featured_at": "2026-11-15T19:21:32.766669+00:00",
+      "run_id": "2026-11-15",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNTc4NDY4NzY=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNTc4NDY4NzY=",
+      "full_name": "motiondivision/motion",
+      "source_full_name": "motiondivision/motion",
+      "featured_at": "2026-11-15T19:21:32.766674+00:00",
+      "run_id": "2026-11-15",
+      "rank": 9
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNjUxMjI0Nzg=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNjUxMjI0Nzg=",
+      "full_name": "ManimCommunity/manim",
+      "source_full_name": "ManimCommunity/manim",
+      "featured_at": "2026-11-15T19:21:32.766678+00:00",
+      "run_id": "2026-11-15",
+      "rank": 10
     }
   ]
 }
