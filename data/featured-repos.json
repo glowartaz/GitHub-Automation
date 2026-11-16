@@ -8280,6 +8280,96 @@
       "featured_at": "2026-11-15T19:21:32.766678+00:00",
       "run_id": "2026-11-15",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSR3Uuw",
+      "source_node_id": "R_kgDOSR3Uuw",
+      "full_name": "google-research/paper-orchestra",
+      "source_full_name": "google-research/paper-orchestra",
+      "featured_at": "2026-11-16T22:53:44.310231+00:00",
+      "run_id": "2026-11-16",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOTpIZ9w",
+      "source_node_id": "R_kgDOTpIZ9w",
+      "full_name": "vstorm-co/agenticos",
+      "source_full_name": "vstorm-co/agenticos",
+      "featured_at": "2026-11-16T22:53:44.310258+00:00",
+      "run_id": "2026-11-16",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDON5YL7Q",
+      "source_node_id": "R_kgDON5YL7Q",
+      "full_name": "Billionmail/BillionMail",
+      "source_full_name": "Billionmail/BillionMail",
+      "featured_at": "2026-11-16T22:53:44.310264+00:00",
+      "run_id": "2026-11-16",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDORAxm1A",
+      "source_node_id": "R_kgDORAxm1A",
+      "full_name": "esengine/estella",
+      "source_full_name": "esengine/estella",
+      "featured_at": "2026-11-16T22:53:44.310269+00:00",
+      "run_id": "2026-11-16",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOTRYNvA",
+      "source_node_id": "R_kgDOTRYNvA",
+      "full_name": "s0ld13rr/pentestcode",
+      "source_full_name": "s0ld13rr/pentestcode",
+      "featured_at": "2026-11-16T22:53:44.310273+00:00",
+      "run_id": "2026-11-16",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOOcBTVQ",
+      "source_node_id": "R_kgDOOcBTVQ",
+      "full_name": "getarcaneapp/arcane",
+      "source_full_name": "getarcaneapp/arcane",
+      "featured_at": "2026-11-16T22:53:44.310277+00:00",
+      "run_id": "2026-11-16",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk4MDk0NTQyOA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk4MDk0NTQyOA==",
+      "full_name": "nestjs/nest",
+      "source_full_name": "nestjs/nest",
+      "featured_at": "2026-11-16T22:53:44.310280+00:00",
+      "run_id": "2026-11-16",
+      "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyMzA4ODc0MA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyMzA4ODc0MA==",
+      "full_name": "axios/axios",
+      "source_full_name": "axios/axios",
+      "featured_at": "2026-11-16T22:53:44.310284+00:00",
+      "run_id": "2026-11-16",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzOTUyODM0MDE=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzOTUyODM0MDE=",
+      "full_name": "kubescape/kubescape",
+      "source_full_name": "kubescape/kubescape",
+      "featured_at": "2026-11-16T22:53:44.310288+00:00",
+      "run_id": "2026-11-16",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOPgt_kw",
+      "source_node_id": "R_kgDOPgt_kw",
+      "full_name": "isair/jarvis",
+      "source_full_name": "isair/jarvis",
+      "featured_at": "2026-11-16T22:53:44.310291+00:00",
+      "run_id": "2026-11-16",
+      "rank": 10
     }
   ]
 }
