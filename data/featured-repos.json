@@ -8370,6 +8370,96 @@
       "featured_at": "2026-11-16T22:53:44.310291+00:00",
       "run_id": "2026-11-16",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOTMZXxg",
+      "source_node_id": "R_kgDOTMZXxg",
+      "full_name": "3441293738/creatorhub",
+      "source_full_name": "3441293738/creatorhub",
+      "featured_at": "2026-11-17T21:40:43.513391+00:00",
+      "run_id": "2026-11-17",
+      "rank": 1
+    },
+    {
+      "node_id": "R_kgDOULkhjg",
+      "source_node_id": "R_kgDOULkhjg",
+      "full_name": "lnkiai/m3e-canvas",
+      "source_full_name": "lnkiai/m3e-canvas",
+      "featured_at": "2026-11-17T21:40:43.513415+00:00",
+      "run_id": "2026-11-17",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOT5W1cg",
+      "source_node_id": "R_kgDOT5W1cg",
+      "full_name": "Minglink/dsh-infinite-gen-5",
+      "source_full_name": "Minglink/dsh-infinite-gen-5",
+      "featured_at": "2026-11-17T21:40:43.513426+00:00",
+      "run_id": "2026-11-17",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOUWQvvQ",
+      "source_node_id": "R_kgDOUWQvvQ",
+      "full_name": "aliyun/ai-agent-handbook",
+      "source_full_name": "aliyun/ai-agent-handbook",
+      "featured_at": "2026-11-17T21:40:43.513433+00:00",
+      "run_id": "2026-11-17",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOLT2ulA",
+      "source_node_id": "R_kgDOLT2ulA",
+      "full_name": "BurntSushi/jiff",
+      "source_full_name": "BurntSushi/jiff",
+      "featured_at": "2026-11-17T21:40:43.513440+00:00",
+      "run_id": "2026-11-17",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOSiRAsA",
+      "source_node_id": "R_kgDOSiRAsA",
+      "full_name": "NVIDIA-NeMo/Switchyard",
+      "source_full_name": "NVIDIA-NeMo/Switchyard",
+      "featured_at": "2026-11-17T21:40:43.513446+00:00",
+      "run_id": "2026-11-17",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOQGCPnw",
+      "source_node_id": "R_kgDOQGCPnw",
+      "full_name": "Jeffallan/claude-skills",
+      "source_full_name": "Jeffallan/claude-skills",
+      "featured_at": "2026-11-17T21:40:43.513452+00:00",
+      "run_id": "2026-11-17",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOLOre2w",
+      "source_node_id": "R_kgDOLOre2w",
+      "full_name": "karakeep-app/karakeep",
+      "source_full_name": "karakeep-app/karakeep",
+      "featured_at": "2026-11-17T21:40:43.513458+00:00",
+      "run_id": "2026-11-17",
+      "rank": 8
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMDEyNDQ0MDU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMDEyNDQ0MDU=",
+      "full_name": "atuinsh/atuin",
+      "source_full_name": "atuinsh/atuin",
+      "featured_at": "2026-11-17T21:40:43.513464+00:00",
+      "run_id": "2026-11-17",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOMgKwqg",
+      "source_node_id": "R_kgDOMgKwqg",
+      "full_name": "mastra-ai/mastra",
+      "source_full_name": "mastra-ai/mastra",
+      "featured_at": "2026-11-17T21:40:43.513470+00:00",
+      "run_id": "2026-11-17",
+      "rank": 10
     }
   ]
 }
