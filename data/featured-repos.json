@@ -8460,6 +8460,96 @@
       "featured_at": "2026-11-17T21:40:43.513470+00:00",
       "run_id": "2026-11-17",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNjcxNzQ=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNjcxNzQ=",
+      "full_name": "jquery/jquery",
+      "source_full_name": "jquery/jquery",
+      "featured_at": "2026-11-18T21:13:43.062770+00:00",
+      "run_id": "2026-11-18",
+      "rank": 1
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNjM4OTY0",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNjM4OTY0",
+      "full_name": "ansible/ansible",
+      "source_full_name": "ansible/ansible",
+      "featured_at": "2026-11-18T21:13:43.062792+00:00",
+      "run_id": "2026-11-18",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOUe_Caw",
+      "source_node_id": "R_kgDOUe_Caw",
+      "full_name": "qwdwqfwq/topconf-paper-figure-gallery",
+      "source_full_name": "qwdwqfwq/topconf-paper-figure-gallery",
+      "featured_at": "2026-11-18T21:13:43.062800+00:00",
+      "run_id": "2026-11-18",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDOUEQDKQ",
+      "source_node_id": "R_kgDOUEQDKQ",
+      "full_name": "pugarte7/spanish-top-tech-companies",
+      "source_full_name": "pugarte7/spanish-top-tech-companies",
+      "featured_at": "2026-11-18T21:13:43.062806+00:00",
+      "run_id": "2026-11-18",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDONWz9pg",
+      "source_node_id": "R_kgDONWz9pg",
+      "full_name": "punkpeye/awesome-mcp-servers",
+      "source_full_name": "punkpeye/awesome-mcp-servers",
+      "featured_at": "2026-11-18T21:13:43.062811+00:00",
+      "run_id": "2026-11-18",
+      "rank": 5
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxOTc0NTAwNA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxOTc0NTAwNA==",
+      "full_name": "odoo/odoo",
+      "source_full_name": "odoo/odoo",
+      "featured_at": "2026-11-18T21:13:43.062816+00:00",
+      "run_id": "2026-11-18",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk1NDE3MzU5Mw==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk1NDE3MzU5Mw==",
+      "full_name": "storybookjs/storybook",
+      "source_full_name": "storybookjs/storybook",
+      "featured_at": "2026-11-18T21:13:43.062820+00:00",
+      "run_id": "2026-11-18",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOPYLBrg",
+      "source_node_id": "R_kgDOPYLBrg",
+      "full_name": "anthropics/claude-code-security-review",
+      "source_full_name": "anthropics/claude-code-security-review",
+      "featured_at": "2026-11-18T21:13:43.062825+00:00",
+      "run_id": "2026-11-18",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOSs8xWA",
+      "source_node_id": "R_kgDOSs8xWA",
+      "full_name": "Dodaios/Dodaios",
+      "source_full_name": "Dodaios/Dodaios",
+      "featured_at": "2026-11-18T21:13:43.062829+00:00",
+      "run_id": "2026-11-18",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOQbUM0Q",
+      "source_node_id": "R_kgDOQbUM0Q",
+      "full_name": "SaladDay/cc-switch-cli",
+      "source_full_name": "SaladDay/cc-switch-cli",
+      "featured_at": "2026-11-18T21:13:43.062833+00:00",
+      "run_id": "2026-11-18",
+      "rank": 10
     }
   ]
 }
