@@ -8550,6 +8550,96 @@
       "featured_at": "2026-11-18T21:13:43.062833+00:00",
       "run_id": "2026-11-18",
       "rank": 10
+    },
+    {
+      "node_id": "R_kgDOSyx1Zg",
+      "source_node_id": "R_kgDOSyx1Zg",
+      "full_name": "mjmirza/app-store-compliance",
+      "source_full_name": "mjmirza/app-store-compliance",
+      "featured_at": "2026-11-19T21:22:26.075805+00:00",
+      "run_id": "2026-11-19",
+      "rank": 1
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNTMwOTc2NDM=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNTMwOTc2NDM=",
+      "full_name": "openvinotoolkit/openvino",
+      "source_full_name": "openvinotoolkit/openvino",
+      "featured_at": "2026-11-19T21:22:26.075831+00:00",
+      "run_id": "2026-11-19",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDOHvxvHg",
+      "source_node_id": "R_kgDOHvxvHg",
+      "full_name": "toeverything/AFFiNE",
+      "source_full_name": "toeverything/AFFiNE",
+      "featured_at": "2026-11-19T21:22:26.075842+00:00",
+      "run_id": "2026-11-19",
+      "rank": 3
+    },
+    {
+      "node_id": "R_kgDONAbAqA",
+      "source_node_id": "R_kgDONAbAqA",
+      "full_name": "datazip-inc/olake-go",
+      "source_full_name": "datazip-inc/olake-go",
+      "featured_at": "2026-11-19T21:22:26.075849+00:00",
+      "run_id": "2026-11-19",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOUZf25g",
+      "source_node_id": "R_kgDOUZf25g",
+      "full_name": "FlashML-org/FreeVideo",
+      "source_full_name": "FlashML-org/FreeVideo",
+      "featured_at": "2026-11-19T21:22:26.075855+00:00",
+      "run_id": "2026-11-19",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDOLD3BMA",
+      "source_node_id": "R_kgDOLD3BMA",
+      "full_name": "agentscope-ai/agentscope",
+      "source_full_name": "agentscope-ai/agentscope",
+      "featured_at": "2026-11-19T21:22:26.075862+00:00",
+      "run_id": "2026-11-19",
+      "rank": 6
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNzkxMjM5OA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzNzkxMjM5OA==",
+      "full_name": "nginx/nginx",
+      "source_full_name": "nginx/nginx",
+      "featured_at": "2026-11-19T21:22:26.075868+00:00",
+      "run_id": "2026-11-19",
+      "rank": 7
+    },
+    {
+      "node_id": "R_kgDOTFsGIg",
+      "source_node_id": "R_kgDOTFsGIg",
+      "full_name": "tianma-if/edgeever",
+      "source_full_name": "tianma-if/edgeever",
+      "featured_at": "2026-11-19T21:22:26.075873+00:00",
+      "run_id": "2026-11-19",
+      "rank": 8
+    },
+    {
+      "node_id": "R_kgDOT8hi1g",
+      "source_node_id": "R_kgDOT8hi1g",
+      "full_name": "babygoton/WorkDaddy",
+      "source_full_name": "babygoton/WorkDaddy",
+      "featured_at": "2026-11-19T21:22:26.075879+00:00",
+      "run_id": "2026-11-19",
+      "rank": 9
+    },
+    {
+      "node_id": "R_kgDOTmctAg",
+      "source_node_id": "R_kgDOTmctAg",
+      "full_name": "HaD0Yun/CozyClay",
+      "source_full_name": "HaD0Yun/CozyClay",
+      "featured_at": "2026-11-19T21:22:26.075885+00:00",
+      "run_id": "2026-11-19",
+      "rank": 10
     }
   ]
 }
