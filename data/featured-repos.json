@@ -8640,6 +8640,69 @@
       "featured_at": "2026-11-19T21:22:26.075885+00:00",
       "run_id": "2026-11-19",
       "rank": 10
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkzMzg4NDg5MQ==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkzMzg4NDg5MQ==",
+      "full_name": "apache/airflow",
+      "source_full_name": "apache/airflow",
+      "featured_at": "2026-11-20T21:02:43.636150+00:00",
+      "run_id": "2026-11-20",
+      "rank": 1
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkyNjM3Mjc4NTU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkyNjM3Mjc4NTU=",
+      "full_name": "pola-rs/polars",
+      "source_full_name": "pola-rs/polars",
+      "featured_at": "2026-11-20T21:02:43.636174+00:00",
+      "run_id": "2026-11-20",
+      "rank": 2
+    },
+    {
+      "node_id": "R_kgDONYurpA",
+      "source_node_id": "R_kgDONYurpA",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "source_full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "featured_at": "2026-11-20T21:02:43.636185+00:00",
+      "run_id": "2026-11-20",
+      "rank": 3
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnk0ODAzMDIwNA==",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnk0ODAzMDIwNA==",
+      "full_name": "visgl/deck.gl",
+      "source_full_name": "visgl/deck.gl",
+      "featured_at": "2026-11-20T21:02:43.636193+00:00",
+      "run_id": "2026-11-20",
+      "rank": 4
+    },
+    {
+      "node_id": "R_kgDOPUyhNQ",
+      "source_node_id": "R_kgDOPUyhNQ",
+      "full_name": "awslabs/cli-agent-orchestrator",
+      "source_full_name": "awslabs/cli-agent-orchestrator",
+      "featured_at": "2026-11-20T21:02:43.636200+00:00",
+      "run_id": "2026-11-20",
+      "rank": 5
+    },
+    {
+      "node_id": "R_kgDONxQEAQ",
+      "source_node_id": "R_kgDONxQEAQ",
+      "full_name": "vllm-project/vllm-ascend",
+      "source_full_name": "vllm-project/vllm-ascend",
+      "featured_at": "2026-11-20T21:02:43.636206+00:00",
+      "run_id": "2026-11-20",
+      "rank": 6
+    },
+    {
+      "node_id": "R_kgDOK5EkJA",
+      "source_node_id": "R_kgDOK5EkJA",
+      "full_name": "pytorch/torchtitan",
+      "source_full_name": "pytorch/torchtitan",
+      "featured_at": "2026-11-20T21:02:43.636212+00:00",
+      "run_id": "2026-11-20",
+      "rank": 7
     }
   ]
 }
