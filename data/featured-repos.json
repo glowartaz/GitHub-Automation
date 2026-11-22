@@ -8703,6 +8703,15 @@
       "featured_at": "2026-11-20T21:02:43.636212+00:00",
       "run_id": "2026-11-20",
       "rank": 7
+    },
+    {
+      "node_id": "MDEwOlJlcG9zaXRvcnkxNTYyMTE4OTU=",
+      "source_node_id": "MDEwOlJlcG9zaXRvcnkxNTYyMTE4OTU=",
+      "full_name": "micromatch/picomatch",
+      "source_full_name": "micromatch/picomatch",
+      "featured_at": "2026-11-22T20:10:41.810924+00:00",
+      "run_id": "2026-11-22",
+      "rank": 1
     }
   ]
 }
