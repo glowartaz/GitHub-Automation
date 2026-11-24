@@ -8712,6 +8712,15 @@
       "featured_at": "2026-11-22T20:10:41.810924+00:00",
       "run_id": "2026-11-22",
       "rank": 1
+    },
+    {
+      "node_id": "R_kgDOOKVFOw",
+      "source_node_id": "R_kgDOOKVFOw",
+      "full_name": "samuelgursky/davinci-resolve-mcp",
+      "source_full_name": "samuelgursky/davinci-resolve-mcp",
+      "featured_at": "2026-11-24T00:38:30.758317+00:00",
+      "run_id": "2026-11-24",
+      "rank": 1
     }
   ]
 }
