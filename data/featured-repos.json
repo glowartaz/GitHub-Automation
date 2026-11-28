@@ -8730,6 +8730,15 @@
       "featured_at": "2026-11-25T22:11:38.542694+00:00",
       "run_id": "2026-11-25",
       "rank": 1
+    },
+    {
+      "node_id": "R_kgDORw9u5A",
+      "source_node_id": "R_kgDORw9u5A",
+      "full_name": "NYLLON-SOFTWARE/SignuDoc",
+      "source_full_name": "NYLLON-SOFTWARE/SignuDoc",
+      "featured_at": "2026-11-28T20:47:54.709186+00:00",
+      "run_id": "2026-11-28",
+      "rank": 1
     }
   ]
 }
